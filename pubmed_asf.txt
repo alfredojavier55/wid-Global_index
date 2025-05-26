@@ -1,0 +1,4205 @@
+PMID- 39937724
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250507
+LR  - 20250507
+IS  - 2150-5608 (Electronic)
+IS  - 2150-5594 (Print)
+IS  - 2150-5594 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2025 Dec
+TI  - Insights and progress on epidemic characteristics, pathogenesis, and preventive 
+      measures of African swine fever virus: A review.
+PG  - 2457949
+LID - 10.1080/21505594.2025.2457949 [doi]
+LID - 2457949
+AB  - The African swine fever virus (ASFV) is the only giant double-stranded DNA virus 
+      known to be transmitted by insect vectors. It can infect pigs and cause clinical 
+      signs such as high fever, bleeding, and splenomegaly, which has been classified 
+      as a reportable disease by the WOAH. In 2018, African swine fever (ASF) was 
+      introduced into China and rapidly spread to several countries in the Asia-Pacific 
+      region, with morbidity and mortality rates reaching 100 percent, resulting in 
+      significant economic losses to the global pig industry. Because ASFV has large 
+      genomes and a complex escape host mechanism, there are currently no safe and 
+      effective drugs or vaccines against it. Therefore, it is necessary to optimize 
+      vaccination procedures and find effective treatments by studying the epidemiology 
+      of ASFV to reduce economic losses. This article reviews research progress on 
+      pathogenesis, genome, proteome and transcriptome, pathogenic mechanisms, and 
+      comprehensive control measures of ASFV infection.
+FAU - Li, Mei
+AU  - Li M
+AD  - College of Veterinary Medicine, China Agricultural University, Beijing, China.
+AD  - State Key Laboratory of Veterinary Etiological Biology, National Foot and Mouth 
+      Diseases Reference Laboratory, Key Laboratory of Animal Virology of Ministry of 
+      Agriculture, Lanzhou Veterinary Research Institute, Chinese Academy of 
+      Agricultural Sciences, Lanzhou, China.
+FAU - Zheng, Haixue
+AU  - Zheng H
+AUID- ORCID: 0009-0005-1950-7893
+AD  - State Key Laboratory of Veterinary Etiological Biology, National Foot and Mouth 
+      Diseases Reference Laboratory, Key Laboratory of Animal Virology of Ministry of 
+      Agriculture, Lanzhou Veterinary Research Institute, Chinese Academy of 
+      Agricultural Sciences, Lanzhou, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20250306
+PL  - United States
+TA  - Virulence
+JT  - Virulence
+JID - 101531386
+RN  - 0 (Viral Vaccines)
+SB  - IM
+MH  - *African Swine Fever/prevention & control/epidemiology/virology
+MH  - *African Swine Fever Virus/pathogenicity/genetics
+MH  - Animals
+MH  - Swine
+MH  - Genome, Viral
+MH  - *Epidemics/veterinary/prevention & control
+MH  - Viral Vaccines/immunology
+PMC - PMC11901552
+OTO - NOTNLM
+OT  - African swine fever virus
+OT  - epidemiological characteristics
+OT  - pathogenesis
+OT  - pathogenic mechanism
+OT  - vaccine
+COIS- No potential conflict of interest was reported by the author(s).
+EDAT- 2025/02/12 18:47
+MHDA- 2025/03/06 18:27
+PMCR- 2025/02/12
+CRDT- 2025/02/12 13:33
+PHST- 2025/03/06 18:27 [medline]
+PHST- 2025/02/12 18:47 [pubmed]
+PHST- 2025/02/12 13:33 [entrez]
+PHST- 2025/02/12 00:00 [pmc-release]
+AID - 2457949 [pii]
+AID - 10.1080/21505594.2025.2457949 [doi]
+PST - ppublish
+SO  - Virulence. 2025 Dec;16(1):2457949. doi: 10.1080/21505594.2025.2457949. Epub 2025 
+      Mar 6.
+
+PMID- 27938676
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170510
+LR  - 20171203
+IS  - 1873-2542 (Electronic)
+IS  - 0378-1135 (Linking)
+VI  - 197
+DP  - 2016 Dec 25
+TI  - Control of African swine fever epidemics in industrialized swine populations.
+PG  - 142-150
+LID - S0378-1135(16)30260-7 [pii]
+LID - 10.1016/j.vetmic.2016.11.023 [doi]
+AB  - African swine fever (ASF) is a notifiable infectious disease with a high impact 
+      on swine health. The disease is endemic in certain regions in the Baltic 
+      countries and has spread to Poland constituting a risk of ASF spread toward 
+      Western Europe. Therefore, as part of contingency planning, it is important to 
+      explore strategies that can effectively control an epidemic of ASF. In this 
+      study, the epidemiological and economic effects of strategies to control the 
+      spread of ASF between domestic swine herds were examined using a published model 
+      (DTU-DADS-ASF). The control strategies were the basic EU and national strategy 
+      (Basic), the basic strategy plus pre-emptive depopulation of neighboring swine 
+      herds, and intensive surveillance of herds in the control zones, including 
+      testing live or dead animals. Virus spread via wild boar was not modelled. Under 
+      the basic control strategy, the median epidemic duration was predicted to be 
+      21days (5th and 95th percentiles; 1-55days), the median number of infected herds 
+      was predicted to be 3 herds (1-8), and the total costs were predicted to be €326 
+      million (€256-€442 million). Adding pre-emptive depopulation or intensive 
+      surveillance by testing live animals resulted in marginal improvements to the 
+      control of the epidemics. However, adding testing of dead animals in the 
+      protection and surveillance zones was predicted to be the optimal control 
+      scenario for an ASF epidemic in industrialized swine populations without contact 
+      to wild boar. This optimal scenario reduced the epidemic duration to 9days (1-38) 
+      and the total costs to €294 million (€257-€392 million). Export losses were the 
+      driving force of the total costs of the epidemics.
+CI  - Copyright © 2016 Elsevier B.V. All rights reserved.
+FAU - Halasa, Tariq
+AU  - Halasa T
+AD  - National Veterinary Institute, Technical University of Denmark, Copenhagen, 
+      Denmark. Electronic address: tahbh@vet.dtu.dk.
+FAU - Bøtner, Anette
+AU  - Bøtner A
+AD  - National Veterinary Institute, Technical University of Denmark, Copenhagen, 
+      Denmark.
+FAU - Mortensen, Sten
+AU  - Mortensen S
+AD  - Danish Veterinary and Food Administration, Ministry of Environment and Food, 
+      Glostrup, Denmark.
+FAU - Christensen, Hanne
+AU  - Christensen H
+AD  - Danish Veterinary and Food Administration, Ministry of Environment and Food, 
+      Glostrup, Denmark.
+FAU - Toft, Nils
+AU  - Toft N
+AD  - National Veterinary Institute, Technical University of Denmark, Copenhagen, 
+      Denmark.
+FAU - Boklund, Anette
+AU  - Boklund A
+AD  - National Veterinary Institute, Technical University of Denmark, Copenhagen, 
+      Denmark.
+LA  - eng
+PT  - Journal Article
+DEP - 20161122
+PL  - Netherlands
+TA  - Vet Microbiol
+JT  - Veterinary microbiology
+JID - 7705469
+SB  - IM
+MH  - African Swine Fever/*epidemiology/*prevention & control
+MH  - Animal Husbandry
+MH  - Animals
+MH  - Computer Simulation
+MH  - *Epidemics
+MH  - *Models, Biological
+MH  - Swine
+OTO - NOTNLM
+OT  - African swine fever
+OT  - Control
+OT  - Simulation model
+OT  - Spread
+EDAT- 2016/12/13 06:00
+MHDA- 2017/05/11 06:00
+CRDT- 2016/12/13 06:00
+PHST- 2016/08/30 00:00 [received]
+PHST- 2016/11/11 00:00 [revised]
+PHST- 2016/11/14 00:00 [accepted]
+PHST- 2016/12/13 06:00 [entrez]
+PHST- 2016/12/13 06:00 [pubmed]
+PHST- 2017/05/11 06:00 [medline]
+AID - S0378-1135(16)30260-7 [pii]
+AID - 10.1016/j.vetmic.2016.11.023 [doi]
+PST - ppublish
+SO  - Vet Microbiol. 2016 Dec 25;197:142-150. doi: 10.1016/j.vetmic.2016.11.023. Epub 
+      2016 Nov 22.
+
+PMID- 37306707
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230717
+LR  - 20230718
+IS  - 1432-0614 (Electronic)
+IS  - 0175-7598 (Linking)
+VI  - 107
+IP  - 15
+DP  - 2023 Aug
+TI  - Quickly assessing disinfection effectiveness to control the spread of African 
+      swine fever virus.
+PG  - 4947-4959
+LID - 10.1007/s00253-023-12611-3 [doi]
+AB  - Infectious African swine fever virus (ASFV) can cause the spread and morbidity of 
+      African swine fever, while the inactivated virus cannot. When they are not 
+      distinguished separately, the detection results will lack authenticity and cause 
+      unnecessary panic and detection cost. The detection technology based on cell 
+      culture is complex, high-cost, and time-consuming in practice, which is not 
+      conducive to the rapid detection of infectious ASFV. In this study, a propidium 
+      monoazide (PMA) qPCR detection method for rapid diagnosis of infectious ASFV was 
+      constructed. Parameters of PMA concentration, light intensity, and lighting time 
+      were under strict safety verification and comparative analysis for optimization. 
+      The results determined that the optimal condition for PMA to pretreat ASFV was 
+      the final concentration of PMA 100 μM. The light intensity was 40 W, the light 
+      duration was 20 min, the target fragment size of the optimal primer probe was 
+      484 bp, and its detection sensitivity for infectious ASFV was 10(1.28) 
+      HAD(50)/mL. In addition, the method was innovatively applied to the rapid 
+      evaluation of disinfection effect. When ASFV concentration was less than 10(2.28) 
+      HAD(50)/mL, the method could still be effective for the evaluation of thermal 
+      inactivation effect, and the evaluation ability of chlorine-containing 
+      disinfectants was better, and the applicable concentration could reach 10(5.28) 
+      HAD(50)/mL. It is worth mentioning that this method can not only reflect whether 
+      the virus is inactivated, but also indirectly reflect the degree of damage to 
+      viral nucleic acid caused by disinfectants. In conclusion, the PMA-qPCR 
+      constructed in this study can be applied to laboratory diagnosis, disinfection 
+      effect evaluation, drug development, and other aspects of infectious ASFV and can 
+      provide new technical support for effective prevention and control of ASF. KEY 
+      POINTS: • A rapid detection method for infectious ASFV was developed • Provide a 
+      new scheme for rapid evaluation of disinfection effect of chlorine-containing 
+      disinfectants • PMA-qPCR can simultaneously show the survival status of the virus 
+      and the damage of nucleic acid.
+CI  - © 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Zeng, Dexin
+AU  - Zeng D
+AD  - National Key Laboratory of Meat Quality Control and New Resource Creation, 
+      Nanjing Agricultural University, Nanjing, 210095, People's Republic of China.
+AD  - Technical Center of Hefei Customs, Hefei, 230022, People's Republic of China.
+FAU - Qian, Bingxu
+AU  - Qian B
+AD  - National Key Laboratory of Meat Quality Control and New Resource Creation, 
+      Nanjing Agricultural University, Nanjing, 210095, People's Republic of China.
+FAU - Li, Yunfei
+AU  - Li Y
+AD  - Technical Center of Hefei Customs, Hefei, 230022, People's Republic of China.
+AD  - Technology Center of Hefei Customs, Anhui Province Key Laboratory of Analysis and 
+      Detection for Food Safety, Hefei, Anhui, 230022, People's Republic of China.
+FAU - Zong, Kai
+AU  - Zong K
+AD  - Technical Center of Hefei Customs, Hefei, 230022, People's Republic of China.
+AD  - Technology Center of Hefei Customs, Anhui Province Key Laboratory of Analysis and 
+      Detection for Food Safety, Hefei, Anhui, 230022, People's Republic of China.
+FAU - Ding, Liu
+AU  - Ding L
+AD  - Technical Center of Hefei Customs, Hefei, 230022, People's Republic of China.
+FAU - Wang, Manman
+AU  - Wang M
+AD  - Technical Center of Hefei Customs, Hefei, 230022, People's Republic of China.
+FAU - Zhou, Tingting
+AU  - Zhou T
+AD  - Technical Center of Hefei Customs, Hefei, 230022, People's Republic of China.
+FAU - Lv, Xiaying
+AU  - Lv X
+AD  - Technical Center of Hefei Customs, Hefei, 230022, People's Republic of China.
+FAU - Zhu, Kun
+AU  - Zhu K
+AD  - BeiJing OriginGene-Tech Biotechnology Co., Ltd, Beijing, 100176, People's 
+      Republic of China.
+AD  - Suzhou Bolikang Biotechnology Co., Ltd, Suzhou, 215151, People's Republic of 
+      China.
+FAU - Yu, Xiaofeng
+AU  - Yu X
+AD  - Technical Center of Hefei Customs, Hefei, 230022, People's Republic of China.
+AD  - Technology Center of Hefei Customs, Anhui Province Key Laboratory of Analysis and 
+      Detection for Food Safety, Hefei, Anhui, 230022, People's Republic of China.
+FAU - Jiang, Yuan
+AU  - Jiang Y
+AD  - Animal, Plant and Food Inspection Center of Nanjing Customs, Nanjing, 210095, 
+      People's Republic of China.
+FAU - Wu, Xiaodong
+AU  - Wu X
+AD  - China Animal Health and Epidemiology Center, Qingdao, Shandong, 266032, People's 
+      Republic of China. wuxiaodong@cahec.cn.
+FAU - Xue, Feng
+AU  - Xue F
+AUID- ORCID: 0000-0002-2437-9858
+AD  - National Key Laboratory of Meat Quality Control and New Resource Creation, 
+      Nanjing Agricultural University, Nanjing, 210095, People's Republic of China. 
+      xuefeng@njau.edu.cn.
+AD  - Sanya Institute of Nanjing Agricultural University, Sanfya, 572000, People's 
+      Republic of China. xuefeng@njau.edu.cn.
+FAU - Dai, Jianjun
+AU  - Dai J
+AD  - National Key Laboratory of Meat Quality Control and New Resource Creation, 
+      Nanjing Agricultural University, Nanjing, 210095, People's Republic of China.
+LA  - eng
+GR  - 2021YFD1800500/National Key Research and Development Program of China/
+GR  - ZDYF2022XDNY248/Hainan Province Scicence and Technology Special Fund/
+GR  - CX (21) 2038/Jiangsu Agricultural Science and Technology Independent Innovation 
+      Fund Project/
+GR  - NAUSY-ZD08/Sanya Nanjing Agricultural University Research Institute Guiding Fund 
+      Project/
+PT  - Journal Article
+DEP - 20230612
+PL  - Germany
+TA  - Appl Microbiol Biotechnol
+JT  - Applied microbiology and biotechnology
+JID - 8406612
+RN  - 4R7X1O2820 (Chlorine)
+RN  - 0 (Disinfectants)
+SB  - IM
+MH  - Swine
+MH  - Animals
+MH  - *African Swine Fever Virus
+MH  - *African Swine Fever/prevention & control
+MH  - Disinfection/methods
+MH  - Chlorine/pharmacology
+MH  - *Disinfectants/pharmacology
+OTO - NOTNLM
+OT  - ASF
+OT  - ASFV
+OT  - Evaluation of disinfection effect
+OT  - Infectious virus
+OT  - PMA
+EDAT- 2023/06/12 13:06
+MHDA- 2023/07/17 06:42
+CRDT- 2023/06/12 11:03
+PHST- 2023/03/19 00:00 [received]
+PHST- 2023/05/23 00:00 [accepted]
+PHST- 2023/05/17 00:00 [revised]
+PHST- 2023/07/17 06:42 [medline]
+PHST- 2023/06/12 13:06 [pubmed]
+PHST- 2023/06/12 11:03 [entrez]
+AID - 10.1007/s00253-023-12611-3 [pii]
+AID - 10.1007/s00253-023-12611-3 [doi]
+PST - ppublish
+SO  - Appl Microbiol Biotechnol. 2023 Aug;107(15):4947-4959. doi: 
+      10.1007/s00253-023-12611-3. Epub 2023 Jun 12.
+
+PMID- 36700212
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230130
+LR  - 20230202
+IS  - 1664-3224 (Electronic)
+IS  - 1664-3224 (Linking)
+VI  - 13
+DP  - 2022
+TI  - A highly efficient indirect ELISA and monoclonal antibody established against 
+      African swine fever virus pK205R.
+PG  - 1103166
+LID - 10.3389/fimmu.2022.1103166 [doi]
+LID - 1103166
+AB  - African swine fever (ASF) is a contagious infectious disease with high lethality 
+      which continuously threatens the global pig industry causing huge economic 
+      losses. Currently, there are no commercially available vaccines or antiviral 
+      drugs that can effectively control ASF. The pathogen of ASF, ASF virus (ASFV) is 
+      a double-stranded DNA virus with a genome ranging from 170 to 193 kb and 151 to 
+      167 open reading frames in various strains, which encodes 150-200 proteins. An 
+      effective method of monitoring ASFV antibodies, and specific antibodies against 
+      ASFV to promote the development of prevention techniques are urgently needed. In 
+      the present study, pK205R of ASFV was successfully expressed in mammalian cells 
+      using a suspension culture system. An indirect enzyme-linked immunosorbent assay 
+      (ELISA) based on the purified pK205R was established and optimized. The 
+      monoclonal antibody (mAb) against pK205R recognized a conservative linear epitope 
+      ((2)VEPREQFFQDLLSAV(16)) and exhibited specific reactivity, which was conducive 
+      to the identification of the recombinant porcine reproductive and respiratory 
+      syndrome virus (PRRSV) expressing pK205R. The ELISA method efficiently detected 
+      clinical ASFV infection and revealed good application prospects in monitoring the 
+      antibody level in vivo for recombinant PRRSV live vector virus expressing the 
+      ASFV antigen protein. The determination of the conserved linear epitope of pK205R 
+      would contribute to further research on the structural biology and function of 
+      pK205R. The indirect ELISA method and mAb against ASFV pK205R revealed efficient 
+      detection and promising application prospects, making them ideal for 
+      epidemiological surveillance and vaccine research on ASF.
+CI  - Copyright © 2023 Li, Qiao, Liu, Zhou, Tong, Dong, Liu, Jiang, Guo, Zheng, Zhao, 
+      Tong, Li and Gao.
+FAU - Li, Liwei
+AU  - Li L
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+FAU - Qiao, Sina
+AU  - Qiao S
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+AD  - College of Veterinary Medicine, Hebei Agricultural University, Baoding, China.
+FAU - Liu, Jiachen
+AU  - Liu J
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+FAU - Zhou, Yanjun
+AU  - Zhou Y
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+FAU - Tong, Wu
+AU  - Tong W
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+FAU - Dong, Shishan
+AU  - Dong S
+AD  - College of Veterinary Medicine, Hebei Agricultural University, Baoding, China.
+FAU - Liu, Changlong
+AU  - Liu C
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+FAU - Jiang, Yifeng
+AU  - Jiang Y
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+FAU - Guo, Ziqiang
+AU  - Guo Z
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+FAU - Zheng, Haihong
+AU  - Zheng H
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+FAU - Zhao, Ran
+AU  - Zhao R
+AD  - Xiamen Center for Animal Disease Control and Prevention, Xiamen, China.
+FAU - Tong, Guangzhi
+AU  - Tong G
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+FAU - Li, Guoxin
+AU  - Li G
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+AD  - Jiangsu Co-Innovation Center for the Prevention and Control of Important Animal 
+      Infectious Disease and Zoonose, Yangzhou University, Yangzhou, China.
+FAU - Gao, Fei
+AU  - Gao F
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai, China.
+AD  - Jiangsu Co-Innovation Center for the Prevention and Control of Important Animal 
+      Infectious Disease and Zoonose, Yangzhou University, Yangzhou, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20230109
+PL  - Switzerland
+TA  - Front Immunol
+JT  - Frontiers in immunology
+JID - 101560960
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Viral Proteins)
+SB  - IM
+MH  - Animals
+MH  - *African Swine Fever
+MH  - *African Swine Fever Virus
+MH  - *Antibodies, Monoclonal/immunology
+MH  - Enzyme-Linked Immunosorbent Assay/methods
+MH  - Swine
+MH  - Viral Proteins
+PMC - PMC9868132
+OTO - NOTNLM
+OT  - 293i cells
+OT  - ASFV pK205R
+OT  - epitope
+OT  - indirect ELISA
+OT  - recombinant PRRSV
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2023/01/27 06:00
+MHDA- 2023/01/28 06:00
+PMCR- 2022/01/01
+CRDT- 2023/01/26 02:55
+PHST- 2022/11/20 00:00 [received]
+PHST- 2022/12/21 00:00 [accepted]
+PHST- 2023/01/26 02:55 [entrez]
+PHST- 2023/01/27 06:00 [pubmed]
+PHST- 2023/01/28 06:00 [medline]
+PHST- 2022/01/01 00:00 [pmc-release]
+AID - 10.3389/fimmu.2022.1103166 [doi]
+PST - epublish
+SO  - Front Immunol. 2023 Jan 9;13:1103166. doi: 10.3389/fimmu.2022.1103166. 
+      eCollection 2022.
+
+PMID- 36680090
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20230124
+LR  - 20231116
+IS  - 1999-4915 (Electronic)
+IS  - 1999-4915 (Linking)
+VI  - 15
+IP  - 1
+DP  - 2022 Dec 23
+TI  - The Indirect ELISA and Monoclonal Antibody against African Swine Fever Virus p17 
+      Revealed Efficient Detection and Application Prospects.
+LID - 10.3390/v15010050 [doi]
+LID - 50
+AB  - Since 2018, the outbreak and prevalence of the African swine fever virus (ASFV) 
+      in China have caused huge economic losses. Less virulent ASFVs emerged in 2020, 
+      which led to difficulties and challenges for early diagnosis and control of 
+      African swine fever (ASF) in China. An effective method of monitoring ASFV 
+      antibodies and specific antibodies against ASFV to promote the development of 
+      prevention techniques are urgently needed. In the present study, ASFV p17 was 
+      successfully expressed in CHO cells using a suspension culture system. An 
+      indirect enzyme-linked immunosorbent assay (ELISA) based on purified p17 was 
+      established and optimized. The monoclonal antibody (mAb) against p17 recognized a 
+      conservative linear epitope ((3)TETSPLLSH(11)) and exhibited specific reactivity, 
+      which was conducive to the identification of recombinant porcine reproductive and 
+      respiratory syndrome virus (PRRSV) expressing p17. The ELISA method efficiently 
+      detected clinical ASFV infection and effectively monitored the antibody levels in 
+      vivo after recombinant PRRSV live vector virus expressing p17 vaccination. 
+      Overall, the determination of the conserved linear epitope of p17 would 
+      contribute to the in-depth exploration of the biological function of the ASFV 
+      antigen protein. The indirect ELISA method and mAb against ASFV p17 revealed 
+      efficient detection and promising application prospects, making them ideal for 
+      epidemiological surveillance and vaccine research on ASF.
+FAU - Li, Liwei
+AU  - Li L
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai 200241, China.
+FAU - Qiao, Sina
+AU  - Qiao S
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai 200241, China.
+AD  - College of Veterinary Medicine, Hebei Agricultural University, Baoding 071001, 
+      China.
+FAU - Li, Guoxin
+AU  - Li G
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai 200241, China.
+FAU - Tong, Wu
+AU  - Tong W
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai 200241, China.
+FAU - Dong, Shishan
+AU  - Dong S
+AD  - College of Veterinary Medicine, Hebei Agricultural University, Baoding 071001, 
+      China.
+FAU - Liu, Jiachen
+AU  - Liu J
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai 200241, China.
+FAU - Guo, Ziqiang
+AU  - Guo Z
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai 200241, China.
+FAU - Zheng, Haihong
+AU  - Zheng H
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai 200241, China.
+FAU - Zhao, Ran
+AU  - Zhao R
+AD  - Xiamen Center for Animal Disease Control and Prevention, Xiamen 361009, China.
+FAU - Tong, Guangzhi
+AU  - Tong G
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai 200241, China.
+FAU - Zhou, Yanjun
+AU  - Zhou Y
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai 200241, China.
+AD  - Jiangsu Co-Innovation Center for the Prevention and Control of Important Animal 
+      Infectious Disease and Zoonosis, Yangzhou University, Yangzhou 225009, China.
+FAU - Gao, Fei
+AU  - Gao F
+AUID- ORCID: 0000-0003-2291-8712
+AD  - Shanghai Veterinary Research Institute, Chinese Academy of Agricultural Sciences, 
+      Shanghai 200241, China.
+AD  - Jiangsu Co-Innovation Center for the Prevention and Control of Important Animal 
+      Infectious Disease and Zoonosis, Yangzhou University, Yangzhou 225009, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20221223
+PL  - Switzerland
+TA  - Viruses
+JT  - Viruses
+JID - 101509722
+RN  - 0 (Viral Proteins)
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (Vaccines, Synthetic)
+RN  - 0 (Antibodies, Viral)
+SB  - IM
+MH  - Swine
+MH  - Animals
+MH  - Cricetinae
+MH  - *African Swine Fever Virus
+MH  - *African Swine Fever/diagnosis/prevention & control/epidemiology
+MH  - Viral Proteins
+MH  - Antibodies, Monoclonal
+MH  - Cricetulus
+MH  - Vaccines, Synthetic
+MH  - Enzyme-Linked Immunosorbent Assay
+MH  - Antibodies, Viral
+PMC - PMC9865993
+OTO - NOTNLM
+OT  - ASFV p17
+OT  - CHO cells
+OT  - epitope
+OT  - indirect ELISA
+OT  - recombinant PRRSV
+COIS- The authors declare that they have no conflict of interest associated with this 
+      study.
+EDAT- 2023/01/22 06:00
+MHDA- 2023/01/25 06:00
+PMCR- 2022/12/23
+CRDT- 2023/01/21 01:58
+PHST- 2022/12/09 00:00 [received]
+PHST- 2022/12/20 00:00 [revised]
+PHST- 2022/12/21 00:00 [accepted]
+PHST- 2023/01/21 01:58 [entrez]
+PHST- 2023/01/22 06:00 [pubmed]
+PHST- 2023/01/25 06:00 [medline]
+PHST- 2022/12/23 00:00 [pmc-release]
+AID - v15010050 [pii]
+AID - viruses-15-00050 [pii]
+AID - 10.3390/v15010050 [doi]
+PST - epublish
+SO  - Viruses. 2022 Dec 23;15(1):50. doi: 10.3390/v15010050.
+
+PMID- 26664978
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20151215
+LR  - 20201001
+IS  - 2297-1769 (Print)
+IS  - 2297-1769 (Electronic)
+IS  - 2297-1769 (Linking)
+VI  - 2
+DP  - 2015
+TI  - African Swine Fever in Uganda: Qualitative Evaluation of Three Surveillance 
+      Methods with Implications for Other Resource-Poor Settings.
+PG  - 51
+LID - 10.3389/fvets.2015.00051 [doi]
+LID - 51
+AB  - Animal diseases impact negatively on households and on national economies. In 
+      low-income countries, this pertains especially to socio-economic effects on 
+      household level. To control animal diseases and mitigate their impact, it is 
+      necessary to understand the epidemiology of the disease in its local context. 
+      Such understanding, gained through disease surveillance, is often lacking in 
+      resource-poor settings. Alternative surveillance methods have been developed to 
+      overcome some of the hurdles obstructing surveillance. The objective of this 
+      study was to evaluate and qualitatively compare three methods for surveillance of 
+      acute infectious diseases using African swine fever in northern Uganda as an 
+      example. Report-driven outbreak investigations, participatory rural appraisals 
+      (PRAs), and a household survey using a smartphone application were evaluated. All 
+      three methods had good disease-detecting capacity, and each of them detected many 
+      more outbreaks compared to those reported to the World Organization for Animal 
+      Health during the same time period. Apparent mortality rates were similar for the 
+      three methods although highest for the report-driven outbreak investigations, 
+      followed by the PRAs, and then the household survey. The three methods have 
+      different characteristics and the method of choice will depend on the 
+      surveillance objective. The optimal situation might be achieved by a combination 
+      of the methods: outbreak detection via smartphone-based real-time surveillance, 
+      outbreak investigation for collection of biological samples, and a PRA for a 
+      better understanding of the epidemiology of the specific outbreak. All three 
+      methods require initial investments and continuous efforts. The sustainability of 
+      the surveillance system should, therefore, be carefully evaluated before making 
+      such investments.
+FAU - Chenais, Erika
+AU  - Chenais E
+AD  - National Veterinary Institute , Uppsala , Sweden ; Swedish University of 
+      Agricultural Sciences , Uppsala , Sweden.
+FAU - Sternberg-Lewerin, Susanna
+AU  - Sternberg-Lewerin S
+AD  - Swedish University of Agricultural Sciences , Uppsala , Sweden.
+FAU - Boqvist, Sofia
+AU  - Boqvist S
+AD  - Swedish University of Agricultural Sciences , Uppsala , Sweden.
+FAU - Emanuelson, Ulf
+AU  - Emanuelson U
+AD  - Swedish University of Agricultural Sciences , Uppsala , Sweden.
+FAU - Aliro, Tonny
+AU  - Aliro T
+AD  - Gulu District Local Government , Gulu , Uganda.
+FAU - Tejler, Emma
+AU  - Tejler E
+AD  - Torslanda Djurklinik , Torslanda , Sweden.
+FAU - Cocca, Giampaolo
+AU  - Cocca G
+AD  - National Veterinary Institute , Uppsala , Sweden.
+FAU - Masembe, Charles
+AU  - Masembe C
+AD  - Makerere University , Kampala , Uganda.
+FAU - Ståhl, Karl
+AU  - Ståhl K
+AD  - National Veterinary Institute , Uppsala , Sweden ; Swedish University of 
+      Agricultural Sciences , Uppsala , Sweden.
+LA  - eng
+PT  - Journal Article
+DEP - 20151028
+PL  - Switzerland
+TA  - Front Vet Sci
+JT  - Frontiers in veterinary science
+JID - 101666658
+PMC - PMC4673915
+OTO - NOTNLM
+OT  - disease detection
+OT  - infectious animal diseases
+OT  - low-income countries
+OT  - outbreak investigation
+OT  - participatory epidemiology
+OT  - smartphone
+EDAT- 2015/12/15 06:00
+MHDA- 2015/12/15 06:01
+PMCR- 2015/01/01
+CRDT- 2015/12/15 06:00
+PHST- 2015/08/21 00:00 [received]
+PHST- 2015/10/14 00:00 [accepted]
+PHST- 2015/12/15 06:00 [entrez]
+PHST- 2015/12/15 06:00 [pubmed]
+PHST- 2015/12/15 06:01 [medline]
+PHST- 2015/01/01 00:00 [pmc-release]
+AID - 10.3389/fvets.2015.00051 [doi]
+PST - epublish
+SO  - Front Vet Sci. 2015 Oct 28;2:51. doi: 10.3389/fvets.2015.00051. eCollection 2015.
+
+PMID- 33930624
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240222
+IS  - 1873-1716 (Electronic)
+IS  - 0167-5877 (Linking)
+VI  - 191
+DP  - 2021 Apr 18
+TI  - Mechanistic modelling of African swine fever: A systematic review.
+PG  - 105358
+LID - S0167-5877(21)00102-1 [pii]
+LID - 10.1016/j.prevetmed.2021.105358 [doi]
+AB  - The spread of African swine fever (ASF) poses a grave threat to the global swine 
+      industry. Without an available vaccine, understanding transmission dynamics is 
+      essential for designing effective prevention, surveillance, and intervention 
+      strategies. These dynamics can often be unraveled through mechanistic modelling. 
+      To examine the assumptions on transmission and objectives of the mechanistic 
+      models of ASF, a systematic review of the scientific literature was conducted. 
+      Articles were examined across multiple epidemiological and model characteristics, 
+      with filiation between models determined through the creation of a 
+      neighbor-joined tree using phylogenetic software. Thirty-four articles qualified 
+      for inclusion, with four main modelling objectives identified: estimating 
+      transmission parameters (11 studies), assessing determinants of transmission (7), 
+      examining consequences of hypothetical outbreaks (5), assessing alternative 
+      control strategies (11). Population-based (17), metapopulation (5), and 
+      individual-based (12) model frameworks were represented, with population-based 
+      and metapopulation models predominantly used among domestic pigs, and 
+      individual-based models predominantly represented among wild boar. The majority 
+      of models (25) were parameterized to the genotype II isolates currently 
+      circulating in Europe and Asia. Estimated transmission parameters varied widely 
+      among ASFV strains, locations, and transmission scale. Similarly, parameter 
+      assumptions between models varied extensively. Uncertainties on epidemiological 
+      and ecological parameters were usually accounted for to assess the impact of 
+      parameter values on the modelled infection trajectory. To date, almost all models 
+      are host specific, being developed for either domestic pigs or wild boar despite 
+      the fact that spillover events between domestic pigs and wild boar are evidenced 
+      to play an important role in ASF outbreaks. Consequently, the development of more 
+      models incorporating such transmission routes is crucial. A variety of codified 
+      and hypothetical control strategies were compared however they were all a priori 
+      defined interventions. Future models, built to identify the optimal contributions 
+      across many control methods for achieving specific outcomes should provide more 
+      useful information for policy-makers. Further, control strategies were examined 
+      in competition with each other, which is opposed to how they would actually be 
+      synergistically implemented. While comparing strategies is beneficial for 
+      identifying a rank-order efficacy of control methods, this structure does not 
+      necessarily determine the most effective combination of all available strategies. 
+      In order for ASFV models to effectively support decision-making in controlling 
+      ASFV globally, these modelling limitations need to be addressed.
+CI  - Copyright © 2021 Elsevier B.V. All rights reserved.
+FAU - Hayes, Brandon H
+AU  - Hayes BH
+AD  - UMR ENVT-INRAE IHAP, National Veterinary School of Toulouse, 31000, Toulouse, 
+      France; Epidemiology Health and Welfare Department, Ploufragan-Plouzané-Niort 
+      Laboratory, French Agency for Food, Environmental and Occupational Health & 
+      Safety (ANSES), 22440, Ploufragan, France. Electronic address: 
+      brandon.hayes@envt.fr.
+FAU - Andraud, Mathieu
+AU  - Andraud M
+AD  - Epidemiology Health and Welfare Department, Ploufragan-Plouzané-Niort Laboratory, 
+      French Agency for Food, Environmental and Occupational Health & Safety (ANSES), 
+      22440, Ploufragan, France.
+FAU - Salazar, Luis G
+AU  - Salazar LG
+AD  - Epidemiology Health and Welfare Department, Ploufragan-Plouzané-Niort Laboratory, 
+      French Agency for Food, Environmental and Occupational Health & Safety (ANSES), 
+      22440, Ploufragan, France.
+FAU - Rose, Nicolas
+AU  - Rose N
+AD  - Epidemiology Health and Welfare Department, Ploufragan-Plouzané-Niort Laboratory, 
+      French Agency for Food, Environmental and Occupational Health & Safety (ANSES), 
+      22440, Ploufragan, France.
+FAU - Vergne, Timothée
+AU  - Vergne T
+AD  - UMR ENVT-INRAE IHAP, National Veterinary School of Toulouse, 31000, Toulouse, 
+      France.
+LA  - eng
+PT  - Journal Article
+DEP - 20210418
+PL  - Netherlands
+TA  - Prev Vet Med
+JT  - Preventive veterinary medicine
+JID - 8217463
+SB  - IM
+OTO - NOTNLM
+OT  - African swine fever
+OT  - Modelling
+OT  - Phylogenetic tree
+OT  - Systematic review
+EDAT- 2021/05/01 06:00
+MHDA- 2021/05/01 06:01
+CRDT- 2021/04/30 20:23
+PHST- 2020/10/09 00:00 [received]
+PHST- 2021/04/06 00:00 [revised]
+PHST- 2021/04/13 00:00 [accepted]
+PHST- 2021/05/01 06:01 [medline]
+PHST- 2021/05/01 06:00 [pubmed]
+PHST- 2021/04/30 20:23 [entrez]
+AID - S0167-5877(21)00102-1 [pii]
+AID - 10.1016/j.prevetmed.2021.105358 [doi]
+PST - aheadofprint
+SO  - Prev Vet Med. 2021 Apr 18;191:105358. doi: 10.1016/j.prevetmed.2021.105358.
+
+PMID- 32211160
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240328
+IS  - 2045-7758 (Print)
+IS  - 2045-7758 (Electronic)
+IS  - 2045-7758 (Linking)
+VI  - 10
+IP  - 6
+DP  - 2020 Mar
+TI  - Ecological drivers of African swine fever virus persistence in wild boar 
+      populations: Insight for control.
+PG  - 2846-2859
+LID - 10.1002/ece3.6100 [doi]
+AB  - Environmental sources of infection can play a primary role in shaping 
+      epidemiological dynamics; however, the relative impact of environmental 
+      transmission on host-pathogen systems is rarely estimated. We developed and fit a 
+      spatially explicit model of African swine fever virus (ASFV) in wild boar to 
+      estimate what proportion of carcass-based transmission is contributing to the 
+      low-level persistence of ASFV in Eastern European wild boar. Our model was 
+      developed based on ecological insight and data from field studies of ASFV and 
+      wild boar in Eastern Poland. We predicted that carcass-based transmission would 
+      play a substantial role in persistence, especially in low-density host 
+      populations where contact rates are low. By fitting the model to outbreak data 
+      using approximate Bayesian computation, we inferred that between 53% and 66% of 
+      transmission events were carcass-based that is, transmitted through contact of a 
+      live host with a contaminated carcass. Model fitting and sensitivity analyses 
+      showed that the frequency of carcass-based transmission increased with decreasing 
+      host density, suggesting that management policies should emphasize the removal of 
+      carcasses and consider how reductions in host densities may drive carcass-based 
+      transmission. Sensitivity analyses also demonstrated that carcass-based 
+      transmission is necessary for the autonomous persistence of ASFV under realistic 
+      parameters. Autonomous persistence through direct transmission alone required 
+      high host densities; otherwise re-introduction of virus periodically was required 
+      for persistence when direct transmission probabilities were moderately high. We 
+      quantify the relative role of different persistence mechanisms for a 
+      low-prevalence disease using readily collected ecological data and viral 
+      surveillance data. Understanding how the frequency of different transmission 
+      mechanisms vary across host densities can help identify optimal management 
+      strategies across changing ecological conditions.
+CI  - © 2020 The Authors. Ecology and Evolution published by John Wiley & Sons Ltd This 
+      article has been contributed to by US Government employees and their work is in 
+      the public domain in the USA.
+FAU - Pepin, Kim M
+AU  - Pepin KM
+AD  - National Wildlife Research Center USDA APHIS Fort Collins CO USA.
+FAU - Golnar, Andrew J
+AU  - Golnar AJ
+AUID- ORCID: 0000-0003-0747-5271
+AD  - National Wildlife Research Center USDA APHIS Fort Collins CO USA.
+FAU - Abdo, Zaid
+AU  - Abdo Z
+AD  - Microbiology, Immunology, and Pathology Colorado State University Fort Collins CO 
+      USA.
+FAU - Podgórski, Tomasz
+AU  - Podgórski T
+AD  - Mammal Research Institute Polish Academy of Sciences Białowieża Poland.
+AD  - Department of Game Management and Wildlife Biology Faculty of Forestry and Wood 
+      Sciences Czech University of Life Sciences Praha 6 Czech Republic.
+LA  - eng
+SI  - Dryad/10.5061/dryad.79cnp5hrv
+PT  - Journal Article
+DEP - 20200218
+PL  - England
+TA  - Ecol Evol
+JT  - Ecology and evolution
+JID - 101566408
+PMC - PMC7083705
+OTO - NOTNLM
+OT  - African swine fever
+OT  - approximate Bayesian computation
+OT  - carcass
+OT  - environmental transmission
+OT  - persistence
+OT  - spatial model
+OT  - transmission
+OT  - wild boar
+EDAT- 2020/03/27 06:00
+MHDA- 2020/03/27 06:01
+PMCR- 2020/03/01
+CRDT- 2020/03/27 06:00
+PHST- 2019/10/04 00:00 [received]
+PHST- 2020/01/12 00:00 [accepted]
+PHST- 2020/03/27 06:00 [entrez]
+PHST- 2020/03/27 06:00 [pubmed]
+PHST- 2020/03/27 06:01 [medline]
+PHST- 2020/03/01 00:00 [pmc-release]
+AID - ECE36100 [pii]
+AID - 10.1002/ece3.6100 [doi]
+PST - epublish
+SO  - Ecol Evol. 2020 Feb 18;10(6):2846-2859. doi: 10.1002/ece3.6100. eCollection 2020 
+      Mar.
+
+PMID- 38206527
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240112
+LR  - 20240201
+IS  - 1573-7438 (Electronic)
+IS  - 0049-4747 (Linking)
+VI  - 56
+IP  - 1
+DP  - 2024 Jan 11
+TI  - Spatio-temporal dynamics and distributional trend analysis of African swine fever 
+      outbreaks (2020-2021) in North-East India.
+PG  - 39
+LID - 10.1007/s11250-023-03883-y [doi]
+AB  - African swine fever (ASF) is a highly contagious, notifiable, and fatal 
+      hemorrhagic viral disease affecting domestic and wild pigs. The disease was 
+      reported for the first time in India during 2020, resulted in serious outbreaks 
+      and economic loss in North-Eastern (NE) parts, since 47% of the Indian pig 
+      population is distributed in the NE region. The present study focused on 
+      analyzing the spatial autocorrelation, spatio-temporal patterns, and directional 
+      trend of the disease in NE India during 2020-2021. The ASF outbreak data 
+      (2020-2021) were collected from the offices of the Department of Animal Husbandry 
+      and Veterinary Services in seven NE states of India to identify the potential 
+      clusters, spatio-temporal aggregation, temporal distribution, disease spread, 
+      density maps, and risk zones. Between 2020 and 2021, a total of 321 ASF outbreaks 
+      were recorded, resulting in 59,377 deaths. The spatial pattern analysis of the 
+      outbreak data (2020-2021) revealed that ASF outbreaks were clustered in 2020 (z 
+      score = 2.20, p < .01) and 2021 (z score = 4.89, p < .01). Spatial 
+      autocorrelation and Moran's I value (0.05-0.06 in 2020 and 2021) revealed the 
+      spatial clustering and spatial relationship between the outbreaks. The hotspot 
+      analysis identified districts of Arunachal Pradesh, Assam and districts of 
+      Mizoram, Tripura as significant hotspots in 2020 and 2021, respectively. The 
+      spatial-scan statistics with a purely spatial and purely temporal analysis 
+      revealed six and one significant clusters, respectively. Retrospective 
+      unadjusted, temporal, and spatially adjusted space-time analysis detected five, 
+      five, and two statistically significant (p < .01) clusters, respectively. The 
+      directional trend analysis identified the direction of disease distribution as 
+      northeast-southwest (2020) and north-south (2021), indicate the possibility of 
+      ASF introduction to India from China. The high-risk zones and spatio-temporal 
+      pattern of ASF outbreaks identified in the present study can be used as a guide 
+      for deploying proper prevention, optimizing resource allocation and 
+      disease control measures in NE Indian states.
+CI  - © 2024. The Author(s), under exclusive licence to Springer Nature B.V.
+FAU - Kimi, Rotluang
+AU  - Kimi R
+AD  - Division of Epidemiology, ICAR-Indian Veterinary Research Institute, Izatnagar, 
+      Bareilly, Uttar Pradesh, India.
+FAU - Beegum, Mufeeda
+AU  - Beegum M
+AD  - Division of Epidemiology, ICAR-Indian Veterinary Research Institute, Izatnagar, 
+      Bareilly, Uttar Pradesh, India.
+FAU - Nandi, S
+AU  - Nandi S
+AD  - CADRAD, ICAR-Indian Veterinary Research Institute, Izatnagar, Bareilly, India.
+FAU - Dubal, Z B
+AU  - Dubal ZB
+AD  - Division of Veterinary Public Health, ICAR-Indian Veterinary Research Institute, 
+      Izatnagar, Bareilly, India.
+FAU - Sinha, D K
+AU  - Sinha DK
+AD  - Division of Epidemiology, ICAR-Indian Veterinary Research Institute, Izatnagar, 
+      Bareilly, Uttar Pradesh, India.
+FAU - Singh, B R
+AU  - Singh BR
+AD  - Division of Epidemiology, ICAR-Indian Veterinary Research Institute, Izatnagar, 
+      Bareilly, Uttar Pradesh, India.
+FAU - Vinodhkumar, Obli Rajendran
+AU  - Vinodhkumar OR
+AUID- ORCID: 0000-0002-7232-4122
+AD  - Division of Epidemiology, ICAR-Indian Veterinary Research Institute, Izatnagar, 
+      Bareilly, Uttar Pradesh, India. vinodhkumar.rajendran@gmail.com.
+LA  - eng
+PT  - Journal Article
+DEP - 20240111
+PL  - United States
+TA  - Trop Anim Health Prod
+JT  - Tropical animal health and production
+JID - 1277355
+SB  - IM
+MH  - Animals
+MH  - Swine
+MH  - *African Swine Fever/epidemiology
+MH  - Retrospective Studies
+MH  - Disease Outbreaks/veterinary
+MH  - Animal Husbandry
+MH  - India/epidemiology
+MH  - *Swine Diseases
+OTO - NOTNLM
+OT  - African swine fever
+OT  - Hotspot analysis
+OT  - Retrospective study
+OT  - Spatial autocorrelation
+OT  - Spatio-temporal analysis
+OT  - Standard deviational ellipse
+EDAT- 2024/01/11 12:43
+MHDA- 2024/01/12 06:42
+CRDT- 2024/01/11 11:13
+PHST- 2023/02/12 00:00 [received]
+PHST- 2023/11/21 00:00 [accepted]
+PHST- 2024/01/12 06:42 [medline]
+PHST- 2024/01/11 12:43 [pubmed]
+PHST- 2024/01/11 11:13 [entrez]
+AID - 10.1007/s11250-023-03883-y [pii]
+AID - 10.1007/s11250-023-03883-y [doi]
+PST - epublish
+SO  - Trop Anim Health Prod. 2024 Jan 11;56(1):39. doi: 10.1007/s11250-023-03883-y.
+
+PMID- 27611939
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170808
+LR  - 20190212
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 11
+IP  - 9
+DP  - 2016
+TI  - Detection of African Swine Fever Virus Antibodies in Serum and Oral Fluid 
+      Specimens Using a Recombinant Protein 30 (p30) Dual Matrix Indirect ELISA.
+PG  - e0161230
+LID - 10.1371/journal.pone.0161230 [doi]
+LID - e0161230
+AB  - In the absence of effective vaccine(s), control of African swine fever caused by 
+      African swine fever virus (ASFV) must be based on early, efficient, 
+      cost-effective detection and strict control and elimination strategies. For this 
+      purpose, we developed an indirect ELISA capable of detecting ASFV antibodies in 
+      either serum or oral fluid specimens. The recombinant protein used in the ELISA 
+      was selected by comparing the early serum antibody response of ASFV-infected pigs 
+      (NHV-p68 isolate) to three major recombinant polypeptides (p30, p54, p72) using a 
+      multiplex fluorescent microbead-based immunoassay (FMIA). Non-hazardous 
+      (non-infectious) antibody-positive serum for use as plate positive controls and 
+      for the calculation of sample-to-positive (S:P) ratios was produced by 
+      inoculating pigs with a replicon particle (RP) vaccine expressing the ASFV p30 
+      gene. The optimized ELISA detected anti-p30 antibodies in serum and/or oral fluid 
+      samples from pigs inoculated with ASFV under experimental conditions beginning 8 
+      to 12 days post inoculation. Tests on serum (n = 200) and oral fluid (n = 200) 
+      field samples from an ASFV-free population demonstrated that the assay was highly 
+      diagnostically specific. The convenience and diagnostic utility of oral fluid 
+      sampling combined with the flexibility to test either serum or oral fluid on the 
+      same platform suggests that this assay will be highly useful under the conditions 
+      for which OIE recommends ASFV antibody surveillance, i.e., in ASFV-endemic areas 
+      and for the detection of infections with ASFV isolates of low virulence.
+FAU - Giménez-Lirola, Luis G
+AU  - Giménez-Lirola LG
+AD  - College of Veterinary Medicine, Iowa State University, Ames, Iowa, United States 
+      of America.
+FAU - Mur, Lina
+AU  - Mur L
+AD  - VISAVET Center and Animal Health Department, University Complutense of Madrid, 
+      Spain.
+FAU - Rivera, Belen
+AU  - Rivera B
+AD  - VISAVET Center and Animal Health Department, University Complutense of Madrid, 
+      Spain.
+FAU - Mogler, Mark
+AU  - Mogler M
+AD  - Harrisvaccines, Inc, Ames, Iowa, United States of America.
+FAU - Sun, Yaxuan
+AU  - Sun Y
+AD  - College of Liberal Arts and Sciences, Iowa State University, Ames, Iowa, United 
+      States of America.
+FAU - Lizano, Sergio
+AU  - Lizano S
+AD  - IDEXX Laboratories, Westbrook, Maine, United States of America.
+FAU - Goodell, Christa
+AU  - Goodell C
+AD  - IDEXX Laboratories, Westbrook, Maine, United States of America.
+FAU - Harris, D L Hank
+AU  - Harris DL
+AD  - Harrisvaccines, Inc, Ames, Iowa, United States of America.
+FAU - Rowland, Raymond R R
+AU  - Rowland RR
+AD  - College of Veterinary Medicine, Kansas State University, Manhattan, Kansas, 
+      United States of America.
+FAU - Gallardo, Carmina
+AU  - Gallardo C
+AD  - CISA-INIA, Madrid, Spain.
+FAU - Sánchez-Vizcaíno, José Manuel
+AU  - Sánchez-Vizcaíno JM
+AD  - VISAVET Center and Animal Health Department, University Complutense of Madrid, 
+      Spain.
+FAU - Zimmerman, Jeff
+AU  - Zimmerman J
+AD  - College of Veterinary Medicine, Iowa State University, Ames, Iowa, United States 
+      of America.
+LA  - eng
+PT  - Journal Article
+DEP - 20160909
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Antibodies, Viral)
+RN  - 0 (Antigens, Viral)
+RN  - 0 (Phosphoproteins)
+RN  - 0 (Viral Proteins)
+RN  - 148348-19-0 (P30 protein, African Swine Fever Virus)
+SB  - IM
+MH  - African Swine Fever/blood/*immunology
+MH  - African Swine Fever Virus/genetics/*immunology
+MH  - Animals
+MH  - Antibodies, Viral/blood/*immunology
+MH  - Antigens, Viral/*immunology
+MH  - *Enzyme-Linked Immunosorbent Assay/methods
+MH  - Phosphoproteins/*immunology
+MH  - Reproducibility of Results
+MH  - Swine
+MH  - Viral Proteins/*immunology
+PMC - PMC5017782
+COIS- The authors declare the following potential conflicts of interest with respect to 
+      the research authorship, and/or publication of this article: authors S. Lizano 
+      and C. Goodell are employed by IDEXX Laboratories, Inc. The remaining authors 
+      declare no conflicting interests with respect to their authorship or the 
+      publication of this article. The commercial affiliation above mentioned does not 
+      alter the authors' adherence to PLOS ONE policies on sharing data and materials.
+EDAT- 2016/09/10 06:00
+MHDA- 2017/08/09 06:00
+PMCR- 2016/09/09
+CRDT- 2016/09/10 06:00
+PHST- 2016/01/27 00:00 [received]
+PHST- 2016/07/05 00:00 [accepted]
+PHST- 2016/09/10 06:00 [entrez]
+PHST- 2016/09/10 06:00 [pubmed]
+PHST- 2017/08/09 06:00 [medline]
+PHST- 2016/09/09 00:00 [pmc-release]
+AID - PONE-D-16-03707 [pii]
+AID - 10.1371/journal.pone.0161230 [doi]
+PST - epublish
+SO  - PLoS One. 2016 Sep 9;11(9):e0161230. doi: 10.1371/journal.pone.0161230. 
+      eCollection 2016.
+
+PMID- 34260273
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211025
+LR  - 20220321
+IS  - 1098-660X (Electronic)
+IS  - 0095-1137 (Print)
+IS  - 0095-1137 (Linking)
+VI  - 59
+IP  - 10
+DP  - 2021 Sep 20
+TI  - A Semiautomated Luciferase Immunoprecipitation Assay for Rapid and Easy Detection 
+      of African Swine Fever Virus Antibody.
+PG  - e0099021
+LID - 10.1128/JCM.00990-21 [doi]
+LID - e00990-21
+AB  - African swine fever (ASF) is a highly contagious viral disease of domestic pigs 
+      and wild boars. For disease surveillance and control, we developed a rapid and 
+      easy luciferase immunoprecipitation assay (MB-LIPS) to detect ASF virus (ASFV) 
+      antibody. The MB-LIPS is based on magnetic beads modified with protein A/G and 
+      the recombinant fusion protein of ASFV p30 and luciferase, where p30 functioned 
+      as the recognition element and luciferase as the signal component. Incubation and 
+      washing could be finished automatically on a machine with magnetic rods. Under 
+      optimal conditions, the MB-LIPS showed 96.3% agreement to a commercial 
+      enzyme-linked immunosorbent assay (ELISA) kit for detecting ASFV antibody in 
+      swine sera. Analyzing serial dilutions of a swine serum sample showed that the 
+      MP-LIPS assay was 4 times more sensitive than the ELISA kit. The whole run of the 
+      MB-LIPS could be completed within 30 min. With its high sensitivity and simple 
+      operation, the MB-LIPS platform has great potential to be used for the detection 
+      of ASFV antibody and ASF control in small labs and farms.
+FAU - Liu, Huan
+AU  - Liu H
+AD  - CAS Key Laboratory of Special Pathogens and Biosafety, Center for Biosafety 
+      Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 
+      China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - He, Ping
+AU  - He P
+AD  - CAS Key Laboratory of Special Pathogens and Biosafety, Center for Biosafety 
+      Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 
+      China.
+AD  - University of Chinese Academy of Sciences, Beijing, China.
+FAU - Meng, Fei
+AU  - Meng F
+AD  - CAS Key Laboratory of Special Pathogens and Biosafety, Center for Biosafety 
+      Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 
+      China.
+AD  - African Swine Fever Regional Laboratory of China (Wuhan), Wuhan, Jiangxia 
+      District, China.
+FAU - Jiang, Mengwei
+AU  - Jiang M
+AD  - CAS Key Laboratory of Special Pathogens and Biosafety, Center for Biosafety 
+      Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 
+      China.
+AD  - African Swine Fever Regional Laboratory of China (Wuhan), Wuhan, Jiangxia 
+      District, China.
+FAU - Xiong, Jin
+AU  - Xiong J
+AD  - CAS Key Laboratory of Special Pathogens and Biosafety, Center for Biosafety 
+      Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 
+      China.
+AD  - African Swine Fever Regional Laboratory of China (Wuhan), Wuhan, Jiangxia 
+      District, China.
+FAU - Li, Junhua
+AU  - Li J
+AD  - CAS Key Laboratory of Special Pathogens and Biosafety, Center for Biosafety 
+      Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 
+      China.
+AD  - African Swine Fever Regional Laboratory of China (Wuhan), Wuhan, Jiangxia 
+      District, China.
+FAU - Yu, Junping
+AU  - Yu J
+AD  - CAS Key Laboratory of Special Pathogens and Biosafety, Center for Biosafety 
+      Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 
+      China.
+AD  - African Swine Fever Regional Laboratory of China (Wuhan), Wuhan, Jiangxia 
+      District, China.
+FAU - Wei, Hongping
+AU  - Wei H
+AUID- ORCID: 0000-0002-9948-8880
+AD  - CAS Key Laboratory of Special Pathogens and Biosafety, Center for Biosafety 
+      Mega-Science, Wuhan Institute of Virology, Chinese Academy of Sciences, Wuhan, 
+      China.
+AD  - African Swine Fever Regional Laboratory of China (Wuhan), Wuhan, Jiangxia 
+      District, China.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20210714
+PL  - United States
+TA  - J Clin Microbiol
+JT  - Journal of clinical microbiology
+JID - 7505564
+RN  - EC 1.13.12.- (Luciferases)
+SB  - IM
+MH  - *African Swine Fever/diagnosis
+MH  - *African Swine Fever Virus/genetics
+MH  - Animals
+MH  - Immunoprecipitation
+MH  - Luciferases/genetics
+MH  - Sus scrofa
+MH  - Swine
+PMC - PMC8451409
+OTO - NOTNLM
+OT  - African swine fever virus
+OT  - luciferase immunoprecipitation system
+OT  - magnetic beads
+OT  - rapid
+OT  - sensitivity
+EDAT- 2021/07/15 06:00
+MHDA- 2021/10/26 06:00
+PMCR- 2022/03/20
+CRDT- 2021/07/14 17:18
+PHST- 2021/07/15 06:00 [pubmed]
+PHST- 2021/10/26 06:00 [medline]
+PHST- 2021/07/14 17:18 [entrez]
+PHST- 2022/03/20 00:00 [pmc-release]
+AID - 00990-21 [pii]
+AID - 10.1128/JCM.00990-21 [doi]
+PST - ppublish
+SO  - J Clin Microbiol. 2021 Sep 20;59(10):e0099021. doi: 10.1128/JCM.00990-21. Epub 
+      2021 Jul 14.
+
+PMID- 33669073
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210503
+LR  - 20210503
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 22
+IP  - 5
+DP  - 2021 Feb 25
+TI  - Swift and Reliable "Easy Lab" Methods for the Sensitive Molecular Detection of 
+      African Swine Fever Virus.
+LID - 10.3390/ijms22052307 [doi]
+LID - 2307
+AB  - African swine fever (ASF) is a contagious viral hemorrhagic disease of domestic 
+      pigs and wild boars. The disease is notifiable to the World Organisation for 
+      Animal Health (OIE) and is responsible for high mortality and serious economic 
+      losses. PCR and real-time PCR (qPCR) are the OIE-recommended standard methods for 
+      the direct detection of African swine fever virus (ASFV) DNA. The aim of our work 
+      was the simplification and standardization of the molecular diagnostic workflow 
+      in the lab. For validation of this "easy lab" workflow, different sample 
+      materials from animal trials were collected and analyzed (EDTA blood, serum, oral 
+      swabs, chewing ropes, and tissue samples) to identify the optimal sample material 
+      for diagnostics in live animals. Based on our data, the EDTA blood samples or 
+      bloody tissue samples represent the best specimens for ASFV detection in the 
+      early and late phases of infection. The application of prefilled ready-to-use 
+      reagents for nucleic acid extraction or the use of a Tissue Lysis Reagent (TLR) 
+      delivers simple and reliable alternatives for the release of the ASFV nucleic 
+      acids. For the qPCR detection of ASFV, different published and commercial kits 
+      were compared. Here, a lyophilized commercial kit shows the best results mainly 
+      based on the increased template input. The good results of the "easy lab" 
+      strategy could be confirmed by the ASFV detection in field samples from wild 
+      boars collected from the 2020 ASFV outbreak in Germany. Appropriate internal 
+      control systems for extraction and PCR are key features of the "easy lab" concept 
+      and reduce the risk of false-negative and false-positive results. In addition, 
+      the use of easy-to-handle machines and software reduces training efforts and the 
+      misinterpretation of results. The PCR diagnostics based on the "easy lab" 
+      strategy can realize a high sensitivity and specificity comparable to the 
+      standard PCR methods and should be especially usable for labs with limited 
+      experiences and resources.
+FAU - Elnagar, Ahmed
+AU  - Elnagar A
+AD  - Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, 17493 
+      Greifswald-Insel Riems, Germany.
+FAU - Pikalo, Jutta
+AU  - Pikalo J
+AUID- ORCID: 0000-0003-3502-4240
+AD  - Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, 17493 
+      Greifswald-Insel Riems, Germany.
+FAU - Beer, Martin
+AU  - Beer M
+AD  - Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, 17493 
+      Greifswald-Insel Riems, Germany.
+FAU - Blome, Sandra
+AU  - Blome S
+AUID- ORCID: 0000-0001-5465-5609
+AD  - Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, 17493 
+      Greifswald-Insel Riems, Germany.
+FAU - Hoffmann, Bernd
+AU  - Hoffmann B
+AUID- ORCID: 0000-0001-5358-6445
+AD  - Friedrich-Loeffler-Institut, Institute of Diagnostic Virology, 17493 
+      Greifswald-Insel Riems, Germany.
+LA  - eng
+GR  - Ri-0739/Indical Bioscience GmbH/
+PT  - Journal Article
+DEP - 20210225
+PL  - Switzerland
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (DNA, Viral)
+SB  - IM
+MH  - African Swine Fever/blood/*diagnosis/epidemiology/virology
+MH  - African Swine Fever Virus/genetics/*isolation & purification
+MH  - Animals
+MH  - DNA, Viral/*genetics/isolation & purification
+MH  - Disease Outbreaks/veterinary
+MH  - Germany
+MH  - Molecular Diagnostic Techniques/*methods
+MH  - Real-Time Polymerase Chain Reaction/*methods
+MH  - Reference Standards
+MH  - Sensitivity and Specificity
+MH  - Sus scrofa/*virology
+MH  - Swine/*virology
+PMC - PMC7956467
+OTO - NOTNLM
+OT  - African swine fever virus
+OT  - DNA extraction
+OT  - easy lab
+OT  - real-time PCR
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/03/07 06:00
+MHDA- 2021/05/04 06:00
+PMCR- 2021/02/25
+CRDT- 2021/03/06 01:03
+PHST- 2021/01/27 00:00 [received]
+PHST- 2021/02/16 00:00 [revised]
+PHST- 2021/02/21 00:00 [accepted]
+PHST- 2021/03/06 01:03 [entrez]
+PHST- 2021/03/07 06:00 [pubmed]
+PHST- 2021/05/04 06:00 [medline]
+PHST- 2021/02/25 00:00 [pmc-release]
+AID - ijms22052307 [pii]
+AID - ijms-22-02307 [pii]
+AID - 10.3390/ijms22052307 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2021 Feb 25;22(5):2307. doi: 10.3390/ijms22052307.
+
+PMID- 32598922
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210104
+LR  - 20210104
+IS  - 1873-6254 (Electronic)
+IS  - 0001-706X (Linking)
+VI  - 211
+DP  - 2020 Nov
+TI  - One year of African swine fever outbreak in China.
+PG  - 105602
+LID - S0001-706X(20)30591-X [pii]
+LID - 10.1016/j.actatropica.2020.105602 [doi]
+AB  - African swine fever (ASF) is a major threat to domestic pigs and wild boars. 
+      Since 2018, ASF outbreaks have been ongoing in China. As of August 3, 2019, a 
+      total of 151 ASF clusters of outbreaks reported in China have caused severe 
+      economic losses for the industry, the pig farmers and pork producers, due to the 
+      lack of an efficacious vaccine. The present study aims to analyze the 
+      epidemiologic characteristics of ASF outbreak that occurred in several regions 
+      across China during the period August 2018- August 2019. Particular focus was on 
+      the epidemic distribution, main transmission routes, incidence/fatality, impact 
+      on pig production capacity, and the main preventive measures adopted to mitigate 
+      the risk of ASF spread in pig farming systems by Chinese government. Results show 
+      that anthropogenic factors, spatial distribution, efficient measures taken by 
+      China,and good response timely in implementation of preventive measures are 
+      important on the transmission of ASF and these suggest that effective ASF risk 
+      management in China will require a comprehensive and integrated approach linking 
+      science and implemented by all relevant stakeholders. This provides an empirical 
+      basis to optimize current interventions as well as develop new tools and 
+      strategies to reduce the risk transmission of African swine fever virus (ASFV) to 
+      domestic pigs and wild boars.
+CI  - Copyright © 2020 Elsevier B.V. All rights reserved.
+FAU - Tao, Dapeng
+AU  - Tao D
+AD  - Key Laboratory of Livestock Infectious Diseases in Northeast China, Ministry of 
+      Education, College of Animal Science & Veterinary Medicine, Shenyang Agricultural 
+      University, Shenyang, 110866, PR China.
+FAU - Sun, Daipeng
+AU  - Sun D
+AD  - Key Laboratory of Livestock Infectious Diseases in Northeast China, Ministry of 
+      Education, College of Animal Science & Veterinary Medicine, Shenyang Agricultural 
+      University, Shenyang, 110866, PR China.
+FAU - Liu, Yiming
+AU  - Liu Y
+AD  - Key Laboratory of Livestock Infectious Diseases in Northeast China, Ministry of 
+      Education, College of Animal Science & Veterinary Medicine, Shenyang Agricultural 
+      University, Shenyang, 110866, PR China.
+FAU - Wei, Shu
+AU  - Wei S
+AD  - The Preventive Center of Animal Disease of Liaoning Province, No.95, Renhe Road, 
+      Shenbei District, Shenyang 110164,PR China.
+FAU - Yang, Zuofeng
+AU  - Yang Z
+AD  - The Preventive Center of Animal Disease of Liaoning Province, No.95, Renhe Road, 
+      Shenbei District, Shenyang 110164,PR China.
+FAU - An, Tongqing
+AU  - An T
+AD  - Harbin Veterinary Research Institute of Chinese Academy of Agricultural Sciences, 
+      No. 678, Haping road, Xiangfang district, Harbin 150069, PR China.
+FAU - Shan, Fengping
+AU  - Shan F
+AD  - Department of Immunology, Basic School of Medicine, China Medical University, No. 
+      92, North Second Road, Shenyang 110001, PR China.
+FAU - Chen, Zeliang
+AU  - Chen Z
+AD  - Key Laboratory of Livestock Infectious Diseases in Northeast China, Ministry of 
+      Education, College of Animal Science & Veterinary Medicine, Shenyang Agricultural 
+      University, Shenyang, 110866, PR China.
+FAU - Liu, Jinling
+AU  - Liu J
+AD  - Key Laboratory of Livestock Infectious Diseases in Northeast China, Ministry of 
+      Education, College of Animal Science & Veterinary Medicine, Shenyang Agricultural 
+      University, Shenyang, 110866, PR China. Electronic address: liujl@syau.edu.cn.
+LA  - eng
+PT  - Journal Article
+DEP - 20200626
+PL  - Netherlands
+TA  - Acta Trop
+JT  - Acta tropica
+JID - 0370374
+SB  - IM
+MH  - African Swine Fever/*epidemiology
+MH  - African Swine Fever Virus/*pathogenicity
+MH  - Animals
+MH  - China/epidemiology
+MH  - Disease Outbreaks/*statistics & numerical data
+MH  - Farms/*statistics & numerical data
+MH  - Geography/*statistics & numerical data
+MH  - Longitudinal Studies
+MH  - Sus scrofa/*virology
+MH  - Swine
+OTO - NOTNLM
+OT  - African swine fever
+OT  - Characteristic
+OT  - Control strategy
+OT  - Distribution
+OT  - Epidemic
+COIS- Declaration of Competing Interests The authors declare that the research was 
+      conducted in the absence of any commercial or financial relationships that could 
+      be construed as a potential conflict of interest.
+EDAT- 2020/07/01 06:00
+MHDA- 2021/01/05 06:00
+CRDT- 2020/06/30 06:00
+PHST- 2020/04/18 00:00 [received]
+PHST- 2020/06/24 00:00 [revised]
+PHST- 2020/06/24 00:00 [accepted]
+PHST- 2020/07/01 06:00 [pubmed]
+PHST- 2021/01/05 06:00 [medline]
+PHST- 2020/06/30 06:00 [entrez]
+AID - S0001-706X(20)30591-X [pii]
+AID - 10.1016/j.actatropica.2020.105602 [doi]
+PST - ppublish
+SO  - Acta Trop. 2020 Nov;211:105602. doi: 10.1016/j.actatropica.2020.105602. Epub 2020 
+      Jun 26.
+
+PMID- 35881004
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220929
+LR  - 20220929
+IS  - 1865-1682 (Electronic)
+IS  - 1865-1674 (Linking)
+VI  - 69
+IP  - 5
+DP  - 2022 Sep
+TI  - Optimising response to an introduction of African swine fever in wild pigs.
+PG  - e3111-e3127
+LID - 10.1111/tbed.14668 [doi]
+AB  - African swine fever virus (ASFv) is a virulent pathogen that threatens domestic 
+      swine industries globally and persists in wild boar populations in some 
+      countries. Persistence in wild boar can challenge elimination and prevent 
+      disease-free status, making it necessary to address wild swine in proactive 
+      response plans. In the United States, invasive wild pigs are abundant and found 
+      across a wide range of ecological conditions that could drive different 
+      epidemiological dynamics among populations. Information on the size of the 
+      control areas required to rapidly eliminate the ASFv in wild pigs and how this 
+      area should change with management constraints and local ecology is needed to 
+      optimize response planning. We developed a spatially explicit disease 
+      transmission model contrasting wild pig movement and contact ecology in two 
+      ecosystems in Southeastern United States. We simulated ASFv spread and determined 
+      the optimal response area (reported as the radius of a circle) for eliminating 
+      ASFv rapidly over a range of detection times (when ASFv was detected relative to 
+      the true date of introduction), culling capacities (proportion of wild pigs in 
+      the culling zone removed weekly) and wild pig densities. Large radii for response 
+      areas (14 km) were needed under most conditions but could be shortened with early 
+      detection (≤ 8 weeks) and high culling capacities (≥ 15% weekly). Under most 
+      conditions, the ASFv was eliminated in less than 22 weeks using optimal control 
+      radii, although ecological conditions with high rates of wild pig movement 
+      required higher culling capacities (≥ 10% weekly) for elimination within 1 year. 
+      The results highlight the importance of adjusting response plans based on local 
+      ecology and show that wild pig movement is a better predictor of the optimal 
+      response area than the number of ASFv cases early in the outbreak trajectory. Our 
+      framework provides a tool for determining optimal control plans in different 
+      areas, guiding expectations of response impacts, and planning resources needed 
+      for rapid elimination.
+CI  - © 2022 Wiley-VCH GmbH. This article has been contributed to by US Government 
+      employees and their work is in the public domain in the USA.
+FAU - Pepin, Kim M
+AU  - Pepin KM
+AUID- ORCID: 0000-0002-9931-8312
+AD  - National Wildlife Research Center, Wildlife Services, Animal and Plant Health 
+      Inspection Service, United States Department of Agriculture, Fort Collins, 
+      Colorado, USA.
+FAU - Brown, Vienna R
+AU  - Brown VR
+AUID- ORCID: 0000-0002-2938-3987
+AD  - United States Department of Agriculture, Animal and Plant Health Inspection 
+      Services, Wildlife Services, National Feral Swine Damage Management Program, Fort 
+      Collins, Colorado, USA.
+FAU - Yang, Anni
+AU  - Yang A
+AD  - National Wildlife Research Center, Wildlife Services, Animal and Plant Health 
+      Inspection Service, United States Department of Agriculture, Fort Collins, 
+      Colorado, USA.
+AD  - Department of Fish, Wildlife, and Conservation Biology, Colorado State 
+      University, Fort Collins, Colorado, USA.
+FAU - Beasley, James C
+AU  - Beasley JC
+AD  - Savannah River Ecology Laboratory, Warnell School of Forestry and Natural 
+      Resources, University of Georgia, Aiken, South Carolina, USA.
+FAU - Boughton, Raoul
+AU  - Boughton R
+AD  - Buck Island Ranch, Archbold Biological Station, Lake Placid, Florida, USA.
+FAU - VerCauteren, Kurt C
+AU  - VerCauteren KC
+AD  - National Wildlife Research Center, Wildlife Services, Animal and Plant Health 
+      Inspection Service, United States Department of Agriculture, Fort Collins, 
+      Colorado, USA.
+FAU - Miller, Ryan S
+AU  - Miller RS
+AD  - Centers for Epidemiology and Animal Health, Veterinary Services, Animal and Plant 
+      Health Inspection Service, United States Department of Agriculture, Fort Collins, 
+      Colorado, USA.
+FAU - Bevins, Sarah N
+AU  - Bevins SN
+AD  - National Wildlife Research Center, Wildlife Services, Animal and Plant Health 
+      Inspection Service, United States Department of Agriculture, Fort Collins, 
+      Colorado, USA.
+LA  - eng
+GR  - Animal and Plant Health Inspection Service/
+PT  - Journal Article
+DEP - 20220809
+PL  - Germany
+TA  - Transbound Emerg Dis
+JT  - Transboundary and emerging diseases
+JID - 101319538
+SB  - IM
+MH  - *African Swine Fever/epidemiology/prevention & control
+MH  - *African Swine Fever Virus/physiology
+MH  - Animals
+MH  - Disease Outbreaks/prevention & control/veterinary
+MH  - Ecosystem
+MH  - Sus scrofa
+MH  - Swine
+MH  - *Swine Diseases
+OTO - NOTNLM
+OT  - African swine fever
+OT  - culling
+OT  - outbreak response
+OT  - spatially explicit
+OT  - transmission model
+OT  - wild pigs
+EDAT- 2022/07/27 06:00
+MHDA- 2022/09/30 06:00
+CRDT- 2022/07/26 10:06
+PHST- 2022/07/22 00:00 [revised]
+PHST- 2022/03/25 00:00 [received]
+PHST- 2022/07/24 00:00 [accepted]
+PHST- 2022/07/27 06:00 [pubmed]
+PHST- 2022/09/30 06:00 [medline]
+PHST- 2022/07/26 10:06 [entrez]
+AID - 10.1111/tbed.14668 [doi]
+PST - ppublish
+SO  - Transbound Emerg Dis. 2022 Sep;69(5):e3111-e3127. doi: 10.1111/tbed.14668. Epub 
+      2022 Aug 9.
+
+PMID- 34854269
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220203
+LR  - 20220203
+IS  - 1976-555X (Electronic)
+IS  - 1229-845X (Print)
+IS  - 1229-845X (Linking)
+VI  - 22
+IP  - 6
+DP  - 2021 Nov
+TI  - Development of a multiplex qRT-PCR assay for detection of African swine fever 
+      virus, classical swine fever virus and porcine reproductive and respiratory 
+      syndrome virus.
+PG  - e87
+LID - 10.4142/jvs.2021.22.e87 [doi]
+LID - e87
+AB  - BACKGROUND: African swine fever virus (ASFV), classical swine fever virus (CSFV), 
+      and porcine reproductive and respiratory syndrome virus (PRRSV) are still 
+      prevalent in many regions of China. Co-infections make it difficult to 
+      distinguish their clinical symptoms and pathological changes. Therefore, a rapid 
+      and specific method is needed for the differential detection of these pathogens. 
+      OBJECTIVES: The aim of this study was to develop a multiplex real-time 
+      quantitative reverse transcription polymerase chain reaction (multiplex qRT-PCR) 
+      for the simultaneous differential detection of ASFV, CSFV, and PRRSV. METHODS: 
+      Three pairs of primers and TaqMan probes targeting the ASFV p72 gene, CSFV 5' 
+      untranslated region, and PRRSV ORF7 gene were designed. After optimizing the 
+      reaction conditions, including the annealing temperature, primer concentration, 
+      and probe concentration, multiplex qRT-PCR for simultaneous and differential 
+      detection of ASFV, CSFV, and PRRSV was developed. Subsequently, 1,143 clinical 
+      samples were detected to verify the practicality of the assay. RESULTS: The 
+      multiplex qRT-PCR assay could specifically and simultaneously detect the ASFV, 
+      CSFV, and PRRSV with a detection limit of 1.78 × 10(0) copies for the ASFV, CSFV, 
+      and PRRSV, but could not amplify the other major porcine viruses, such as 
+      pseudorabies virus, porcine circovirus type 1 (PCV1), PCV2, PCV3, foot-and-mouth 
+      disease virus, porcine parvovirus, atypical porcine pestivirus, and Senecavirus 
+      A. The assay had good repeatability with coefficients of variation of intra- and 
+      inter-assay of less than 1.2%. Finally, the assay was used to detect 1,143 
+      clinical samples to evaluate its practicality in the field. The positive rates of 
+      ASFV, CSFV, and PRRSV were 25.63%, 9.36%, and 17.50%, respectively. The 
+      co-infection rates of ASFV+CSFV, ASFV+PRRSV, CSFV+PRRSV, and ASFV+CSFV+PRRSV were 
+      2.45%, 2.36%, 1.57%, and 0.17%, respectively. CONCLUSIONS: The multiplex qRT-PCR 
+      developed in this study could provide a rapid, sensitive, specific diagnostic 
+      tool for the simultaneous and differential detection of ASFV, CSFV, and PRRSV.
+CI  - © 2021 The Korean Society of Veterinary Science.
+FAU - Chen, Yating
+AU  - Chen Y
+AUID- ORCID: 0000-0001-5510-960X
+AD  - College of Animal Science and Technology, Guangxi University, Nanning 530005, 
+      China.
+FAU - Shi, Kaichuang
+AU  - Shi K
+AUID- ORCID: 0000-0002-1023-9635
+AD  - College of Animal Science and Technology, Guangxi University, Nanning 530005, 
+      China.
+AD  - Guangxi Center for Animal Disease Control and Prevention, Nanning 530001, China. 
+      shikaichuang@126.com.
+FAU - Liu, Huixin
+AU  - Liu H
+AUID- ORCID: 0000-0001-5492-1209
+AD  - College of Animal Science and Technology, Guangxi University, Nanning 530005, 
+      China.
+FAU - Yin, Yanwen
+AU  - Yin Y
+AUID- ORCID: 0000-0002-3890-2080
+AD  - Guangxi Center for Animal Disease Control and Prevention, Nanning 530001, China.
+FAU - Zhao, Jing
+AU  - Zhao J
+AUID- ORCID: 0000-0001-7771-7542
+AD  - College of Animal Science and Technology, Guangxi University, Nanning 530005, 
+      China.
+FAU - Long, Feng
+AU  - Long F
+AUID- ORCID: 0000-0002-9625-0527
+AD  - Guangxi Center for Animal Disease Control and Prevention, Nanning 530001, China.
+FAU - Lu, Wenjun
+AU  - Lu W
+AUID- ORCID: 0000-0003-2989-045X
+AD  - Guangxi Center for Animal Disease Control and Prevention, Nanning 530001, China.
+FAU - Si, Hongbin
+AU  - Si H
+AUID- ORCID: 0000-0002-0416-6150
+AD  - College of Animal Science and Technology, Guangxi University, Nanning 530005, 
+      China. shb2009@gxu.edu.cn.
+LA  - eng
+GR  - AA17204057/Scientific Research and Technology Development Program of 
+      Guangxi/China
+GR  - Z201954/Guangxi Agricultural and Rural Bureau/China
+GR  - Z202031/Guangxi Agricultural and Rural Bureau/China
+PT  - Journal Article
+PL  - Korea (South)
+TA  - J Vet Sci
+JT  - Journal of veterinary science
+JID - 100964185
+SB  - IM
+MH  - *African Swine Fever Virus/isolation & purification
+MH  - Animals
+MH  - China/epidemiology
+MH  - *Classical Swine Fever Virus/isolation & purification
+MH  - *Porcine respiratory and reproductive syndrome virus/isolation & purification
+MH  - Real-Time Polymerase Chain Reaction/*veterinary
+MH  - Swine
+PMC - PMC8636662
+OTO - NOTNLM
+OT  - African swine fever virus
+OT  - classical swine fever virus
+OT  - multiplex real-time quantitative RT-PCR (multiplex qRT-PCR)
+OT  - porcine reproductive and respiratory syndrome virus
+COIS- The authors declare no conflicts of interest.
+EDAT- 2021/12/03 06:00
+MHDA- 2022/02/04 06:00
+PMCR- 2021/10/01
+CRDT- 2021/12/02 07:02
+PHST- 2021/05/05 00:00 [received]
+PHST- 2021/08/04 00:00 [revised]
+PHST- 2021/08/12 00:00 [accepted]
+PHST- 2021/12/02 07:02 [entrez]
+PHST- 2021/12/03 06:00 [pubmed]
+PHST- 2022/02/04 06:00 [medline]
+PHST- 2021/10/01 00:00 [pmc-release]
+AID - 22.e87 [pii]
+AID - 10.4142/jvs.2021.22.e87 [doi]
+PST - ppublish
+SO  - J Vet Sci. 2021 Nov;22(6):e87. doi: 10.4142/jvs.2021.22.e87.
+
+PMID- 27391689
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170818
+LR  - 20231111
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 11
+IP  - 7
+DP  - 2016
+TI  - A Mathematical Model that Simulates Control Options for African Swine Fever Virus 
+      (ASFV).
+PG  - e0158658
+LID - 10.1371/journal.pone.0158658 [doi]
+LID - e0158658
+AB  - A stochastic model designed to simulate transmission dynamics of African swine 
+      fever virus (ASFV) in a free-ranging pig population under various intervention 
+      scenarios is presented. The model was used to assess the relative impact of the 
+      timing of the implementation of different control strategies on disease-related 
+      mortality. The implementation of biosecurity measures was simulated through 
+      incorporation of a decay function on the transmission rate. The model predicts 
+      that biosecurity measures implemented within 14 days of the onset of an epidemic 
+      can avert up to 74% of pig deaths due to ASF while hypothetical vaccines that 
+      confer 70% immunity when deployed prior to day 14 of the epidemic could avert 65% 
+      of pig deaths. When the two control measures are combined, the model predicts 
+      that 91% of the pigs that would have otherwise succumbed to the disease if no 
+      intervention was implemented would be saved. However, if the combined 
+      interventions are delayed (defined as implementation from > 60 days) only 30% of 
+      ASF-related deaths would be averted. In the absence of vaccines against ASF, we 
+      recommend early implementation of enhanced biosecurity measures. Active 
+      surveillance and use of pen-side diagnostic assays, preferably linked to rapid 
+      dissemination of this data to veterinary authorities through mobile phone 
+      technology platforms are essential for rapid detection and confirmation of ASF 
+      outbreaks. This prediction, although it may seem intuitive, rationally confirms 
+      the importance of early intervention in managing ASF epidemics. The modelling 
+      approach is particularly valuable in that it determines an optimal timing for 
+      implementation of interventions in controlling ASF outbreaks.
+FAU - Barongo, Mike B
+AU  - Barongo MB
+AD  - International Livestock Research Institute, P.O. Box 30709, Nairobi 00100, Kenya.
+FAU - Bishop, Richard P
+AU  - Bishop RP
+AD  - International Livestock Research Institute, P.O. Box 30709, Nairobi 00100, Kenya.
+FAU - Fèvre, Eric M
+AU  - Fèvre EM
+AD  - International Livestock Research Institute, P.O. Box 30709, Nairobi 00100, Kenya.
+AD  - Institute of Infection and Global Health, University of Liverpool, Leahurst 
+      Campus, Neston, CH64 7TE, United Kingdom.
+FAU - Knobel, Darryn L
+AU  - Knobel DL
+AD  - Department of Veterinary Tropical Diseases, Faculty of Veterinary Science, 
+      University of Pretoria, Pretoria, South Africa.
+FAU - Ssematimba, Amos
+AU  - Ssematimba A
+AD  - International Livestock Research Institute, P.O. Box 30709, Nairobi 00100, Kenya.
+AD  - Department of Mathematics, Faculty of Science, Gulu University, P.O. Box 166, 
+      Gulu, Uganda.
+LA  - eng
+GR  - WT_/Wellcome Trust/United Kingdom
+GR  - 085308/WT_/Wellcome Trust/United Kingdom
+GR  - BB/L019019/1/BB_/Biotechnology and Biological Sciences Research Council/United 
+      Kingdom
+PT  - Journal Article
+DEP - 20160708
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - African Swine Fever/epidemiology
+MH  - African Swine Fever Virus
+MH  - Animals
+MH  - Disease Outbreaks
+MH  - *Models, Theoretical
+MH  - Swine
+PMC - PMC4938631
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2016/07/09 06:00
+MHDA- 2017/08/19 06:00
+PMCR- 2016/07/08
+CRDT- 2016/07/09 06:00
+PHST- 2015/04/20 00:00 [received]
+PHST- 2016/06/20 00:00 [accepted]
+PHST- 2016/07/09 06:00 [entrez]
+PHST- 2016/07/09 06:00 [pubmed]
+PHST- 2017/08/19 06:00 [medline]
+PHST- 2016/07/08 00:00 [pmc-release]
+AID - PONE-D-15-17044 [pii]
+AID - 10.1371/journal.pone.0158658 [doi]
+PST - epublish
+SO  - PLoS One. 2016 Jul 8;11(7):e0158658. doi: 10.1371/journal.pone.0158658. 
+      eCollection 2016.
+
+PMID- 39091398
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240923
+IS  - 2297-1769 (Print)
+IS  - 2297-1769 (Electronic)
+IS  - 2297-1769 (Linking)
+VI  - 11
+DP  - 2024
+TI  - Development and optimization of sampling techniques for environmental samples 
+      from African swine fever virus-contaminated surfaces with no organic 
+      contaminants.
+PG  - 1425928
+LID - 10.3389/fvets.2024.1425928 [doi]
+LID - 1425928
+AB  - African swine fever (ASF) is a highly contagious diseases in domestic pigs and 
+      wild boars with up to 100% mortality. ASF virus (ASFV) is a causative agent 
+      responsible for ASF and highly resistant in environments, which creates a 
+      significant challenge for the control and eradication of the virus. Despite the 
+      geographical expansion of ASFV and international movement of products to sustain 
+      the swine production system, there is limited knowledge on the use of 
+      environmental samples to perform surveillance to prevent the introduction of ASFV 
+      into ASFV-free areas and for control of transmission in affected areas. 
+      Therefore, this study aimed to develop and optimize sampling techniques for 
+      environmental samples for ASFV detection. The stainless steel surfaces were 
+      contaminated with ASFV-infected blood, swabbed using different devices, and then 
+      processed through different techniques. The environmental samples were processed 
+      and tested using qPCR analysis. The results showed that the use of pre-moistened 
+      gauze surgical sponges, sweeping pads, and sponge sticks resulted in increased 
+      sensitivity, when compared to either dry sampling devices or Dacron swab. In 
+      particular, the combination of the sponge stick and the commercial nucleic acid 
+      preservative supported the best detection of ASFV DNA on the clean stainless 
+      steel surfaces evaluated. Pre-incubation for the short period of time and 
+      centrifugation at low speed were sufficient to provide satisfactory diagnostic 
+      sensitivity of ASFV detection using qPCR for environmental samples. Our findings 
+      contribute to the development of techniques for environmental samples for ASFV 
+      surveillance to prevent the introduction and dissemination of ASFV.
+CI  - Copyright © 2024 Kwon, Gebhardt, Lyoo, Gaudreault, Trujillo, Woodworth, Paulk, 
+      Jones and Richt.
+FAU - Kwon, Taeyong
+AU  - Kwon T
+AD  - Department of Diagnostic Medicine/Pathobiology, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS, United States.
+FAU - Gebhardt, Jordan T
+AU  - Gebhardt JT
+AD  - Department of Diagnostic Medicine/Pathobiology, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS, United States.
+FAU - Lyoo, Eu Lim
+AU  - Lyoo EL
+AD  - Department of Diagnostic Medicine/Pathobiology, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS, United States.
+FAU - Gaudreault, Natasha N
+AU  - Gaudreault NN
+AD  - Department of Diagnostic Medicine/Pathobiology, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS, United States.
+FAU - Trujillo, Jessie D
+AU  - Trujillo JD
+AD  - Department of Diagnostic Medicine/Pathobiology, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS, United States.
+FAU - Woodworth, Jason C
+AU  - Woodworth JC
+AD  - Department of Animal Sciences and Industry, College of Agriculture, Kansas State 
+      University, Manhattan, KS, United States.
+FAU - Paulk, Chad B
+AU  - Paulk CB
+AD  - Department of Grain Science and Industry, College of Agriculture, Kansas State 
+      University, Manhattan, KS, United States.
+FAU - Jones, Cassandra K
+AU  - Jones CK
+AD  - Department of Animal Sciences and Industry, College of Agriculture, Kansas State 
+      University, Manhattan, KS, United States.
+FAU - Richt, Juergen A
+AU  - Richt JA
+AD  - Department of Diagnostic Medicine/Pathobiology, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS, United States.
+LA  - eng
+GR  - P20 GM130448/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20240718
+PL  - Switzerland
+TA  - Front Vet Sci
+JT  - Frontiers in veterinary science
+JID - 101666658
+PMC - PMC11292794
+OTO - NOTNLM
+OT  - ASFV
+OT  - African swine fever
+OT  - environmental sample
+OT  - fomite
+OT  - surface
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2024/08/02 06:42
+MHDA- 2024/08/02 06:43
+PMCR- 2024/01/01
+CRDT- 2024/08/02 04:25
+PHST- 2024/04/30 00:00 [received]
+PHST- 2024/06/25 00:00 [accepted]
+PHST- 2024/08/02 06:43 [medline]
+PHST- 2024/08/02 06:42 [pubmed]
+PHST- 2024/08/02 04:25 [entrez]
+PHST- 2024/01/01 00:00 [pmc-release]
+AID - 10.3389/fvets.2024.1425928 [doi]
+PST - epublish
+SO  - Front Vet Sci. 2024 Jul 18;11:1425928. doi: 10.3389/fvets.2024.1425928. 
+      eCollection 2024.
+
+PMID- 33468025
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210621
+LR  - 20220102
+IS  - 1742-5662 (Electronic)
+IS  - 1742-5689 (Print)
+IS  - 1742-5662 (Linking)
+VI  - 18
+IP  - 174
+DP  - 2021 Jan
+TI  - Social structure defines spatial transmission of African swine fever in wild 
+      boar.
+PG  - 20200761
+LID - 10.1098/rsif.2020.0761 [doi]
+LID - 20200761
+AB  - The spatial spread of infectious disease is determined by spatial and social 
+      processes such as animal space use and family group structure. Yet, the impacts 
+      of social processes on spatial spread remain poorly understood and estimates of 
+      spatial transmission kernels (STKs) often exclude social structure. Understanding 
+      the impacts of social structure on STKs is important for obtaining robust 
+      inferences for policy decisions and optimizing response plans. We fit spatially 
+      explicit transmission models with different assumptions about contact structure 
+      to African swine fever virus surveillance data from eastern Poland from 2014 to 
+      2015 and evaluated how social structure affected inference of STKs and spatial 
+      spread. The model with social structure provided better inference of spatial 
+      spread, predicted that approximately 80% of transmission events occurred within 
+      family groups, and that transmission was weakly female-biased (other models 
+      predicted weakly male-biased transmission). In all models, most transmission 
+      events were within 1.5 km, with some rare events at longer distances. Effective 
+      reproductive numbers were between 1.1 and 2.5 (maximum values between 4 and 8). 
+      Social structure can modify spatial transmission dynamics. Accounting for this 
+      additional contact heterogeneity in spatial transmission models could provide 
+      more robust inferences of STKs for policy decisions, identify best control 
+      targets and improve transparency in model uncertainty.
+FAU - Pepin, Kim M
+AU  - Pepin KM
+AD  - National Wildlife Research Center, USDA, APHIS, Wildlife Services, 4101 Laporte 
+      Avenue, Fort Collins, CO 80526, USA.
+FAU - Golnar, Andrew
+AU  - Golnar A
+AD  - National Wildlife Research Center, USDA, APHIS, Wildlife Services, 4101 Laporte 
+      Avenue, Fort Collins, CO 80526, USA.
+FAU - Podgórski, Tomasz
+AU  - Podgórski T
+AD  - Mammal Research Institute, Polish Academy of Sciences, Stoczek 1, 17-230 
+      Białowieża, Poland.
+AD  - Department of Game Management and Wildlife Biology, Faculty of Forestry and Wood 
+      Sciences, Czech University of Life Sciences, Kamýcká 129, 165 00 Praha 6, Czech 
+      Republic.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20210120
+PL  - England
+TA  - J R Soc Interface
+JT  - Journal of the Royal Society, Interface
+JID - 101217269
+SB  - IM
+MH  - *African Swine Fever/epidemiology
+MH  - *African Swine Fever Virus
+MH  - Animals
+MH  - Basic Reproduction Number
+MH  - Female
+MH  - Male
+MH  - Sus scrofa
+MH  - Swine
+MH  - Uncertainty
+PMC - PMC7879769
+OTO - NOTNLM
+OT  - African swine fever
+OT  - effective reproduction number
+OT  - social structure
+OT  - spatial transmission kernel
+OT  - surveillance
+OT  - wild boar
+COIS- We declare we have no competing interests.
+EDAT- 2021/01/21 06:00
+MHDA- 2021/06/22 06:00
+PMCR- 2022/01/01
+CRDT- 2021/01/20 05:36
+PHST- 2021/01/20 05:36 [entrez]
+PHST- 2021/01/21 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+PHST- 2022/01/01 00:00 [pmc-release]
+AID - rsif20200761 [pii]
+AID - 10.1098/rsif.2020.0761 [doi]
+PST - ppublish
+SO  - J R Soc Interface. 2021 Jan;18(174):20200761. doi: 10.1098/rsif.2020.0761. Epub 
+      2021 Jan 20.
+
+PMID- 40142508
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250329
+IS  - 2076-2607 (Print)
+IS  - 2076-2607 (Electronic)
+IS  - 2076-2607 (Linking)
+VI  - 13
+IP  - 3
+DP  - 2025 Mar 7
+TI  - Specific Detection of African Swine Fever Virus Variants: Novel Quadplex 
+      Real-Time PCR Assay with Internal Control.
+LID - 10.3390/microorganisms13030615 [doi]
+LID - 615
+AB  - African swine fever (ASF), a highly contagious and lethal viral disease, 
+      continues to devastate the global swine industry. The emergence of ASF virus 
+      (ASFV) variants with varying genomic deletions poses significant challenges for 
+      ASF control. This study presents a novel, sensitive, and reliable quadplex 
+      real-time PCR assay for detecting ASFV variants lacking key genes (I177L, EP402R, 
+      and MGF360-14L), either individually or in combination. The assay targets 
+      conserved regions within these genes, ensuring broad coverage of diverse ASFV 
+      genotypes. A porcine beta-actin (ACTB) internal control was incorporated to 
+      minimize false-negative results. Optimization and evaluation using spike-in tests 
+      demonstrated high sensitivity, with a limit of detection (LOD) ranging from 1 to 
+      10 plasmid copies or 0.1 TCID(50) of ASFV isolates per reaction. No 
+      cross-reactivity was observed when testing serum samples from pigs infected with 
+      other common swine viruses. Further validation across a diverse panel of samples, 
+      including those from naturally ASFV-infected field pigs (n = 54), experimentally 
+      ASFV-infected pigs (n = 50), PBS-inoculated pigs (n = 50), ASFV-free field pigs 
+      (n = 100), and feral pigs (n = 6), confirmed 100% specificity. This robust assay 
+      provides a valuable tool for rapid and accurate ASF surveillance and control 
+      efforts, facilitating the timely detection and mitigation of outbreaks caused by 
+      emerging ASFV variants.
+FAU - Wang, Lihua
+AU  - Wang L
+AUID- ORCID: 0000-0001-7951-4175
+AD  - Center on Biologics Development and Evaluation, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS 66506, USA.
+AD  - Department of Anatomy and Physiology, College of Veterinary Medicine, Kansas 
+      State University, Manhattan, KS 66506, USA.
+FAU - Li, Yuzhen
+AU  - Li Y
+AD  - Center on Biologics Development and Evaluation, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS 66506, USA.
+AD  - Department of Anatomy and Physiology, College of Veterinary Medicine, Kansas 
+      State University, Manhattan, KS 66506, USA.
+FAU - Zhang, Xirui
+AU  - Zhang X
+AD  - Center on Biologics Development and Evaluation, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS 66506, USA.
+AD  - Department of Anatomy and Physiology, College of Veterinary Medicine, Kansas 
+      State University, Manhattan, KS 66506, USA.
+FAU - Madera, Rachel
+AU  - Madera R
+AUID- ORCID: 0000-0002-6809-6956
+AD  - Center on Biologics Development and Evaluation, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS 66506, USA.
+AD  - Department of Anatomy and Physiology, College of Veterinary Medicine, Kansas 
+      State University, Manhattan, KS 66506, USA.
+FAU - Pantua, Homer
+AU  - Pantua H
+AUID- ORCID: 0000-0001-6460-2623
+AD  - BioAssets Corporation, Santo Tomas 4234, Batangas, Philippines.
+FAU - Craig, Aidan
+AU  - Craig A
+AD  - Center on Biologics Development and Evaluation, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS 66506, USA.
+AD  - Department of Anatomy and Physiology, College of Veterinary Medicine, Kansas 
+      State University, Manhattan, KS 66506, USA.
+FAU - Muro, Nina
+AU  - Muro N
+AD  - Center on Biologics Development and Evaluation, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS 66506, USA.
+AD  - Department of Anatomy and Physiology, College of Veterinary Medicine, Kansas 
+      State University, Manhattan, KS 66506, USA.
+FAU - Li, Danqin
+AU  - Li D
+AD  - Center on Biologics Development and Evaluation, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS 66506, USA.
+AD  - Department of Anatomy and Physiology, College of Veterinary Medicine, Kansas 
+      State University, Manhattan, KS 66506, USA.
+FAU - Retallick, Jamie
+AU  - Retallick J
+AD  - Department of Diagnostic Medicine and Pathobiology, College of Veterinary 
+      Medicine, Kansas State University, Manhattan, KS 66506, USA.
+FAU - Ferreyra, Franco Matias
+AU  - Ferreyra FM
+AUID- ORCID: 0000-0002-2661-7530
+AD  - Department of Diagnostic Medicine and Pathobiology, College of Veterinary 
+      Medicine, Kansas State University, Manhattan, KS 66506, USA.
+FAU - Truong, Quang Lam
+AU  - Truong QL
+AUID- ORCID: 0000-0002-9403-2614
+AD  - Key Laboratory of Veterinary Biotechnology, Faculty of Veterinary Medicine, 
+      Vietnam National University of Agriculture, Gia Lam, Ha Noi 12406, Vietnam.
+FAU - Nguyen, Lan Thi
+AU  - Nguyen LT
+AD  - Key Laboratory of Veterinary Biotechnology, Faculty of Veterinary Medicine, 
+      Vietnam National University of Agriculture, Gia Lam, Ha Noi 12406, Vietnam.
+FAU - Shi, Jishu
+AU  - Shi J
+AUID- ORCID: 0000-0002-7177-9280
+AD  - Center on Biologics Development and Evaluation, College of Veterinary Medicine, 
+      Kansas State University, Manhattan, KS 66506, USA.
+AD  - Department of Anatomy and Physiology, College of Veterinary Medicine, Kansas 
+      State University, Manhattan, KS 66506, USA.
+LA  - eng
+GR  - 2022-67015-36516, 58-8064-8-011, 58-8064-9-007, 58-3020-9-020, 
+      25-6226-0633-002/United States Department of Agriculture/
+GR  - 70RSAT19CB0000027/United States Department of Homeland Security/
+GR  - 1021491/National Bio and Agro-Defense Facility Transition Fund, USDA NIFA 
+      Hatch-Multistate project/
+PT  - Journal Article
+DEP - 20250307
+PL  - Switzerland
+TA  - Microorganisms
+JT  - Microorganisms
+JID - 101625893
+PMC - PMC11946822
+OTO - NOTNLM
+OT  - African swine fever
+OT  - internal control
+OT  - real-time PCR
+OT  - sensitive
+OT  - specific
+OT  - variants
+COIS- Author Homer Pantua was employed by the company BioAssets Corporation. The 
+      remaining authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2025/03/27 06:28
+MHDA- 2025/03/27 06:29
+PMCR- 2025/03/07
+CRDT- 2025/03/27 01:12
+PHST- 2025/02/04 00:00 [received]
+PHST- 2025/03/04 00:00 [revised]
+PHST- 2025/03/04 00:00 [accepted]
+PHST- 2025/03/27 06:29 [medline]
+PHST- 2025/03/27 06:28 [pubmed]
+PHST- 2025/03/27 01:12 [entrez]
+PHST- 2025/03/07 00:00 [pmc-release]
+AID - microorganisms13030615 [pii]
+AID - microorganisms-13-00615 [pii]
+AID - 10.3390/microorganisms13030615 [doi]
+PST - epublish
+SO  - Microorganisms. 2025 Mar 7;13(3):615. doi: 10.3390/microorganisms13030615.
+
+PMID- 40303821
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250430
+LR  - 20250501
+IS  - 1865-1682 (Electronic)
+IS  - 1865-1674 (Print)
+IS  - 1865-1674 (Linking)
+VI  - 2023
+DP  - 2023
+TI  - Not Just Pictures: Utility of Camera Trapping in the Context of African Swine 
+      Fever and Wild Boar Management.
+PG  - 7820538
+LID - 10.1155/2023/7820538 [doi]
+LID - 7820538
+AB  - African swine fever (ASF) is a highly contagious disease affecting all suids and 
+      wild boar (Sus scrofa). Since 2007, ASF has spread to more than 30 countries in 
+      Europe and Asian regions, and the most recent outbreak has been in mainland Italy 
+      (reported on January 2022). When the genotype II of the ASF virus infects a 
+      population, a mortality rate close to 90% is usually reported. This drop in wild 
+      boar abundance produces a cascade effect in the entire ecosystem. In this 
+      context, effective monitoring tools for deriving management parameters are a 
+      priority aspect, and the utility of camera trapping could have been overlooked. 
+      Here, sampling the infected area in north Italy, we showed the utility of camera 
+      traps in the context of ASF infection. Specifically, we used 43 camera traps 
+      randomly distributed to (i) estimate movement parameters and population density 
+      of wild boar, roe deer (Capreolus capreolus), and wolf (Canis lupus); (ii) 
+      quantify wild boar recruitment; and (iii) assess whether the human restriction 
+      rules are being met. On the first spring after the outbreak detection, our 
+      results for wild boar indicated a density of 0.27 ind·km(-2) ± 0.11 (standard 
+      error, SE), a daily activity level of 0.49 ± 0.07 (i.e., 11.76 h·day(-1)), a 
+      daily distance travelled of 9.07 ± 1.80 km·day(-1), a litter size of 1.72 
+      piglets·group(-1), and a 72% of pregnant females. Despite human outdoor 
+      activities being restricted in the infected zone, we recorded human presence in 
+      19 camera traps. The wide range of parameters estimated from the camera trap 
+      data, together with some intrinsic and practical advantages of this tool, allows 
+      us to conclude that camera traps are well positioned to be a reference approach 
+      to monitor populations affected by ASF. The population-specific parameters are of 
+      prime importance for optimizing ASF control efforts.
+CI  - Copyright © 2023 Pablo Palencia et al.
+FAU - Palencia, Pablo
+AU  - Palencia P
+AUID- ORCID: 0000-0002-2928-4241
+AD  - Università Degli Studi di Torino, Dipartamiento di Scienze Veterinarie, Largo 
+      Paolo Braccini 2, Grugliasco, Torino 10095, Italy.
+FAU - Vada, Rachele
+AU  - Vada R
+AD  - Università Degli Studi di Torino, Dipartamiento di Scienze Veterinarie, Largo 
+      Paolo Braccini 2, Grugliasco, Torino 10095, Italy.
+FAU - Zanet, Stefania
+AU  - Zanet S
+AD  - Università Degli Studi di Torino, Dipartamiento di Scienze Veterinarie, Largo 
+      Paolo Braccini 2, Grugliasco, Torino 10095, Italy.
+FAU - Calvini, Mara
+AU  - Calvini M
+AD  - Ente di Gestione Delle Aree Protette Dell'Appennino Piemontese, Via Umberto I 51, 
+      Salita Poggio, Bosio 15060, Italy.
+FAU - De Giovanni, Andrea
+AU  - De Giovanni A
+AD  - Ente di Gestione Delle Aree Protette Dell'Appennino Piemontese, Via Umberto I 51, 
+      Salita Poggio, Bosio 15060, Italy.
+FAU - Gola, Giacomo
+AU  - Gola G
+AD  - Ente di Gestione Delle Aree Protette Dell'Appennino Piemontese, Via Umberto I 51, 
+      Salita Poggio, Bosio 15060, Italy.
+FAU - Ferroglio, Ezio
+AU  - Ferroglio E
+AD  - Università Degli Studi di Torino, Dipartamiento di Scienze Veterinarie, Largo 
+      Paolo Braccini 2, Grugliasco, Torino 10095, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20230225
+PL  - Germany
+TA  - Transbound Emerg Dis
+JT  - Transboundary and emerging diseases
+JID - 101319538
+SB  - IM
+MH  - Animals
+MH  - *African Swine Fever/epidemiology/prevention & control/virology
+MH  - *Sus scrofa
+MH  - Swine
+MH  - Italy/epidemiology
+MH  - *Photography
+MH  - Deer
+MH  - Disease Outbreaks/veterinary
+MH  - African Swine Fever Virus
+MH  - Population Density
+PMC - PMC12017085
+COIS- The authors declare that they have no conflicts of interest.
+EDAT- 2023/02/25 00:00
+MHDA- 2025/04/30 12:29
+PMCR- 2023/02/25
+CRDT- 2025/04/30 05:04
+PHST- 2022/11/30 00:00 [received]
+PHST- 2023/01/23 00:00 [revised]
+PHST- 2023/02/07 00:00 [accepted]
+PHST- 2025/04/30 12:29 [medline]
+PHST- 2023/02/25 00:00 [pubmed]
+PHST- 2025/04/30 05:04 [entrez]
+PHST- 2023/02/25 00:00 [pmc-release]
+AID - 10.1155/2023/7820538 [doi]
+PST - epublish
+SO  - Transbound Emerg Dis. 2023 Feb 25;2023:7820538. doi: 10.1155/2023/7820538. 
+      eCollection 2023.
+
+PMID- 31726114
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210315
+LR  - 20210315
+IS  - 1879-0984 (Electronic)
+IS  - 0166-0934 (Linking)
+VI  - 276
+DP  - 2020 Feb
+TI  - Development of a real-time loop-mediated isothermal amplification (LAMP) assay 
+      and visual LAMP assay for detection of African swine fever virus (ASFV).
+PG  - 113775
+LID - S0166-0934(19)30266-6 [pii]
+LID - 10.1016/j.jviromet.2019.113775 [doi]
+AB  - African swine fever (ASF) is a fatal disease caused by a virus in domestic pigs. 
+      In this study, a real-time loop-mediated isothermal amplification (LAMP) assay 
+      and visual LAMP assay were developed for the detection of African swine fever 
+      virus (ASFV). LAMP primers targeting the p10 gene of ASFV were designed, the LAMP 
+      reaction system was optimized with plasmid pUC57 containing the p10 gene 
+      sequence, and the specificities of the real-time LAMP and the visual assays were 
+      tested with the DNA or cDNA of pseudorabies virus (PRV), porcine circovirus type 
+      2 (PCV2), classical swine fever virus (CSFV), porcine reproductive and 
+      respiratory syndrome virus (PRRSV), porcine parvovirus (PPV) and ASFV, as well as 
+      the plasmid pUC57 containing the p10 gene sequence. The detection limits were 
+      determined using a serial dilution of plasmid pUC57 containing the p10 gene 
+      sequence. Our results showed that the LAMP assays could accurately and 
+      specifically detect ASFV with a detection limit of 30 copies per μl(-1) of pUC57 
+      containing p10 gene sequence. In addition, the LAMP assays were further evaluated 
+      using various genotypes of ASFV strains. Furthermore, the LAMP assays are 
+      comparable with the well-established real-time PCR assay. This study provides 
+      promising solutions for facilitating preliminary and cost-effective surveillance 
+      for prevention and control of ASFV.
+CI  - Published by Elsevier B.V.
+FAU - Wang, Deguo
+AU  - Wang D
+AD  - Key Laboratory of Biomarker Based Rapid-detection Technology for Food Safety of 
+      Henan Province, Xuchang University, Xuchang, 461000, China.
+FAU - Yu, Jianghan
+AU  - Yu J
+AD  - School of Food and Biological Engineering, Henan University of Science and 
+      Technology, Luoyang, 471000, China.
+FAU - Wang, Yongzhen
+AU  - Wang Y
+AD  - Key Laboratory of Biomarker Based Rapid-detection Technology for Food Safety of 
+      Henan Province, Xuchang University, Xuchang, 461000, China.
+FAU - Zhang, Meng
+AU  - Zhang M
+AD  - School of Food and Biological Engineering, Henan University of Science and 
+      Technology, Luoyang, 471000, China.
+FAU - Li, Peng
+AU  - Li P
+AD  - XinXiang University, Xinxiang, 453000, China.
+FAU - Liu, Meng
+AU  - Liu M
+AD  - Zhumadian Veterinary Drug & Feed (Animal Products) Inspection and Testing Center, 
+      Zhumadian, 463000, China.
+FAU - Liu, Yanhong
+AU  - Liu Y
+AD  - Molecular Characterization of Foodborne Pathogens Research Unit, Eastern Regional 
+      Research Center, Agricultural Research Service, United States Department of 
+      Agriculture, Wyndmoor, PA, 19038, USA. Electronic address: yanhong.liu@usda.gov.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20191111
+PL  - Netherlands
+TA  - J Virol Methods
+JT  - Journal of virological methods
+JID - 8005839
+RN  - 0 (DNA, Viral)
+RN  - LAMP assay
+SB  - IM
+MH  - African Swine Fever/*diagnosis/virology
+MH  - African Swine Fever Virus/genetics/*isolation & purification
+MH  - Animals
+MH  - Animals, Domestic/virology
+MH  - DNA, Viral/*genetics
+MH  - Limit of Detection
+MH  - Molecular Diagnostic Techniques/*methods
+MH  - Nucleic Acid Amplification Techniques/*methods
+MH  - Real-Time Polymerase Chain Reaction
+MH  - Reproducibility of Results
+MH  - Sensitivity and Specificity
+MH  - Swine/virology
+OTO - NOTNLM
+OT  - African swine fever (ASF)
+OT  - African swine fever virus (ASFV)
+OT  - Loop-mediated isothermal amplification (LAMP)
+EDAT- 2019/11/15 06:00
+MHDA- 2021/03/16 06:00
+CRDT- 2019/11/15 06:00
+PHST- 2019/07/09 00:00 [received]
+PHST- 2019/11/05 00:00 [revised]
+PHST- 2019/11/10 00:00 [accepted]
+PHST- 2019/11/15 06:00 [pubmed]
+PHST- 2021/03/16 06:00 [medline]
+PHST- 2019/11/15 06:00 [entrez]
+AID - S0166-0934(19)30266-6 [pii]
+AID - 10.1016/j.jviromet.2019.113775 [doi]
+PST - ppublish
+SO  - J Virol Methods. 2020 Feb;276:113775. doi: 10.1016/j.jviromet.2019.113775. Epub 
+      2019 Nov 11.
+
+PMID- 25457602
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150817
+LR  - 20181113
+IS  - 1877-5853 (Electronic)
+IS  - 1877-5845 (Print)
+IS  - 1877-5845 (Linking)
+VI  - 11
+DP  - 2014 Oct
+TI  - Spatio-temporal modeling of the African swine fever epidemic in the Russian 
+      Federation, 2007-2012.
+PG  - 135-41
+LID - S1877-5845(14)00016-1 [pii]
+LID - 10.1016/j.sste.2014.04.002 [doi]
+AB  - In 2007 African swine fever (ASF) entered Georgia and in the same year the 
+      disease entered the Russian Federation. From 2007 to 2012 ASF spread throughout 
+      the southern region of the Russian Federation. At the same time several cases of 
+      ASF were detected in the central and northern regions of the Russian Federation, 
+      forming a northern cluster of outbreaks in 2011. This northern cluster is of 
+      concern because of its proximity to mainland Europe. The aim of this study was to 
+      use details of recorded ASF outbreaks and human and swine population details to 
+      estimate the spatial distribution of ASF risk in the southern region of the 
+      European part of the Russian Federation. Our model of ASF risk was comprised of 
+      two components. The first was an estimate of ASF suitability scores calculated 
+      using maximum entropy methods. The second was an estimate of ASF risk as a 
+      function of Euclidean distance from index cases. An exponential distribution 
+      fitted to a frequency histogram of the Euclidean distance between consecutive ASF 
+      cases had a mean value of 156 km, a distance greater than the surveillance zone 
+      radius of 100-150 km stated in the ASF control regulations for the Russian 
+      Federation. We show that the spatial and temporal risk of ASF expansion is 
+      related to the suitability of the area of potential expansion, which is in turn a 
+      function of socio-economic and geographic variables. We propose that the 
+      methodology presented in this paper provides a useful tool to optimize 
+      surveillance for ASF in affected areas.
+CI  - Copyright © 2014 Elsevier Ltd. All rights reserved.
+FAU - Korennoy, F I
+AU  - Korennoy FI
+AD  - Federal Centre for Animal Health, Yur'evets, Vladimir 600901, Russian Federation. 
+      Electronic address: korennoy@arriah.ru.
+FAU - Gulenkin, V M
+AU  - Gulenkin VM
+AD  - Federal Centre for Animal Health, Yur'evets, Vladimir 600901, Russian Federation.
+FAU - Malone, J B
+AU  - Malone JB
+AD  - School of Veterinary Medicine, Louisiana State University, Baton Rouge, LA, USA.
+FAU - Mores, C N
+AU  - Mores CN
+AD  - School of Veterinary Medicine, Louisiana State University, Baton Rouge, LA, USA.
+FAU - Dudnikov, S A
+AU  - Dudnikov SA
+AD  - Federal Centre for Animal Health, Yur'evets, Vladimir 600901, Russian Federation.
+FAU - Stevenson, M A
+AU  - Stevenson MA
+AD  - Faculty of Veterinary Science, University of Melbourne, Parkville, Victoria, 
+      Australia.
+LA  - eng
+GR  - U01 GM097661/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+DEP - 20140426
+PL  - Netherlands
+TA  - Spat Spatiotemporal Epidemiol
+JT  - Spatial and spatio-temporal epidemiology
+JID - 101516571
+SB  - IM
+MH  - African Swine Fever/*epidemiology
+MH  - Animals
+MH  - Epidemics/*statistics & numerical data/*veterinary
+MH  - Humans
+MH  - Risk Factors
+MH  - Russia/epidemiology
+MH  - Socioeconomic Factors
+MH  - *Spatio-Temporal Analysis
+MH  - Swine
+PMC - PMC4386635
+MID - NIHMS676161
+OTO - NOTNLM
+OT  - African swine fever
+OT  - Maxent
+OT  - Risk mapping
+OT  - Spatio-temporal modeling
+COIS- Conflict of interest statement None of the authors has any financial or personal 
+      relationships that could inappropriately influence or bias the content of this 
+      paper.
+EDAT- 2014/12/03 06:00
+MHDA- 2015/08/19 06:00
+PMCR- 2015/10/01
+CRDT- 2014/12/03 06:00
+PHST- 2013/09/06 00:00 [received]
+PHST- 2014/04/08 00:00 [accepted]
+PHST- 2014/12/03 06:00 [entrez]
+PHST- 2014/12/03 06:00 [pubmed]
+PHST- 2015/08/19 06:00 [medline]
+PHST- 2015/10/01 00:00 [pmc-release]
+AID - S1877-5845(14)00016-1 [pii]
+AID - 10.1016/j.sste.2014.04.002 [doi]
+PST - ppublish
+SO  - Spat Spatiotemporal Epidemiol. 2014 Oct;11:135-41. doi: 
+      10.1016/j.sste.2014.04.002. Epub 2014 Apr 26.
+
+PMID- 29799177
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190111
+LR  - 20190111
+IS  - 1865-1682 (Electronic)
+IS  - 1865-1674 (Linking)
+VI  - 65
+IP  - 6
+DP  - 2018 Dec
+TI  - Do wild boar movements drive the spread of African Swine Fever?
+PG  - 1588-1596
+LID - 10.1111/tbed.12910 [doi]
+AB  - The spatial behaviour of hosts can seriously affect the transmission of pathogens 
+      and spatial spread of diseases. Understanding the relationship between host 
+      movements and disease dynamics is of prime importance for optimizing disease 
+      control efforts. African swine fever (ASF), a devastating disease of wild and 
+      domestic suids, has been spreading continuously through eastern Europe since 
+      2007. The wild boar (Sus scrofa) has been implicated in the epidemiology of this 
+      disease, but the role of wild boar movements in ASF dynamics and spread has not 
+      been studied and remains largely speculative. Here, we examined whether monthly 
+      parameters of wild boar movements (dispersal distance of yearlings, home range 
+      size of adult males and females) can explain variation in the spatio-temporal 
+      dynamics of the ASF outbreak in the wild boar population in north-eastern Poland, 
+      2014-2015. We expected to observe a positive relationship between host mobility 
+      and disease spread. Contrary to our expectations, we found that movements of wild 
+      boar, despite their seasonal variation, were poor predictors of ASF dynamics in 
+      space and time. During the 2 years of the study, ASF spread gradually at a steady 
+      pace of 1.5 km/month without significant changes across seasons. None of the 
+      analysed movement parameters explained variation in the measures of ASF 
+      occurrence and spread (i.e., number of cases, prevalence, size and expansion rate 
+      of the outbreak area). We believe that the factor limiting the influence of host 
+      movements on ASF dynamics is the severity of the disease, which quickly hampers 
+      extensive movements and restricts disease transmission to only the most immediate 
+      individuals. Three natural factors constrain direct disease transmission: wild 
+      boar social structure, the short duration of low-level virus shedding and high 
+      virus-induced lethality, followed by indirect transmission through infected 
+      carcasses. These most likely shape the gradual spread of ASF in space and its 
+      persistence in already infected areas.
+CI  - © 2018 Blackwell Verlag GmbH.
+FAU - Podgórski, Tomasz
+AU  - Podgórski T
+AUID- ORCID: 0000-0001-6858-7838
+AD  - Mammal Research Institute, Polish Academy of Sciences, Białowieża, Poland.
+FAU - Śmietanka, Krzysztof
+AU  - Śmietanka K
+AD  - National Veterinary Research Institute, Puławy, Poland.
+LA  - eng
+GR  - 2014/15/B/NZ9/01933/Narodowe Centrum Nauki/
+PT  - Journal Article
+DEP - 20180525
+PL  - Germany
+TA  - Transbound Emerg Dis
+JT  - Transboundary and emerging diseases
+JID - 101319538
+SB  - IM
+MH  - African Swine Fever/*transmission/virology
+MH  - African Swine Fever Virus/*pathogenicity
+MH  - Animals
+MH  - Animals, Domestic
+MH  - Disease Outbreaks/*veterinary
+MH  - Disease Transmission, Infectious/*veterinary
+MH  - Female
+MH  - Male
+MH  - Poland
+MH  - Prevalence
+MH  - Seasons
+MH  - Sus scrofa/*virology
+MH  - Swine
+MH  - Swine Diseases/*transmission/virology
+OTO - NOTNLM
+OT  - ASF
+OT  - dispersal
+OT  - home range
+OT  - prevalence
+OT  - spatial epidemiology
+EDAT- 2018/05/26 06:00
+MHDA- 2019/01/12 06:00
+CRDT- 2018/05/26 06:00
+PHST- 2017/10/18 00:00 [received]
+PHST- 2018/04/25 00:00 [revised]
+PHST- 2018/04/26 00:00 [accepted]
+PHST- 2018/05/26 06:00 [pubmed]
+PHST- 2019/01/12 06:00 [medline]
+PHST- 2018/05/26 06:00 [entrez]
+AID - 10.1111/tbed.12910 [doi]
+PST - ppublish
+SO  - Transbound Emerg Dis. 2018 Dec;65(6):1588-1596. doi: 10.1111/tbed.12910. Epub 
+      2018 May 25.
+
+PMID- 38896403
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240828
+LR  - 20241015
+IS  - 1179-1888 (Electronic)
+IS  - 1175-0561 (Print)
+IS  - 1175-0561 (Linking)
+VI  - 25
+IP  - 5
+DP  - 2024 Sep
+TI  - Evaluation of the Tolerability of Hedgehog Pathway Inhibitors in the Treatment of 
+      Advanced Basal Cell Carcinoma: A Narrative Review of Treatment Strategies.
+PG  - 779-794
+LID - 10.1007/s40257-024-00870-3 [doi]
+AB  - Hedgehog pathway inhibitors (HHIs) have broadened the treatment options available 
+      for patients with advanced basal cell carcinoma (BCC) for whom traditional 
+      therapeutic approaches are not feasible or effective. Sonidegib and vismodegib 
+      are oral HHIs that were approved for treatment of patients with advanced BCC 
+      after demonstrating promising efficacy in the pivotal Phase II BOLT (NCT01327053) 
+      and ERIVANCE (NCT00833417) trials, respectively. However, the incidence and types 
+      of treatment-emergent adverse events (AEs) observed with these agents may limit 
+      continuous use of HHIs and ultimately impact clinical outcomes. In this review, 
+      we summarize the safety and tolerability profiles of sonidegib and vismodegib and 
+      discuss potential management strategies for HHI class-effect AEs, including 
+      muscle spasms, creatine phosphokinase increase, alopecia, and dysgeusia. These 
+      AEs primarily occur early in treatment and can lead to treatment discontinuation. 
+      Differences in the pharmacokinetic profiles of sonidegib and vismodegib may 
+      contribute to the variability noted in times to onset and resolution of these and 
+      other AEs. Evidence suggests that protocol modifications, such as treatment 
+      interruptions and dose reductions, are effective ways to manage AEs while 
+      maintaining disease control. Nonpharmacologic and pharmacologic interventions may 
+      also be considered as part of an AE management strategy. Overall, healthcare 
+      providers and patients with advanced BCC should be aware of the HHI class-effect 
+      AEs and plan effective management strategies to avoid treatment discontinuation 
+      and optimize therapeutic response.
+CI  - © 2024. The Author(s).
+FAU - Farberg, Aaron S
+AU  - Farberg AS
+AD  - Section of Dermatology, Baylor Scott & White Health System, Dallas, TX, USA. 
+      aaron.farberg@gmail.com.
+AD  - Bare Dermatology, 2110 Research Row, Dallas, TX, 75235, USA. 
+      aaron.farberg@gmail.com.
+FAU - Portela, Dustin
+AU  - Portela D
+AD  - Treasure Valley Dermatology, Boise, ID, USA.
+FAU - Sharma, Divya
+AU  - Sharma D
+AD  - Department of Dermatology, University of Nebraska Medical Center, Omaha, NE, USA.
+FAU - Kheterpal, Meenal
+AU  - Kheterpal M
+AD  - Department of Dermatology, Duke Health, Duke University, Durham, NC, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20240619
+PL  - New Zealand
+TA  - Am J Clin Dermatol
+JT  - American journal of clinical dermatology
+JID - 100895290
+RN  - 0 (Anilides)
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Biphenyl Compounds)
+RN  - 0 (Hedgehog Proteins)
+RN  - 0 (HhAntag691)
+RN  - 0 (Pyridines)
+RN  - 0RLU3VTK5M (sonidegib)
+SB  - IM
+MH  - Humans
+MH  - Alopecia/chemically induced/epidemiology
+MH  - *Anilides/adverse effects/administration & dosage/therapeutic use
+MH  - *Antineoplastic Agents/administration & dosage/adverse effects
+MH  - *Biphenyl Compounds/administration & dosage/adverse effects
+MH  - *Carcinoma, Basal Cell/drug therapy/pathology
+MH  - Clinical Trials, Phase II as Topic
+MH  - Dysgeusia/chemically induced/epidemiology
+MH  - *Hedgehog Proteins/antagonists & inhibitors/metabolism
+MH  - *Pyridines/administration & dosage/adverse effects
+MH  - Signal Transduction/drug effects
+MH  - *Skin Neoplasms/drug therapy/pathology
+MH  - Treatment Outcome
+MH  - Randomized Controlled Trials as Topic
+PMC - PMC11358199
+COIS- A.S.F is an advisor to Boehringer Ingelheim, Bristol Myers Squibb, Castle 
+      Biosciences, Galderma, InCyte, Janssen, L’Oréal, Novartis, Ortho Dermatologics, 
+      Pfizer, Regeneron Pharmaceuticals, Sanofi, and Sun Pharma. D.P. and D.S. do not 
+      have any conflicts of interest to disclose. M.K. received honoraria for advisory 
+      boards from LEO Pharma, Regeneron Pharmaceuticals, and Sun Pharma.
+EDAT- 2024/06/19 12:45
+MHDA- 2024/08/28 12:43
+PMCR- 2024/06/19
+CRDT- 2024/06/19 11:21
+PHST- 2024/05/12 00:00 [accepted]
+PHST- 2024/08/28 12:43 [medline]
+PHST- 2024/06/19 12:45 [pubmed]
+PHST- 2024/06/19 11:21 [entrez]
+PHST- 2024/06/19 00:00 [pmc-release]
+AID - 10.1007/s40257-024-00870-3 [pii]
+AID - 870 [pii]
+AID - 10.1007/s40257-024-00870-3 [doi]
+PST - ppublish
+SO  - Am J Clin Dermatol. 2024 Sep;25(5):779-794. doi: 10.1007/s40257-024-00870-3. Epub 
+      2024 Jun 19.
+
+PMID- 35733347
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220929
+LR  - 20221207
+IS  - 2053-1095 (Electronic)
+IS  - 2053-1095 (Linking)
+VI  - 8
+IP  - 5
+DP  - 2022 Sep
+TI  - Early-phase risk assessments during the first epidemic year of African swine 
+      fever outbreaks in Vietnamese pigs.
+PG  - 1993-2004
+LID - 10.1002/vms3.852 [doi]
+AB  - BACKGROUND: African swine fever (ASF) is a notifiable viral disease of pigs and 
+      wild boars that could lead to serious economic losses for the swine industry. 
+      OBJECTIVES: The aim of this study was to identify risk factors in the early phase 
+      of ASF outbreaks in Vietnamese swine herds during the first epidemic year. 
+      METHODS: The period of interest for this case-control study was February to July 
+      2019. A questionnaire was administered in northern Vietnam where all early cases 
+      of ASF were reported. Producers of herds with reported cases were asked to 
+      provide information starting from the day of onset of clinical signs as well as 
+      30 days prior to that day. The period of interest for controls was within the 6 
+      months of the first outbreak in Vietnam (February 2019). Questionnaires included 
+      55 questions; responses were received from 67 cases and 115 controls. Logistic 
+      regression analysis was used to identify factors associated with ASF status. 
+      RESULTS: Thirty-seven variables of interest (among a total of 55 variables) were 
+      associated with ASF status in univariate analysis (p < 0.05). These 37 variables 
+      were assessed for inclusion in the multivariate analysis by backward stepwise 
+      selection. Six variables remained significant as ASF risk factors in the final 
+      model: distance to farm within 500 m, distance of irrigation systems within 200 
+      m, total number of pigs (≤500), absence of dressing rooms for workers/visitors 
+      before entering the farm, poor hygienic practices for people within the farm, and 
+      poor hygienic practices at pig loading/unloading locations. CONCLUSIONS: These 
+      results may help in understanding the epidemiology of ASF in Vietnam and provide 
+      a scientific basis for optimization of current interventions and development of 
+      new tools and strategies to reduce transmission of ASF.
+CI  - © 2022 The Authors. Veterinary Medicine and Science published by John Wiley & 
+      Sons Ltd.
+FAU - Mai, Ngan Thi
+AU  - Mai NT
+AD  - Department of Veterinary Microbiology and Infectious Diseases, Faculty of 
+      Veterinary Medicine, Vietnam National University of Agriculture, Hanoi, Vietnam.
+FAU - Tuyen, Le Anh
+AU  - Tuyen LA
+AD  - Department of Veterinary Microbiology and Infectious Diseases, Faculty of 
+      Veterinary Medicine, Vietnam National University of Agriculture, Hanoi, Vietnam.
+FAU - Van Truong, Le
+AU  - Van Truong L
+AD  - Department of Veterinary Microbiology and Infectious Diseases, Faculty of 
+      Veterinary Medicine, Vietnam National University of Agriculture, Hanoi, Vietnam.
+FAU - Huynh, Le Thi My
+AU  - Huynh LTM
+AD  - Department of Veterinary Microbiology and Infectious Diseases, Faculty of 
+      Veterinary Medicine, Vietnam National University of Agriculture, Hanoi, Vietnam.
+FAU - Huong, Pham Thi Lan
+AU  - Huong PTL
+AD  - Department of Pharmacology, Toxicology, Internal Medicine and Diagnostics, 
+      Faculty of Veterinary Medicine, Vietnam National University of Agriculture, 
+      Hanoi, Vietnam.
+FAU - Hanh, Vu Duc
+AU  - Hanh VD
+AD  - Department of Veterinary Anatomy, Histology and Embryology, Faculty of Veterinary 
+      Medicine, Vietnam National University of Agriculture, Hanoi, Vietnam.
+FAU - Anh, Vu Viet
+AU  - Anh VV
+AUID- ORCID: 0000-0001-6243-2579
+AD  - Central Laboratory, Faculty of Animal Science, Vietnam National University of 
+      Agriculture, Hanoi, Vietnam.
+FAU - Hoa, Nguyen Xuan
+AU  - Hoa NX
+AD  - Department of Veterinary Medicine, Faculty of Animal Husbandry and Veterinary 
+      Medicine, Hue University of Agriculture and Forestry, Hue, Vietnam.
+FAU - Vui, Tran Quang
+AU  - Vui TQ
+AD  - Department of Veterinary Medicine, Faculty of Animal Husbandry and Veterinary 
+      Medicine, Hue University of Agriculture and Forestry, Hue, Vietnam.
+FAU - Sekiguchi, Satoshi
+AU  - Sekiguchi S
+AUID- ORCID: 0000-0003-2066-128X
+AD  - Center for Animal Disease Control, University of Miyazaki, Miyazaki, Japan.
+AD  - Department of Veterinary Science, Faculty of Agriculture, University of Miyazaki, 
+      Miyazaki, Japan.
+LA  - eng
+PT  - Journal Article
+DEP - 20220622
+PL  - England
+TA  - Vet Med Sci
+JT  - Veterinary medicine and science
+JID - 101678837
+SB  - IM
+MH  - *African Swine Fever/epidemiology/prevention & control
+MH  - *African Swine Fever Virus/physiology
+MH  - Animals
+MH  - Asian People
+MH  - Case-Control Studies
+MH  - Disease Outbreaks/veterinary
+MH  - Humans
+MH  - Risk Assessment
+MH  - Swine
+MH  - *Swine Diseases/epidemiology
+MH  - Vietnam/epidemiology
+PMC - PMC9514500
+OTO - NOTNLM
+OT  - ASF
+OT  - Vietnam
+OT  - case-control study
+OT  - epidemic
+OT  - risk factors
+EDAT- 2022/06/24 06:00
+MHDA- 2022/09/30 06:00
+PMCR- 2022/06/22
+CRDT- 2022/06/23 01:52
+PHST- 2022/06/24 06:00 [pubmed]
+PHST- 2022/09/30 06:00 [medline]
+PHST- 2022/06/23 01:52 [entrez]
+PHST- 2022/06/22 00:00 [pmc-release]
+AID - VMS3852 [pii]
+AID - 10.1002/vms3.852 [doi]
+PST - ppublish
+SO  - Vet Med Sci. 2022 Sep;8(5):1993-2004. doi: 10.1002/vms3.852. Epub 2022 Jun 22.
+
+PMID- 38275963
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240129
+LR  - 20241023
+IS  - 1999-4915 (Electronic)
+IS  - 1999-4915 (Linking)
+VI  - 16
+IP  - 1
+DP  - 2024 Jan 19
+TI  - Optimizing Vaccination Strategies against African Swine Fever Using Spatial Data 
+      from Wild Boars in Lithuania.
+LID - 10.3390/v16010153 [doi]
+LID - 153
+AB  - African swine fever (ASF) is one of the most severe suid diseases, impacting the 
+      pig industry and wild suid populations. Once an ASF vaccine is available, 
+      identifying a sufficient density of vaccination fields will be crucial to achieve 
+      eradication success. In 2020-2023, we live-trapped and monitored 27 wild boars in 
+      different areas of Lithuania, in which the wild boars were fed at artificial 
+      stations. We built a simulation study to estimate the probability of a successful 
+      ASF vaccination as a function of different eco-epidemiological factors. The 
+      average 32-day home range size across all individuals was 16.2 km(2) (SD = 16.9). 
+      The wild boars made frequent visits of short durations to the feeding sites 
+      rather than long visits interposed by long periods of absence. A feeding site 
+      density of 0.5/km(2) corresponded to an expected vaccination rate of only 20%. 
+      The vaccination probability increased to about 75% when the feeding site density 
+      was 1.0/km(2). Our results suggest that at least one vaccination field/km(2) 
+      should be used when planning an ASF vaccination campaign to ensure that everyone 
+      in the population has at least 5-10 vaccination sites available inside the home 
+      range. Similar studies should be conducted in the other ecological contexts in 
+      which ASF is present today or will be present in the future, with the objective 
+      being to estimate a context-specific relationship between wild boar movement 
+      patterns and an optimal vaccination strategy.
+FAU - Gervasi, Vincenzo
+AU  - Gervasi V
+AD  - Istituto Superiore per la Protezione e la Ricerca Ambientale, Via V. Brancati 60, 
+      00144 Roma, Italy.
+FAU - Masiulis, Marius
+AU  - Masiulis M
+AUID- ORCID: 0000-0003-2779-5803
+AD  - State Food and Veterinary Service of the Republic of Lithuania, Siesiku 19, 07170 
+      Vilnius, Lithuania.
+AD  - Veterinary Academy, Lithuanian University of Health Sciences, Tilzes 18, 47181 
+      Kaunas, Lithuania.
+FAU - Bušauskas, Paulius
+AU  - Bušauskas P
+AD  - State Food and Veterinary Service of the Republic of Lithuania, Siesiku 19, 07170 
+      Vilnius, Lithuania.
+FAU - Bellini, Silvia
+AU  - Bellini S
+AD  - Istituto Zooprofilattico della Lombardia ed Emilia-Romagna, Via A. Bianchi 7/9, 
+      25124 Brescia, Italy.
+FAU - Guberti, Vittorio
+AU  - Guberti V
+AD  - Istituto Superiore per la Protezione e la Ricerca Ambientale, Via Cà Fornacetta 
+      9, 40064 Ozzano dell'Emilia, Italy.
+LA  - eng
+GR  - 773701/European Union/
+PT  - Journal Article
+DEP - 20240119
+PL  - Switzerland
+TA  - Viruses
+JT  - Viruses
+JID - 101509722
+SB  - IM
+MH  - Humans
+MH  - Swine
+MH  - Animals
+MH  - *African Swine Fever/epidemiology/prevention & control
+MH  - Sus scrofa
+MH  - *African Swine Fever Virus
+MH  - Lithuania/epidemiology
+MH  - Vaccination/veterinary
+MH  - *Swine Diseases
+PMC - PMC10820490
+OTO - NOTNLM
+OT  - Asfaviridae
+OT  - Sus scrofa
+OT  - disease eradication
+OT  - home range size
+OT  - oral mass vaccination
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/01/26 12:45
+MHDA- 2024/01/29 06:42
+PMCR- 2024/01/19
+CRDT- 2024/01/26 09:23
+PHST- 2023/12/11 00:00 [received]
+PHST- 2024/01/09 00:00 [revised]
+PHST- 2024/01/17 00:00 [accepted]
+PHST- 2024/01/29 06:42 [medline]
+PHST- 2024/01/26 12:45 [pubmed]
+PHST- 2024/01/26 09:23 [entrez]
+PHST- 2024/01/19 00:00 [pmc-release]
+AID - v16010153 [pii]
+AID - viruses-16-00153 [pii]
+AID - 10.3390/v16010153 [doi]
+PST - epublish
+SO  - Viruses. 2024 Jan 19;16(1):153. doi: 10.3390/v16010153.
+
+PMID- 35698807
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220804
+LR  - 20220813
+IS  - 1976-555X (Electronic)
+IS  - 1229-845X (Print)
+IS  - 1229-845X (Linking)
+VI  - 23
+IP  - 4
+DP  - 2022 Jul
+TI  - Development of a ladder-shape melting temperature isothermal amplification 
+      (LMTIA) assay for detection of African swine fever virus (ASFV).
+PG  - e51
+LID - 10.4142/jvs.22001 [doi]
+LID - e51
+AB  - BACKGROUND: Due to the unavailability of an effective vaccine or antiviral drug 
+      against the African swine fever virus (ASFV), rapid diagnosis methods are needed 
+      to prevent highly contagious African swine fever. OBJECTIVES: The objective of 
+      this study was to establish the ladder-shape melting temperature isothermal 
+      amplification (LMTIA) assay for the detection of ASFV. METHODS: LMTIA primers 
+      were designed with the p72 gene of ASFV as the target, and plasmid pUC57 was used 
+      to clone the gene. The LMTIA reaction system was optimized with the plasmid as 
+      the positive control, and the performance of the LMTIA assay was compared with 
+      that of the commercial real-time polymerase chain reaction (PCR) kit in terms of 
+      sensitivity and detection rate using 200 serum samples. RESULTS: Our results 
+      showed that the LMTIA assay could detect the 10(4) dilution of DNA extracted from 
+      the positive reference serum sample, which was the same as that of the commercial 
+      real-time PCR kit. The coincidence rate between the two assays was 100%. 
+      CONCLUSIONS: The LMTIA assay had high sensitivity, good detection, and simple 
+      operation. Thus, it is suitable for facilitating preliminary and cost-effective 
+      surveillance for the prevention and control of ASFV.
+CI  - © 2022 The Korean Society of Veterinary Science.
+FAU - Wang, Yongzhen
+AU  - Wang Y
+AUID- ORCID: 0000-0002-0440-1181
+AD  - Key Laboratory of Biomarker Based Rapid-Detection Technology for Food Safety of 
+      Henan Province, Xuchang University, Xuchang 461000, China.
+FAU - Wang, Borui
+AU  - Wang B
+AUID- ORCID: 0000-0003-2275-7525
+AD  - School of Food and Biological Engineering, Henan University of Science and 
+      Technology, Luoyang 471000, China.
+FAU - Xu, Dandan
+AU  - Xu D
+AUID- ORCID: 0000-0002-4168-3616
+AD  - School of Food and Biological Engineering, Henan University of Science and 
+      Technology, Luoyang 471000, China.
+FAU - Zhang, Meng
+AU  - Zhang M
+AUID- ORCID: 0000-0002-3690-8390
+AD  - School of Food and Biological Engineering, Henan University of Science and 
+      Technology, Luoyang 471000, China.
+FAU - Zhang, Xiaohua
+AU  - Zhang X
+AUID- ORCID: 0000-0003-4993-6013
+AD  - Key Laboratory of Biomarker Based Rapid-Detection Technology for Food Safety of 
+      Henan Province, Xuchang University, Xuchang 461000, China.
+FAU - Wang, Deguo
+AU  - Wang D
+AUID- ORCID: 0000-0003-0594-9533
+AD  - Key Laboratory of Biomarker Based Rapid-Detection Technology for Food Safety of 
+      Henan Province, Xuchang University, Xuchang 461000, China. wangdg666@126.com.
+LA  - eng
+GR  - 31701689/National Natural Science Foundation of China/China
+GR  - 32172300/National Natural Science Foundation of China/China
+GR  - 212102110214/Technology Project of Henan Province/China
+GR  - 212102110214/Xuchang University and Local Goverment Cooperation Project/China
+PT  - Journal Article
+DEP - 20220502
+PL  - Korea (South)
+TA  - J Vet Sci
+JT  - Journal of veterinary science
+JID - 100964185
+RN  - 0 (DNA, Viral)
+SB  - IM
+MH  - *African Swine Fever/diagnosis
+MH  - *African Swine Fever Virus/genetics
+MH  - Animals
+MH  - DNA, Viral/genetics
+MH  - Real-Time Polymerase Chain Reaction/methods/veterinary
+MH  - Swine
+MH  - *Swine Diseases
+MH  - Temperature
+PMC - PMC9346532
+OTO - NOTNLM
+OT  - African swine fever (ASF)
+OT  - African swine fever virus (ASFV)
+OT  - commercial real-time PCR kit
+OT  - ladder-shape melting temperature isothermal amplification (LMTIA)
+COIS- The authors declare no conflicts of interest.
+EDAT- 2022/06/15 06:00
+MHDA- 2022/08/05 06:00
+PMCR- 2022/07/01
+CRDT- 2022/06/14 03:02
+PHST- 2022/01/01 00:00 [received]
+PHST- 2022/03/31 00:00 [revised]
+PHST- 2022/04/12 00:00 [accepted]
+PHST- 2022/06/15 06:00 [pubmed]
+PHST- 2022/08/05 06:00 [medline]
+PHST- 2022/06/14 03:02 [entrez]
+PHST- 2022/07/01 00:00 [pmc-release]
+AID - 23.e51 [pii]
+AID - 10.4142/jvs.22001 [doi]
+PST - ppublish
+SO  - J Vet Sci. 2022 Jul;23(4):e51. doi: 10.4142/jvs.22001. Epub 2022 May 2.
+
+PMID- 34204199
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20210714
+IS  - 2076-0817 (Print)
+IS  - 2076-0817 (Electronic)
+IS  - 2076-0817 (Linking)
+VI  - 10
+IP  - 6
+DP  - 2021 Jun 17
+TI  - Development of a Blocking Enzyme-Linked Immunosorbent Assay for Detection of 
+      Antibodies against African Swine Fever Virus.
+LID - 10.3390/pathogens10060760 [doi]
+LID - 760
+AB  - The incursion of African swine fever virus (ASFV) into Eurasia presents a threat 
+      to the world's swine industry. Highly sensitive and specific diagnostic assays 
+      are urgently needed for rapid detection during an outbreak, post-outbreak 
+      investigation, and disease surveillance. In this study, a highly specific and 
+      repeatable blocking ELISA (bELISA) was developed using a recombinant p30 protein 
+      as the antigen combined with biotinylated mAb against p30 as the detection 
+      antibody. Initial test validation included sera from 810 uninfected animals and 
+      106 animals experimentally inoculated with ASFV or recombinant 
+      alphavirus/adenovirus expressing p30. Receiver operating characteristic (ROC) 
+      analysis of the data calculated an optimal percentage of inhibition (PI) cutoff 
+      value of 45.92%, giving a diagnostic sensitivity of 98.11% and diagnostic 
+      specificity of 99.42%. The coefficient of variation of an internal quality 
+      control serum was 6.81% for between runs, 6.71% for within run, and 6.14% for 
+      within plate. A time course study of infected pigs showed that bELISA was able to 
+      detect seroconversion as early as 7 days post-inoculation. Taken together, these 
+      results demonstrate that bELISA can be used as an alternative serological test 
+      for detecting ASFV infection.
+FAU - Yuan, Fangfeng
+AU  - Yuan F
+AD  - Department of Pathobiology, College of Veterinary Medicine, University of 
+      Illinois at Urbana Champaign, Urbana, IL 61802, USA.
+AD  - Department of Diagnostic Medicine and Pathobiology, College of Veterinary 
+      Medicine, Kansas State University, Manhattan, KS 66506, USA.
+FAU - Petrovan, Vlad
+AU  - Petrovan V
+AD  - Department of Diagnostic Medicine and Pathobiology, College of Veterinary 
+      Medicine, Kansas State University, Manhattan, KS 66506, USA.
+AD  - Pirbright Institute, Ash Road, Pirbright, Woking, Surrey GU24 0NF, UK.
+FAU - Gimenez-Lirola, Luis Gabriel
+AU  - Gimenez-Lirola LG
+AD  - Department of Veterinary Diagnostic & Production Animal Medicine, College of 
+      Veterinary Medicine, Iowa State University, Ames, IA 50011, USA.
+FAU - Zimmerman, Jeffrey J
+AU  - Zimmerman JJ
+AUID- ORCID: 0000-0002-8107-2422
+AD  - Department of Veterinary Diagnostic & Production Animal Medicine, College of 
+      Veterinary Medicine, Iowa State University, Ames, IA 50011, USA.
+FAU - Rowland, Raymond R R
+AU  - Rowland RRR
+AD  - Department of Pathobiology, College of Veterinary Medicine, University of 
+      Illinois at Urbana Champaign, Urbana, IL 61802, USA.
+AD  - Department of Diagnostic Medicine and Pathobiology, College of Veterinary 
+      Medicine, Kansas State University, Manhattan, KS 66506, USA.
+FAU - Fang, Ying
+AU  - Fang Y
+AD  - Department of Pathobiology, College of Veterinary Medicine, University of 
+      Illinois at Urbana Champaign, Urbana, IL 61802, USA.
+AD  - Department of Diagnostic Medicine and Pathobiology, College of Veterinary 
+      Medicine, Kansas State University, Manhattan, KS 66506, USA.
+LA  - eng
+GR  - 19-117/National Pork Board/
+PT  - Journal Article
+DEP - 20210617
+PL  - Switzerland
+TA  - Pathogens
+JT  - Pathogens (Basel, Switzerland)
+JID - 101596317
+PMC - PMC8234086
+OTO - NOTNLM
+OT  - ASFV monoclonal antibody
+OT  - African swine fever virus
+OT  - blocking ELISA
+OT  - p30
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/07/03 06:00
+MHDA- 2021/07/03 06:01
+PMCR- 2021/06/17
+CRDT- 2021/07/02 01:20
+PHST- 2021/05/18 00:00 [received]
+PHST- 2021/06/12 00:00 [revised]
+PHST- 2021/06/13 00:00 [accepted]
+PHST- 2021/07/02 01:20 [entrez]
+PHST- 2021/07/03 06:00 [pubmed]
+PHST- 2021/07/03 06:01 [medline]
+PHST- 2021/06/17 00:00 [pmc-release]
+AID - pathogens10060760 [pii]
+AID - pathogens-10-00760 [pii]
+AID - 10.3390/pathogens10060760 [doi]
+PST - epublish
+SO  - Pathogens. 2021 Jun 17;10(6):760. doi: 10.3390/pathogens10060760.
+
+PMID- 35612629
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220617
+LR  - 20220716
+IS  - 1432-0614 (Electronic)
+IS  - 0175-7598 (Print)
+IS  - 0175-7598 (Linking)
+VI  - 106
+IP  - 11
+DP  - 2022 Jun
+TI  - HRP-conjugated-nanobody-based cELISA for rapid and sensitive clinical detection 
+      of ASFV antibodies.
+PG  - 4269-4285
+LID - 10.1007/s00253-022-11981-4 [doi]
+AB  - African swine fever (ASF), which is caused by the ASF virus (ASFV), is a highly 
+      contagious hemorrhagic disease that causes high mortality to domestic porcine and 
+      wild boars and brings huge economic losses to world swine industry. Due to the 
+      lack of an effective vaccine, the control of ASF must depend on early, efficient, 
+      and cost-effective detection and strict control and elimination strategies. 
+      Traditional serological testing methods are generally associated with high 
+      testing costs, complex operations, and high technical requirements. As a 
+      promising alternative diagnostic tool to traditional antibodies, nanobodies (Nb) 
+      have the advantages of simpler and faster generation, good stability and 
+      solubility, and high affinity and specificity, although the system is dependent 
+      on the immunization of Bactrian camels to obtain the specific VHH library of the 
+      target protein. The application of Nbs in the detection of ASFV antibodies has 
+      not yet been reported yet. Using a phage display technology, one Nb against the 
+      ASFV p54 protein that exhibited high specificity and affinity, Nb8, was 
+      successfully screened. A HEK293T cell line stably expressing Nb8-horseradish 
+      peroxidase (HRP) fusion protein was established using the lentiviral expression 
+      system. Following the optimization of the reaction conditions, the Nb8-HRP fusion 
+      protein was successfully used to establish a competitive enzyme-linked 
+      immunosorbent assay (cELISA) to detect ASFV-specific antibodies in pig serum, for 
+      the first time. There was no cross-reaction with healthy pig serum, porcine 
+      pseudorabies virus (PRV), porcine reproductive and respiratory syndrome virus 
+      (PRRSV), classical swine fever virus (CSFV), porcine epidemic diarrhea virus 
+      (PEDV), and classical swine fever virus (CSFV) positive sera. The optimal cut-off 
+      value for the cELISA by ROC analysis was 52.5%. A total of 209 serum samples were 
+      tested using the developed cELISA and a commercial ELISA kit. The results showed 
+      that the relative specificity of the cELISA was 98.97%, and the relative 
+      sensitivity of the cELISA was 93.3%, with the percent agreement between the two 
+      ELISA methods being 98.56%. In conclusion, a specific, sensitive, and repeatable 
+      cELISA was successfully developed based on the Nb8 as a probe, providing a 
+      promising method for the detection of anti-ASFV antibodies in clinical pig serum. 
+      KEY POINTS: • We successfully screened a specific, high affinity nanobody against 
+      ASFV p54 protein. • We establish a method for continuous and stable expression of 
+      Nb-HRP fusion protein using a lentiviral packaging system. • We establish a 
+      nanobody cELISA detection method that can monitor an ASF infection.
+CI  - © 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+      part of Springer Nature.
+FAU - Zhao, Huijun
+AU  - Zhao H
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China.
+AD  - International Joint Research Center of National Animal Immunology, College of 
+      Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, Henan, 
+      China.
+FAU - Ren, Jiahui
+AU  - Ren J
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China.
+AD  - International Joint Research Center of National Animal Immunology, College of 
+      Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, Henan, 
+      China.
+FAU - Wu, Shuya
+AU  - Wu S
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China.
+AD  - International Joint Research Center of National Animal Immunology, College of 
+      Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, Henan, 
+      China.
+FAU - Guo, Haoran
+AU  - Guo H
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China.
+FAU - Du, Yongkun
+AU  - Du Y
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China.
+AD  - International Joint Research Center of National Animal Immunology, College of 
+      Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, Henan, 
+      China.
+FAU - Wan, Bo
+AU  - Wan B
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China.
+AD  - International Joint Research Center of National Animal Immunology, College of 
+      Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, Henan, 
+      China.
+FAU - Ji, Pengchao
+AU  - Ji P
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China.
+AD  - International Joint Research Center of National Animal Immunology, College of 
+      Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, Henan, 
+      China.
+FAU - Wu, Yanan
+AU  - Wu Y
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China.
+AD  - International Joint Research Center of National Animal Immunology, College of 
+      Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, Henan, 
+      China.
+FAU - Zhuang, Guoqing
+AU  - Zhuang G
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China.
+AD  - International Joint Research Center of National Animal Immunology, College of 
+      Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, Henan, 
+      China.
+FAU - Zhang, Angke
+AU  - Zhang A
+AUID- ORCID: 0000-0002-2696-8007
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China. zhangangke1112@126.com.
+AD  - International Joint Research Center of National Animal Immunology, College of 
+      Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, Henan, 
+      China. zhangangke1112@126.com.
+FAU - Zhang, Gaiping
+AU  - Zhang G
+AD  - College of Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, 
+      Henan, China. zhanggaiping2003@163.com.
+AD  - International Joint Research Center of National Animal Immunology, College of 
+      Veterinary Medicine, Henan Agricultural University, Zhengzhou, 450046, Henan, 
+      China. zhanggaiping2003@163.com.
+AD  - Key Laboratory of Animal Immunology of the Ministry of Agriculture, Henan Academy 
+      of Agricultural Sciences, Zhengzhou, 450002, Henan, China. 
+      zhanggaiping2003@163.com.
+LA  - eng
+GR  - 31941001/National Natural Science Foundation of China/
+GR  - 202102110099/Key R&D and Promotion Projects in Henan Province/
+PT  - Journal Article
+DEP - 20220525
+PL  - Germany
+TA  - Appl Microbiol Biotechnol
+JT  - Applied microbiology and biotechnology
+JID - 8406612
+RN  - 0 (Antibodies, Viral)
+RN  - 0 (HIV Antibodies)
+RN  - 0 (Single-Domain Antibodies)
+RN  - EC 1.11.1.- (Horseradish Peroxidase)
+SB  - IM
+MH  - *African Swine Fever/epidemiology
+MH  - Animals
+MH  - Antibodies, Viral
+MH  - *Classical Swine Fever Virus
+MH  - Enzyme-Linked Immunosorbent Assay/methods
+MH  - HEK293 Cells
+MH  - HIV Antibodies/*analysis
+MH  - Horseradish Peroxidase
+MH  - Humans
+MH  - *Single-Domain Antibodies
+MH  - Swine
+PMC - PMC9130055
+OTO - NOTNLM
+OT  - African swine fever virus
+OT  - Nanobody
+OT  - Serum antibody
+OT  - cELISA
+COIS- The authors declare no competing interests.
+EDAT- 2022/05/26 06:00
+MHDA- 2022/06/18 06:00
+PMCR- 2022/05/25
+CRDT- 2022/05/25 11:15
+PHST- 2022/01/18 00:00 [received]
+PHST- 2022/05/13 00:00 [accepted]
+PHST- 2022/05/09 00:00 [revised]
+PHST- 2022/05/26 06:00 [pubmed]
+PHST- 2022/06/18 06:00 [medline]
+PHST- 2022/05/25 11:15 [entrez]
+PHST- 2022/05/25 00:00 [pmc-release]
+AID - 10.1007/s00253-022-11981-4 [pii]
+AID - 11981 [pii]
+AID - 10.1007/s00253-022-11981-4 [doi]
+PST - ppublish
+SO  - Appl Microbiol Biotechnol. 2022 Jun;106(11):4269-4285. doi: 
+      10.1007/s00253-022-11981-4. Epub 2022 May 25.
+
+PMID- 34791799
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220228
+LR  - 20220228
+IS  - 2053-1095 (Electronic)
+IS  - 2053-1095 (Linking)
+VI  - 8
+IP  - 1
+DP  - 2022 Jan
+TI  - Health status of free-ranging pure and cross-mixed miniature swine population 
+      from Northeast Spain.
+PG  - 170-176
+LID - 10.1002/vms3.665 [doi]
+AB  - BACKGROUND: Miniature pigs have gained popularity as companion animals in the 
+      recent years in Spain. Due to the fact that their abandonment and crossing breeds 
+      with wild boars can cause severe problems, investigation about the health status 
+      is needed. OBJECTIVES: The aim of this study was to determine their health status 
+      according to the clinical findings during physical examination and the results of 
+      antibody serology tests against selected infectious diseases. METHODS: 
+      Two-hundred and eleven miniature pigs (Sus scrofa) were included in the study. 
+      Their origin, age, sex, housing conditions and diet were recorded. RESULTS: The 
+      housing of the animals ranged from wild animals to ones living in animal 
+      sanctuaries. The diet varied from a natural one in the wild to commercial and 
+      homemade food. Thirty animals out of two-hundred and eleven were hybrids between 
+      miniature pigs and wild boars according to morphological characteristics. 
+      Antibody serology techniques of Influenza A virus, Hepatitis E virus, 
+      brucellosis, tuberculosis, African swine fever, Classical swine fever and 
+      Aujeszky's disease was performed. The prevalence for Influenza A was 5.30%, for 
+      Hepatitis E was 5.35% and the rest tested negative. It is important to control 
+      and monitor these zoonotic infections to prevent Public Health problems. 
+      CONCLUSIONS: The results obtained from this investigation demonstrated that the 
+      animals' health status in this study is optimal and the diseases prevalence is 
+      similar or minor when compared to previous studies. This study confirms the 
+      hybridization of miniature pig and wild boar in Catalonia.
+CI  - © 2021 The Authors. Veterinary Medicine and Science published by John Wiley & 
+      Sons Ltd.
+FAU - Soler, Vicente
+AU  - Soler V
+AD  - Servei d´Animals Exòtics, Fundació Hospital Clínic Veterinari, Universitat 
+      Autònoma de Barcelona, Barcelona, Spain.
+FAU - Casas, Encarna
+AU  - Casas E
+AD  - Vets and Wildlife, Terrasa, Spain.
+FAU - Closa-Sebastià, Francesc
+AU  - Closa-Sebastià F
+AD  - Vets and Wildlife, Terrasa, Spain.
+FAU - Sanz, Albert
+AU  - Sanz A
+AD  - Servei de Prevenció en Salut Animal, Departament d´Agricultura, Ramaderia, Pesca 
+      i Alimentació, Generalitat de Catalunya, Gran Vía de les Corts Catalanes, 
+      Barcelona, Spain.
+FAU - Martorell, Jaume
+AU  - Martorell J
+AUID- ORCID: 0000-0001-9031-0042
+AD  - Servei d´Animals Exòtics, Fundació Hospital Clínic Veterinari, Universitat 
+      Autònoma de Barcelona, Barcelona, Spain.
+AD  - Departament de Medicina i Cirurgía Animals, Facultat de Veterinaria, Universitat 
+      Autònoma de Barcelona, Barcelona, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20211117
+PL  - England
+TA  - Vet Med Sci
+JT  - Veterinary medicine and science
+JID - 101678837
+SB  - IM
+MH  - *African Swine Fever
+MH  - Animals
+MH  - Health Status
+MH  - Spain/epidemiology
+MH  - Swine
+MH  - *Swine Diseases/epidemiology
+MH  - Swine, Miniature
+PMC - PMC8788882
+OTO - NOTNLM
+OT  - Spain
+OT  - health status
+OT  - hybrid
+OT  - miniature pig
+OT  - serology
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/11/19 06:00
+MHDA- 2022/03/01 06:00
+PMCR- 2021/11/17
+CRDT- 2021/11/18 07:57
+PHST- 2021/11/19 06:00 [pubmed]
+PHST- 2022/03/01 06:00 [medline]
+PHST- 2021/11/18 07:57 [entrez]
+PHST- 2021/11/17 00:00 [pmc-release]
+AID - VMS3665 [pii]
+AID - 10.1002/vms3.665 [doi]
+PST - ppublish
+SO  - Vet Med Sci. 2022 Jan;8(1):170-176. doi: 10.1002/vms3.665. Epub 2021 Nov 17.
+
+PMID- 19941606
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20100222
+LR  - 20091127
+IS  - 1365-2915 (Electronic)
+IS  - 0269-283X (Linking)
+VI  - 23
+IP  - 4
+DP  - 2009 Dec
+TI  - A host species-informative internal control for molecular assessment of African 
+      swine fever virus infection rates in the African sylvatic cycle Ornithodoros 
+      vector.
+PG  - 399-409
+LID - 10.1111/j.1365-2915.2009.00828.x [doi]
+AB  - African swine fever virus (ASFV) infection in adult Ornithodoros porcinus (Murry 
+      1877, sensuWalton 1979) ticks collected from warthog burrows in southern and East 
+      Africa was assessed using a duplex genomic amplification approach that is 
+      informative with respect to the invertebrate host species and infecting sylvatic 
+      cycle virus. DNA extracted from individual ticks was used as template for the 
+      simultaneous amplification of a C-terminal 478-bp ASFV p72 gene region and a 
+      approximately 313-bp fragment of the tick mitochondrial 16S rRNA gene, under 
+      optimized reaction conditions. Within-warthog burrow infection rates ranged from 
+      0% to 43% using this approach, and phylogenetic analysis of 16S gene sequences 
+      revealed the presence of three geographically discrete O. porcinus lineages, but 
+      no support for subspecies recognition. False negatives are precluded by the 
+      inclusion of host species-informative primers that ensure the DNA integrity of 
+      cytoplasmically located genome extracts. In addition, infection rate estimates 
+      are further improved as false positives arising from carry-over contamination 
+      when performing a two-step nested polymerase chain reaction are negated by the 
+      one-step approach. Phylogenetic comparison of full-length virus gene sequences 
+      with the partial C-terminal p72 gene target confirmed the epidemiological utility 
+      of the latter in a sylvatic setting. The method is therefore of particular value 
+      in studies assessing the prevalence and diversity of ASFV in relation to the 
+      African sylvatic tick vector and holds potential for investigating the role of 
+      alternative tick species in virus maintenance and transmission.
+FAU - Bastos, A D S
+AU  - Bastos AD
+AD  - Mammal Research Institute, Department of Zoology and Entomology, University of 
+      Pretoria, Pretoria 0002, South Africa. ADBastos@zoology.up.ac.za
+FAU - Arnot, L F
+AU  - Arnot LF
+FAU - Jacquier, M D
+AU  - Jacquier MD
+FAU - Maree, S
+AU  - Maree S
+LA  - eng
+SI  - GENBANK/DQ159446
+SI  - GENBANK/DQ159447
+SI  - GENBANK/DQ159448
+SI  - GENBANK/DQ159449
+SI  - GENBANK/DQ159450
+SI  - GENBANK/DQ159451
+SI  - GENBANK/DQ159452
+SI  - GENBANK/DQ159453
+SI  - GENBANK/DQ159454
+SI  - GENBANK/DQ159455
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - England
+TA  - Med Vet Entomol
+JT  - Medical and veterinary entomology
+JID - 8708682
+RN  - 0 (DNA, Mitochondrial)
+RN  - 0 (DNA, Viral)
+RN  - 0 (RNA, Ribosomal, 16S)
+SB  - IM
+MH  - Africa, Eastern/epidemiology
+MH  - African Swine Fever/epidemiology/genetics/*virology
+MH  - African Swine Fever Virus/genetics/*isolation & purification
+MH  - Animals
+MH  - Base Sequence
+MH  - DNA, Mitochondrial/chemistry/genetics
+MH  - DNA, Viral/chemistry/genetics
+MH  - Disease Reservoirs/*veterinary/virology
+MH  - Genetic Variation
+MH  - Genotype
+MH  - Molecular Sequence Data
+MH  - Ornithodoros/*virology
+MH  - Phylogeny
+MH  - Polymerase Chain Reaction
+MH  - RNA, Ribosomal, 16S/chemistry/genetics
+MH  - Sequence Alignment
+MH  - Swine/*parasitology
+MH  - Trees
+EDAT- 2009/11/28 06:00
+MHDA- 2010/02/23 06:00
+CRDT- 2009/11/28 06:00
+PHST- 2009/11/28 06:00 [entrez]
+PHST- 2009/11/28 06:00 [pubmed]
+PHST- 2010/02/23 06:00 [medline]
+AID - MVE828 [pii]
+AID - 10.1111/j.1365-2915.2009.00828.x [doi]
+PST - ppublish
+SO  - Med Vet Entomol. 2009 Dec;23(4):399-409. doi: 10.1111/j.1365-2915.2009.00828.x.
+
+PMID- 40303815
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250430
+LR  - 20250501
+IS  - 1865-1682 (Electronic)
+IS  - 1865-1674 (Print)
+IS  - 1865-1674 (Linking)
+VI  - 2023
+DP  - 2023
+TI  - First-Passage Time Analysis Based on GPS Data Offers a New Approach to Estimate 
+      Restricted Zones for the Management of Infectious Diseases in Wildlife: A Case 
+      Study Using the Example of African Swine Fever.
+PG  - 4024083
+LID - 10.1155/2023/4024083 [doi]
+LID - 4024083
+AB  - An essential part of any disease containment and eradication policy is the 
+      implementation of restricted zones, but determining the appropriate size of these 
+      zones can be challenging for managers. We designed a new method, based on animal 
+      movement, to help assess how large restricted zones should be after a spontaneous 
+      outbreak to successfully control infectious diseases in wildlife. Our approach 
+      uses first-passage time (FPT) analysis and Cox proportional hazard (CPH) models 
+      to calculate and compare the risk of an animal leaving different-sized areas. We 
+      illustrate our approach using the example of the African swine fever (ASF) virus 
+      and its wild pig reservoir host species, the wild boar (Sus scrofa), and we 
+      investigate the feasibility of applying this method to other systems. Using GPS 
+      data from 57 wild boar living in the Hainich National Park, Germany, we calculate 
+      the time spent by each individual in areas of different sizes using FPT analysis. 
+      We apply CPH models on the derived data to compare the risk of leaving areas of 
+      different sizes and to assess the effects of season and the sex of the wild boar 
+      on the risk of leaving. We conduct survival analyses to estimate the risk of 
+      leaving an area over time. Our results indicate that the risk of leaving an area 
+      decreases exponentially by 10% for each 100 m increase in radius size so that the 
+      differences were more pronounced for small sizes. Furthermore, the probability of 
+      leaving increases exponentially with time. Wild boar had a similar risk of 
+      leaving an area of a given size throughout the year, except in spring and winter, 
+      when females had a much lower risk of leaving. Our findings are in agreement with 
+      the literature on wild boar movement, further validating our method, and repeated 
+      analyses with location data resampled at different rates gave similar results. 
+      Our results may be applicable only to our study area, but they demonstrate the 
+      applicability of the proposed method to any ecosystem where wild boar populations 
+      are likely to be infected with ASF and where restricted zones should be 
+      established accordingly. The outlined approach relies solely on the analysis of 
+      movement data and provides a useful tool to determine the optimal size of 
+      restricted zones. It can also be applied to future outbreaks of other diseases.
+CI  - Copyright © 2023 Elodie Wielgus et al.
+FAU - Wielgus, Elodie
+AU  - Wielgus E
+AUID- ORCID: 0000-0001-8323-5128
+AD  - National Park Monitoring and Animal Management, Bavarian Forest National Park, 
+      Freyunger Straße. 2, Grafenau 94481, Germany.
+FAU - Klamm, Alisa
+AU  - Klamm A
+AUID- ORCID: 0009-0003-6501-2520
+AD  - Hainich National Park Administration, Department of Conservation and Research, 
+      Bei der Marktkirche 9, Bad Langensalza 99947, Germany.
+FAU - Conraths, Franz J
+AU  - Conraths FJ
+AUID- ORCID: 0000-0002-7400-9409
+AD  - Friedrich-Loeffler-Institut, Federal Research Institute for Animal Health, 
+      Institute of Epidemiology, Südufer 10, Greifswald-Insel Riems 17493, Germany.
+FAU - Dormann, Carsten F
+AU  - Dormann CF
+AD  - Faculty of Environment and Natural Resources, University of Freiburg, 
+      Tennenbacher Straße. 4, 79106, Freiburg, Germany.
+FAU - Henrich, Maik
+AU  - Henrich M
+AUID- ORCID: 0000-0001-5942-1668
+AD  - National Park Monitoring and Animal Management, Bavarian Forest National Park, 
+      Freyunger Straße. 2, Grafenau 94481, Germany.
+AD  - Chair of Wildlife Ecology and Management, Faculty of Environment and Natural 
+      Resources, University of Freiburg, Tennenbacher Straße 4, 79106, Freiburg, 
+      Germany.
+FAU - Kronthaler, Franz
+AU  - Kronthaler F
+AUID- ORCID: 0009-0004-8917-9752
+AD  - Bavarian Health and Food Safety Authority, Veterinärstraße 2, Oberschleißheim 
+      85764, Germany.
+FAU - Heurich, Marco
+AU  - Heurich M
+AUID- ORCID: 0000-0003-0051-2930
+AD  - National Park Monitoring and Animal Management, Bavarian Forest National Park, 
+      Freyunger Straße. 2, Grafenau 94481, Germany.
+AD  - Chair of Wildlife Ecology and Management, Faculty of Environment and Natural 
+      Resources, University of Freiburg, Tennenbacher Straße 4, 79106, Freiburg, 
+      Germany.
+AD  - Institute of Forestry and Wildlife Management, Inland Norway University of 
+      Applied Sciences, NO-2480 Koppang, Koppang, Norway.
+LA  - eng
+PT  - Journal Article
+DEP - 20230825
+PL  - Germany
+TA  - Transbound Emerg Dis
+JT  - Transboundary and emerging diseases
+JID - 101319538
+SB  - IM
+MH  - Animals
+MH  - *African Swine Fever/prevention & control/epidemiology/transmission
+MH  - *Geographic Information Systems
+MH  - Swine
+MH  - Animals, Wild
+MH  - *Sus scrofa
+MH  - Germany/epidemiology
+MH  - Female
+MH  - Disease Outbreaks/veterinary/prevention & control
+MH  - Male
+MH  - African Swine Fever Virus
+PMC - PMC12017023
+COIS- The authors declare that they have no conflicts of interest.
+EDAT- 2023/08/25 00:00
+MHDA- 2025/04/30 12:29
+PMCR- 2023/08/25
+CRDT- 2025/04/30 05:04
+PHST- 2022/11/09 00:00 [received]
+PHST- 2023/07/05 00:00 [revised]
+PHST- 2023/07/06 00:00 [accepted]
+PHST- 2025/04/30 12:29 [medline]
+PHST- 2023/08/25 00:00 [pubmed]
+PHST- 2025/04/30 05:04 [entrez]
+PHST- 2023/08/25 00:00 [pmc-release]
+AID - 10.1155/2023/4024083 [doi]
+PST - epublish
+SO  - Transbound Emerg Dis. 2023 Aug 25;2023:4024083. doi: 10.1155/2023/4024083. 
+      eCollection 2023.
+
+PMID- 29032628
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180604
+LR  - 20240723
+IS  - 1740-8709 (Electronic)
+IS  - 1740-8695 (Print)
+IS  - 1740-8695 (Linking)
+VI  - 13 Suppl 2
+IP  - Suppl 2
+DP  - 2017 Oct
+TI  - Diet quality and risk of stunting among infants and young children in low- and 
+      middle-income countries.
+LID - 10.1111/mcn.12430 [doi]
+LID - e12430
+AB  - Age-appropriate complementary feeding practices are far from optimal among low- 
+      and middle-income countries with available data. The evidence on the association 
+      between feeding practices and linear growth is mixed. We sought to systematically 
+      examine the association between two indictors of dietary quality-dietary 
+      diversity and animal source food (ASF) consumption (WHO, 2008)-and stunting 
+      (length-for-age z-score) employing existing data from 39 Demographic and Health 
+      Surveys. Data on 74,548 children aged 6-23 months were pooled and multiple 
+      logistic regression models, adjusting for child, maternal, and household 
+      characteristics, employed to assess the association between dietary quality and 
+      stunting. Stratified models by child age and by World Bank country-income 
+      classifications (World Bank, 2015) were also applied. Children aged 6-23 months 
+      consuming zero food groups in the previous day had a 1.345 higher odds of being 
+      stunted when compared to the reference group (≥5 food groups); those who did not 
+      consume any ASF in the previous day had a 1.436 higher odds of being stunted 
+      compared to children consuming all three types of ASF (egg, meat, and dairy). We 
+      estimated that 2,629 cases of stunting would have been averted (12.6% of those 
+      stunted) among the population studied if all children had consumed five or more 
+      food groups. Outcomes by country-income groupings showed larger associations of 
+      diet diversity and ASF consumption for upper- and lower-middle income countries 
+      compared to low-income countries. In summary, dietary diversity and ASF 
+      consumption were associated with stunting, with associations varying by 
+      stratified groups.
+CI  - © 2017 John Wiley & Sons Ltd.
+FAU - Krasevec, Julia
+AU  - Krasevec J
+AD  - Data and Analytics Section, Division of Data, Research and Policy, UNICEF, New 
+      York, New York, USA.
+FAU - An, Xiaoyi
+AU  - An X
+AD  - Data and Analytics Section, Division of Data, Research and Policy, UNICEF, New 
+      York, New York, USA.
+FAU - Kumapley, Richard
+AU  - Kumapley R
+AD  - Data and Analytics Section, Division of Data, Research and Policy, UNICEF, New 
+      York, New York, USA.
+FAU - Bégin, France
+AU  - Bégin F
+AD  - Nutrition Section, Programme Division, UNICEF, New York, New York, USA.
+FAU - Frongillo, Edward A
+AU  - Frongillo EA
+AD  - Department of Health Promotion, Education, and Behavior, University of South 
+      Carolina, Columbia, South Carolina, USA.
+LA  - eng
+PT  - Journal Article
+PL  - England
+TA  - Matern Child Nutr
+JT  - Maternal & child nutrition
+JID - 101201025
+SB  - IM
+MH  - Age Factors
+MH  - Animals
+MH  - Diet/*statistics & numerical data
+MH  - Female
+MH  - *Food Quality
+MH  - Growth Disorders/*epidemiology/prevention & control
+MH  - Humans
+MH  - Infant
+MH  - Logistic Models
+MH  - Male
+MH  - Nutritive Value
+MH  - Odds Ratio
+MH  - *Poverty
+MH  - Risk Factors
+MH  - United Nations
+MH  - World Health Organization
+PMC - PMC6865990
+OTO - NOTNLM
+OT  - WHO feeding indicators
+OT  - animal source foods
+OT  - child growth
+OT  - diet diversity
+OT  - infant and young child feeding
+OT  - stunting
+COIS- The authors do not have any conflicts of interest to declare.
+EDAT- 2017/10/17 06:00
+MHDA- 2018/06/05 06:00
+PMCR- 2017/10/15
+CRDT- 2017/10/17 06:00
+PHST- 2016/05/24 00:00 [received]
+PHST- 2016/11/28 00:00 [revised]
+PHST- 2016/12/05 00:00 [accepted]
+PHST- 2017/10/17 06:00 [entrez]
+PHST- 2017/10/17 06:00 [pubmed]
+PHST- 2018/06/05 06:00 [medline]
+PHST- 2017/10/15 00:00 [pmc-release]
+AID - MCN12430 [pii]
+AID - 10.1111/mcn.12430 [doi]
+PST - ppublish
+SO  - Matern Child Nutr. 2017 Oct;13 Suppl 2(Suppl 2):e12430. doi: 10.1111/mcn.12430.
+
+PMID- 33340089
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210419
+LR  - 20210419
+IS  - 1365-2656 (Electronic)
+IS  - 0021-8790 (Linking)
+VI  - 90
+IP  - 4
+DP  - 2021 Apr
+TI  - Effects of social structure and management on risk of disease establishment in 
+      wild pigs.
+PG  - 820-833
+LID - 10.1111/1365-2656.13412 [doi]
+AB  - Contact heterogeneity among hosts determines invasion and spreading dynamics of 
+      infectious disease, thus its characterization is essential for identifying 
+      effective disease control strategies. Yet, little is known about the factors 
+      shaping contact networks in many wildlife species and how wildlife management 
+      actions might affect contact networks. Wild pigs in North America are an 
+      invasive, socially structured species that pose a health concern for domestic 
+      swine given their ability to transmit numerous devastating diseases such as 
+      African swine fever (ASF). Using proximity loggers and GPS data from 48 wild pigs 
+      in Florida and South Carolina, USA, we employed a probabilistic framework to 
+      estimate weighted contact networks. We determined the effects of sex, social 
+      group and spatial distribution (monthly home-range overlap and distance) on wild 
+      pig contact. We also estimated the impacts of management-induced perturbations on 
+      contact and inferred their effects on ASF establishment in wild pigs with 
+      simulation. Social group membership was the primary factor influencing contacts. 
+      Between-group contacts depended primarily on space use characteristics, with 
+      fewer contacts among groups separated by >2 km and no contacts among groups >4 km 
+      apart within a month. Modelling ASF dynamics on the contact network demonstrated 
+      that indirect contacts resulting from baiting (a typical method of attracting 
+      wild pigs or game species to a site to enhance recreational hunting) increased 
+      the risk of disease establishment by ~33% relative to direct contact. 
+      Low-intensity population reduction (<5.9% of the population) had no detectable 
+      impact on contact structure but reduced predicted ASF establishment risk relative 
+      to no population reduction. We demonstrate an approach for understanding the 
+      relative role of spatial, social and individual-level characteristics in shaping 
+      contact networks and predicting their effects on disease establishment risk, thus 
+      providing insight for optimizing disease control in spatially and socially 
+      structured wildlife species.
+CI  - © 2020 British Ecological Society.
+FAU - Yang, Anni
+AU  - Yang A
+AUID- ORCID: 0000-0002-9535-2193
+AD  - Department of Fish, Wildlife, and Conservation Biology, Colorado State 
+      University, Fort Collins, CO, USA.
+AD  - National Wildlife Research Center, United States Department of Agriculture, 
+      Animal and Plant Health Inspection Service, Fort Collins, CO, USA.
+FAU - Schlichting, Peter
+AU  - Schlichting P
+AD  - Savannah River Ecology Laboratory, Warnell School of Forestry and Natural 
+      Resources, University of Georgia, Aiken, SC, USA.
+FAU - Wight, Bethany
+AU  - Wight B
+AD  - Wildlife Ecology and Conservation, Range Cattle Research and Education Center, 
+      University of Florida, Ona, FL, USA.
+FAU - Anderson, Wesley M
+AU  - Anderson WM
+AD  - Wildlife Ecology and Conservation, Range Cattle Research and Education Center, 
+      University of Florida, Ona, FL, USA.
+FAU - Chinn, Sarah M
+AU  - Chinn SM
+AD  - Savannah River Ecology Laboratory, Warnell School of Forestry and Natural 
+      Resources, University of Georgia, Aiken, SC, USA.
+FAU - Wilber, Mark Q
+AU  - Wilber MQ
+AUID- ORCID: 0000-0002-8274-8025
+AD  - Ecology, Evolution and Marine Biology, University of California, Santa Barbara, 
+      Santa Barbara, CA, USA.
+FAU - Miller, Ryan S
+AU  - Miller RS
+AUID- ORCID: 0000-0003-3892-0251
+AD  - Center for Epidemiology and Animal Health, United States Department of 
+      Agriculture, Animal and Plant Health Inspection Service, Veterinary Service, Fort 
+      Collins, CO, USA.
+FAU - Beasley, James C
+AU  - Beasley JC
+AUID- ORCID: 0000-0001-9707-3713
+AD  - Savannah River Ecology Laboratory, Warnell School of Forestry and Natural 
+      Resources, University of Georgia, Aiken, SC, USA.
+FAU - Boughton, Raoul K
+AU  - Boughton RK
+AD  - Wildlife Ecology and Conservation, Range Cattle Research and Education Center, 
+      University of Florida, Ona, FL, USA.
+FAU - VerCauteren, Kurt C
+AU  - VerCauteren KC
+AD  - National Wildlife Research Center, United States Department of Agriculture, 
+      Animal and Plant Health Inspection Service, Fort Collins, CO, USA.
+FAU - Wittemyer, George
+AU  - Wittemyer G
+AUID- ORCID: 0000-0003-1640-5355
+AD  - Department of Fish, Wildlife, and Conservation Biology, Colorado State 
+      University, Fort Collins, CO, USA.
+FAU - Pepin, Kim M
+AU  - Pepin KM
+AUID- ORCID: 0000-0002-9931-8312
+AD  - National Wildlife Research Center, United States Department of Agriculture, 
+      Animal and Plant Health Inspection Service, Fort Collins, CO, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20210109
+PL  - England
+TA  - J Anim Ecol
+JT  - The Journal of animal ecology
+JID - 0376574
+SB  - IM
+MH  - *African Swine Fever
+MH  - *African Swine Fever Virus
+MH  - Animals
+MH  - Florida
+MH  - North America
+MH  - South Carolina
+MH  - Sus scrofa
+MH  - Swine
+MH  - *Swine Diseases/epidemiology
+OTO - NOTNLM
+OT  - African swine fever
+OT  - contact structure
+OT  - management
+OT  - network modelling
+OT  - wild pig
+EDAT- 2020/12/20 06:00
+MHDA- 2021/04/20 06:00
+CRDT- 2020/12/19 08:34
+PHST- 2020/08/19 00:00 [received]
+PHST- 2020/11/16 00:00 [accepted]
+PHST- 2020/12/20 06:00 [pubmed]
+PHST- 2021/04/20 06:00 [medline]
+PHST- 2020/12/19 08:34 [entrez]
+AID - 10.1111/1365-2656.13412 [doi]
+PST - ppublish
+SO  - J Anim Ecol. 2021 Apr;90(4):820-833. doi: 10.1111/1365-2656.13412. Epub 2021 Jan 
+      9.
+
+PMID- 39057794
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250303
+LR  - 20250430
+IS  - 2076-0817 (Print)
+IS  - 2076-0817 (Electronic)
+IS  - 2076-0817 (Linking)
+VI  - 13
+IP  - 7
+DP  - 2024 Jul 6
+TI  - Evaluation of Selective Culling as a Containment Strategy for African Swine Fever 
+      at a Vietnamese Sow Farm.
+LID - 10.3390/pathogens13070567 [doi]
+LID - 567
+AB  - Selective culling, also known as the "tooth extraction approach", is a strategy 
+      for controlling African swine fever (ASF) by removing only sick and suspect 
+      animals instead of the entire herd in Vietnam. This method prioritizes preserving 
+      healthy animals, particularly valuable breeding pigs. Despite its implementation 
+      in various forms, no standardized protocol based on scientific principles has 
+      been established. Farms typically adapt this strategy based on their 
+      understanding, which can vary significantly. In implementing of selective culling 
+      that is not based on scientific principles, there is a significant risk of 
+      spreading the disease. The aim of this study is to evaluate the consequences of 
+      selective culling as currently implemented in Vietnam. Our analysis on a large 
+      sow farm revealed that current practices rely heavily on clinical observations 
+      without laboratory confirmations. This approach allows ASF-infected animals to 
+      remain on the farm longer, potentially exacerbating the spread of the virus. 
+      Thus, selective culling poses a substantial risk by potentially exacerbating the 
+      spread of disease. Our findings emphasize that early diagnosis of ASF and 
+      systematic removal of infected pigs are critical components for the effective 
+      implementation of selective culling strategies and that a high level of 
+      fragmentation to minimize contact between animals plays a key role. The optimal 
+      approach is to test conspicuous animals and separate them. Under no circumstances 
+      should suspect animals be left in the herd for several days before they become 
+      severely ill and succumb to the disease.
+FAU - Nga, Bui Thi To
+AU  - Nga BTT
+AD  - Faculty of Veterinary Medicine, Vietnam National University of Agriculture, Hanoi 
+      100000, Vietnam.
+FAU - Auer, Agathe
+AU  - Auer A
+AUID- ORCID: 0000-0002-4597-9529
+AD  - Food and Agriculture Organization of the United Nations (FAO), 00153 Rome, Italy.
+FAU - Padungtod, Pawin
+AU  - Padungtod P
+AUID- ORCID: 0000-0001-8861-0919
+AD  - Food and Agriculture Organization of the United Nations (FAO), Representation in 
+      Vietnam, Hanoi 100000, Vietnam.
+FAU - Dietze, Klaas
+AU  - Dietze K
+AUID- ORCID: 0000-0002-6138-6707
+AD  - Friedrich-Loeffler-Institut, 17493 Greifswald-Insel Riems, Germany.
+FAU - Globig, Anja
+AU  - Globig A
+AD  - Friedrich-Loeffler-Institut, 17493 Greifswald-Insel Riems, Germany.
+FAU - Rozstalnyy, Andriy
+AU  - Rozstalnyy A
+AD  - Food and Agriculture Organization of the United Nations (FAO), 00153 Rome, Italy.
+FAU - Hai, Tran Minh
+AU  - Hai TM
+AD  - Faculty of Veterinary Medicine, Vietnam National University of Agriculture, Hanoi 
+      100000, Vietnam.
+FAU - Depner, Klaus
+AU  - Depner K
+AUID- ORCID: 0000-0002-8621-3431
+AD  - Friedrich-Loeffler-Institut, 17493 Greifswald-Insel Riems, Germany.
+LA  - eng
+PT  - Journal Article
+DEP - 20240706
+PL  - Switzerland
+TA  - Pathogens
+JT  - Pathogens (Basel, Switzerland)
+JID - 101596317
+SB  - IM
+MH  - Animals
+MH  - Female
+MH  - *African Swine Fever/prevention & control/epidemiology
+MH  - African Swine Fever Virus
+MH  - Animal Culling
+MH  - Animal Husbandry/methods
+MH  - Farms
+MH  - Swine
+MH  - Vietnam/epidemiology
+PMC - PMC11279537
+OTO - NOTNLM
+OT  - culling strategy
+OT  - disease control
+OT  - early detection
+OT  - slow contagion
+COIS- The authors declare no conflicts of interest.
+EDAT- 2024/07/26 12:48
+MHDA- 2024/07/26 12:49
+PMCR- 2024/07/06
+CRDT- 2024/07/26 08:53
+PHST- 2024/05/24 00:00 [received]
+PHST- 2024/07/03 00:00 [revised]
+PHST- 2024/07/03 00:00 [accepted]
+PHST- 2024/07/26 12:49 [medline]
+PHST- 2024/07/26 12:48 [pubmed]
+PHST- 2024/07/26 08:53 [entrez]
+PHST- 2024/07/06 00:00 [pmc-release]
+AID - pathogens13070567 [pii]
+AID - pathogens-13-00567 [pii]
+AID - 10.3390/pathogens13070567 [doi]
+PST - epublish
+SO  - Pathogens. 2024 Jul 6;13(7):567. doi: 10.3390/pathogens13070567.
+
+PMID- 32729566
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200924
+LR  - 20200924
+IS  - 0253-1933 (Print)
+IS  - 0253-1933 (Linking)
+VI  - 39
+IP  - 1
+DP  - 2020 Apr
+TI  - Compartmentalisation: an example of a national official assurance system.
+PG  - 213-221
+LID - 10.20506/rst.39.1.3074 [doi]
+AB  - In South Africa's experience, compartmentalisation has been extremely effective 
+      in maintaining an animal subpopulation of a specific health status, based on 
+      segregation and biosecurity management. Compartmentalisation promotes animal 
+      disease control and underwrites a national official assurance system that 
+      provides zoosanitary trade guarantees for animals and animal products. South 
+      Africa started to develop the concept of compartmentalisation during the 1950s 
+      for the pig sector, due to African swine fever being endemic in wildlife in the 
+      north of the country, where certain biosecurity measures were used to protect 
+      domestic pigs. Compartmentalisation protocols were formalised and officially 
+      published from 2001 as voluntary systems, first for the pig industry and later 
+      for the poultry (chicken and ostrich) industry. South Africa uses five basic 
+      principles for animal health compartmentalisation, namely, segregation, 
+      biosecurity, record-keeping, surveillance and official inspection. These are 
+      applied in line with the World Organisation for Animal Health Terrestrial Animal 
+      Health Code guidelines. Industry and the farmer bear the costs of 
+      compartmentalisation and, in turn, obtain not only animal disease protection but 
+      also trade advantages due to health assurances. Compartmentalisation ensures 
+      optimal use of government resources as the expenses for animal disease control 
+      are shared with private industries. International acceptance and standardisation 
+      of compartments is advocated as a measure to provide assurances for disease 
+      freedom, based on risk-specific mitigation measures.
+FAU - Maja, M
+AU  - Maja M
+FAU - Janse Van Rensburg, L
+AU  - Janse Van Rensburg L
+FAU - Gerstenberg, C
+AU  - Gerstenberg C
+LA  - eng
+PT  - Journal Article
+PL  - France
+TA  - Rev Sci Tech
+JT  - Revue scientifique et technique (International Office of Epizootics)
+JID - 8712301
+SB  - IM
+MH  - *African Swine Fever
+MH  - *Animal Diseases
+MH  - Animal Husbandry
+MH  - Animals
+MH  - Global Health
+MH  - Poultry
+MH  - Swine
+MH  - *Swine Diseases
+OTO - NOTNLM
+OT  - Animal health
+OT  - Biosecurity
+OT  - Compartment
+OT  - Disease freedom
+OT  - South Africa
+OT  - Trade
+EDAT- 2020/07/31 06:00
+MHDA- 2020/09/25 06:00
+CRDT- 2020/07/31 06:00
+PHST- 2020/07/31 06:00 [entrez]
+PHST- 2020/07/31 06:00 [pubmed]
+PHST- 2020/09/25 06:00 [medline]
+AID - 10.20506/rst.39.1.3074 [doi]
+PST - ppublish
+SO  - Rev Sci Tech. 2020 Apr;39(1):213-221. doi: 10.20506/rst.39.1.3074.
+
+PMID- 21216104
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20110920
+LR  - 20110523
+IS  - 1873-2550 (Electronic)
+IS  - 0304-4017 (Linking)
+VI  - 178
+IP  - 1-2
+DP  - 2011 May 31
+TI  - Cloning, characterization and diagnostic performance of the salivary lipocalin 
+      protein TSGP1 from Ornithodoros moubata.
+PG  - 163-72
+LID - 10.1016/j.vetpar.2010.12.014 [doi]
+AB  - The argasid tick Ornithodoros moubata is distributed throughout South and East 
+      Africa and Madagascar, where it colonizes wild and domestic habitats and feeds on 
+      warthogs, domestic swine, and humans. This argasid transmits the spirochete 
+      Borrelia duttonii, causing East African tick-borne relapsing fever in humans, and 
+      the African swine fever virus, which causes a highly lethal haemorrhagic disease 
+      in pigs. Tick surveillance and the elimination of O. moubata from synanthropic 
+      environments (human dwellings and pigsties) would facilitate the control and 
+      prevention of these two diseases. Since direct surveillance methods are 
+      impractical in this context, the development of an indirect method for the 
+      detection of specific antibodies against tick salivary proteins in samples taken 
+      from animal or human hosts living in the area under study would provide a more 
+      convenient surveillance and diagnostic tool. Previous work has indicated that the 
+      20A1 salivary antigen of O. moubata could be an optimal candidate for the 
+      development of a specific serological test and identified it as an orthologue of 
+      the Ornithodoros savignyi TSGP1 lipocalin. The objectives of the present work 
+      were to clone, sequence, and molecularly characterize the O. moubata TSGP1, as 
+      well as its production as a recombinant protein in order to assess its usefulness 
+      as a diagnostic antigen in an ELISA test for tick surveillance. Our results show 
+      that O. moubata TSGP1 (OmTSGP1) conserves the tertiary structure of lipocalins 
+      and contains the biogenic amine-binding motif. We also show that OmTSGP1 shares 
+      65% sequence identity with the O. savignyi TSGP1, demonstrating that they 
+      represent orthologous proteins and suggesting they share identical function as 
+      biogenic amine scavengers. A recombinant form of OmTSGP1 was produced, showing 
+      100% sensitivity and 99.4% specificity in an ELISA test for the detection of 
+      anti-O. moubata antibodies in pig sera. This recombinant antigen represents a 
+      promising epidemiological tool for O. moubata surveillance that may help to 
+      implement control measures against O. moubata-borne diseases.
+CI  - Copyright © 2010 Elsevier B.V. All rights reserved.
+FAU - Díaz-Martín, Verónica
+AU  - Díaz-Martín V
+AD  - Parasitology Laboratory, Instituto de Recursos Naturales y Agrobiología de 
+      Salamanca (IRNASA, CSIC), Cordel de Merinas, 40-52, 37008 Salamanca, Spain.
+FAU - Manzano-Román, Raúl
+AU  - Manzano-Román R
+FAU - Siles-Lucas, Mar
+AU  - Siles-Lucas M
+FAU - Oleaga, Ana
+AU  - Oleaga A
+FAU - Pérez-Sánchez, Ricardo
+AU  - Pérez-Sánchez R
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20101221
+PL  - Netherlands
+TA  - Vet Parasitol
+JT  - Veterinary parasitology
+JID - 7602745
+RN  - 0 (Lipocalins)
+SB  - IM
+MH  - Amino Acid Sequence
+MH  - Animals
+MH  - Base Sequence
+MH  - *Cloning, Molecular
+MH  - Computational Biology
+MH  - Enzyme-Linked Immunosorbent Assay
+MH  - Gene Expression Regulation
+MH  - Lipocalins/*metabolism
+MH  - Models, Molecular
+MH  - Molecular Sequence Annotation
+MH  - Ornithodoros/*metabolism
+MH  - Phylogeny
+MH  - Protein Conformation
+EDAT- 2011/01/11 06:00
+MHDA- 2011/09/21 06:00
+CRDT- 2011/01/11 06:00
+PHST- 2010/07/22 00:00 [received]
+PHST- 2010/12/01 00:00 [revised]
+PHST- 2010/12/08 00:00 [accepted]
+PHST- 2011/01/11 06:00 [entrez]
+PHST- 2011/01/11 06:00 [pubmed]
+PHST- 2011/09/21 06:00 [medline]
+AID - S0304-4017(10)00721-1 [pii]
+AID - 10.1016/j.vetpar.2010.12.014 [doi]
+PST - ppublish
+SO  - Vet Parasitol. 2011 May 31;178(1-2):163-72. doi: 10.1016/j.vetpar.2010.12.014. 
+      Epub 2010 Dec 21.
+
+PMID- 40284926
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250426
+LR  - 20250428
+IS  - 1999-4915 (Electronic)
+IS  - 1999-4915 (Linking)
+VI  - 17
+IP  - 4
+DP  - 2025 Mar 27
+TI  - Implementation of RT-RAA and CRISPR/Cas13a for an NiV Point-of-Care Test: A 
+      Promising Tool for Disease Control.
+LID - 10.3390/v17040483 [doi]
+LID - 483
+AB  - Nipah virus (NiV) is a severe zoonotic pathogen that substantially threatens 
+      public health. Pigs are the natural hosts of NiV and can potentially transmit 
+      this disease to humans. Establishing a rapid, sensitive, and accurate 
+      point-of-care detection method is critical in the timely identification of 
+      infected pig herds. In this study, we developed an NiV detection method based on 
+      reverse transcription-recombinase polymerase amplification (RT-RAA) and the 
+      clustered regularly interspaced short palindromic repeats (CRISPR)-associated 
+      protein 13a (Cas13a) system for the precise detection of NiV. The highly 
+      conserved region of the NiV gene was selected as the detection target. We first 
+      designed eleven pairs of RT-RAA primers, and the optimal primer combination and 
+      reaction temperature were identified on the basis of RT-RAA efficiency. 
+      Additionally, the most efficient crRNA sequence was selected on the basis of the 
+      fluorescence signal intensity. The results revealed that the optimal reaction 
+      temperature for the developed method was 37 °C. The detection limit was as low as 
+      1.565 copies/μL. Specificity testing revealed no cross-reactivity with nucleic 
+      acids from six common swine viruses, including Seneca virus A (SVA), 
+      foot-and-mouth disease virus (FMDV), classical swine fever virus (CSFV), porcine 
+      epidemic diarrhea virus (PEDV), African swine fever virus (ASFV), and 
+      pseudorabies virus (PRV). A validation test using simulated clinical samples 
+      revealed a 100% concordance rate. The detection results can be visualized via a 
+      fluorescence reader or lateral flow strips (LFSs). Compared with conventional 
+      detection methods, this RT-RAA-CRISPR/Cas13a-based method is rapid and simple and 
+      does not require scientific instruments. Moreover, the reagents can be 
+      freeze-dried for storage, eliminating the need for cold-chain transportation. 
+      This detection technology provides a convenient and efficient new tool for the 
+      point-of-care diagnosis of NiV and for preventing and controlling outbreaks.
+FAU - Yin, Jingqi
+AU  - Yin J
+AUID- ORCID: 0009-0005-6180-3290
+AD  - College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030031, 
+      China.
+AD  - China Animal Health and Epidemiology Center, Qingdao 266011, China.
+FAU - Cui, Jin
+AU  - Cui J
+AD  - China Animal Health and Epidemiology Center, Qingdao 266011, China.
+FAU - Zheng, Hui
+AU  - Zheng H
+AD  - China Animal Health and Epidemiology Center, Qingdao 266011, China.
+FAU - Guo, Tingting
+AU  - Guo T
+AD  - College of Veterinary Medicine, Yangzhou University, Yangzhou 225001, China.
+FAU - Wei, Rong
+AU  - Wei R
+AD  - China Animal Health and Epidemiology Center, Qingdao 266011, China.
+FAU - Sha, Zhou
+AU  - Sha Z
+AD  - China Animal Health and Epidemiology Center, Qingdao 266011, China.
+FAU - Gu, Shaopeng
+AU  - Gu S
+AD  - College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030031, 
+      China.
+FAU - Ni, Bo
+AU  - Ni B
+AD  - College of Veterinary Medicine, Shanxi Agricultural University, Jinzhong 030031, 
+      China.
+AD  - China Animal Health and Epidemiology Center, Qingdao 266011, China.
+LA  - eng
+GR  - 2021YFD1800301-04/National Key R&D Program for the 14th Five-Year Plan/
+PT  - Journal Article
+DEP - 20250327
+PL  - Switzerland
+TA  - Viruses
+JT  - Viruses
+JID - 101509722
+SB  - IM
+MH  - Animals
+MH  - Swine
+MH  - *CRISPR-Cas Systems
+MH  - *Swine Diseases/diagnosis/virology
+MH  - Sensitivity and Specificity
+MH  - *Nipah Virus/genetics/isolation & purification
+MH  - *Point-of-Care Testing
+MH  - *Nucleic Acid Amplification Techniques/methods
+MH  - Point-of-Care Systems
+PMC - PMC12031521
+OTO - NOTNLM
+OT  - CRISPR/Cas13a
+OT  - Nipah virus
+OT  - RT-RAA
+OT  - lateral flow strips
+OT  - point-of-care test
+COIS- The authors declare no conflicts of interest.
+EDAT- 2025/04/26 16:07
+MHDA- 2025/04/26 16:45
+PMCR- 2025/03/27
+CRDT- 2025/04/26 01:20
+PHST- 2025/01/22 00:00 [received]
+PHST- 2025/03/11 00:00 [revised]
+PHST- 2025/03/24 00:00 [accepted]
+PHST- 2025/04/26 16:45 [medline]
+PHST- 2025/04/26 16:07 [pubmed]
+PHST- 2025/04/26 01:20 [entrez]
+PHST- 2025/03/27 00:00 [pmc-release]
+AID - v17040483 [pii]
+AID - viruses-17-00483 [pii]
+AID - 10.3390/v17040483 [doi]
+PST - epublish
+SO  - Viruses. 2025 Mar 27;17(4):483. doi: 10.3390/v17040483.
