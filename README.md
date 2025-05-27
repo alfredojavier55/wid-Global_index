@@ -5,7 +5,7 @@ Global index of the burden of animal infectious diseases (including direct losse
 
 ## Literature review: 
 
-Use pubmed2csv.py to transform pubmed text file to a column csv version (check imput-output)
+Use pubmed2csv.py to transform pubmed text file (example: pubmed_asf.txt) to a column csv version (check imput-output)
 
 Use clasifier.ipyn to classify and extract using the promt on a jupiter notebook (ollama library)
 
