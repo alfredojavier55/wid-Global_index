@@ -24,3 +24,6 @@ Using Miniconda:
    \12  pip install ollama
    \13  pip install pandas
    \14  python pubmed2csv
+
+## Compare automatic with human classification
+Use the same pubmed column file to classify considering the promt, 1/0 then compare using the code. 
