@@ -1,0 +1,248 @@
+
+Total articles classified: 8107
+Included: 549
+Not included: 7558
+
+species:
+                     count
+species                   
+human                  120
+unknown                 74
+mice                    25
+cattle                  21
+pigs                    19
+...                    ...
+red fox                  1
+hamsters                 1
+anopheles stephensi      1
+monkeys                  1
+tuberculosis             1
+
+[176 rows x 1 columns]
+
+diseases:
+                                      count
+disease                                    
+unknown                                 219
+cancer                                   15
+dengue                                   12
+malaria                                  10
+covid-19                                  8
+...                                     ...
+infectious pancreatic necrosis virus      1
+choroidal neovascularization              1
+mice                                      1
+spinal muscular atrophy                   1
+kidney disease                            1
+
+[245 rows x 1 columns]
+
+Number of articles per country:
+                     count
+country                   
+unknown                156
+worldwide              134
+usa                    111
+china                   18
+global                  17
+...                    ...
+israel                   1
+mexico                   1
+bangladesh-malaysia      1
+ethiopia                 1
+sri lanka                1
+
+[74 rows x 1 columns]
+
+statistics:
+                                  count
+statistics                             
+deterministic modelling             109
+regression analysis                  45
+machine learning                     26
+optimal control                      25
+optimization                         19
+...                                 ...
+nonlinear mixed-effects modeling      1
+systems pharmacology modelling        1
+parabolic response surface            1
+crispr-cas9                           1
+rational approximation                1
+
+[210 rows x 1 columns]
+
+optimization:
+                                                 count
+optimization                                          
+optimal control                                    237
+optimization                                       132
+surveillance                                        13
+multi-objective optimization                        11
+genetic algorithm                                    6
+...                                                ...
+individual-based landscape genetic optimization      1
+iterated-filtering                                   1
+simplex optimization                                 1
+nitrogen source optimization                         1
+base editing                                         1
+
+[134 rows x 1 columns]
+
+objective:
+                         count
+objective                     
+surveillance               365
+optimization                21
+unknown                     21
+intervention                14
+control                      8
+...                        ...
+functional connectivity      1
+mass-rearing                 1
+genetic improvement          1
+bioefficacy                  1
+genetic control              1
+
+[107 rows x 1 columns]
+
+strategies:
+                                                    count
+strategies                                               
+unknown                                                99
+risk-based-monitoring                                   6
+control                                                 4
+control strategies                                      3
+parameter estimation                                    3
+...                                                   ...
+control strategy optimization                           1
+productivity enhancement                                1
+risk factors - prediction models - optimization...      1
+vaccination-culling-environmental hygiene               1
+computerized tomography-based optimization              1
+
+[420 rows x 1 columns]
+                                                Title classification  \
+2   Dynamic modeling and optimal control of cystic...              1   
+3   Bifurcation thresholds and optimal control in ...              1   
+4   Transmission dynamics and optimal control of b...              1   
+6   Optimal control design of preparation pulses f...              1   
+8   Optimal combinations of control strategies and...              1   
+10  Zoonotic visceral leishmaniasis transmission: ...              1   
+11  Analytical approximation for invasion and ende...              1   
+12  AMIGO2, a toolbox for dynamic modeling, optimi...              1   
+14  Dynamical and optimal control analysis of a se...              1   
+17  Dynamic analysis and control of a rice-pest sy...              1   
+
+                                        statistics  
+2   deterministic modelling - sensitivity analysis  
+3                          deterministic modelling  
+4                          deterministic modelling  
+6                                  optimal control  
+8                          deterministic modelling  
+10                         deterministic modelling  
+11                        analytical approximation  
+12                          nonlinear optimization  
+14                         deterministic modelling  
+17                                 optimal control  
+
+
+
+
+Total articles classified: 8107
+Included: 549
+Not included: 7558
+species
+unknown                   4411
+mice                       459
+human                      445
+rats                       209
+pigs                       194
+                          ... 
+zebra mussels                1
+bharals                      1
+ginkgo biloba                1
+vibrio parahemolyticus       1
+babesiosis                   1
+Name: count, Length: 702, dtype: int64
+disease
+unknown                                        6126
+cancer                                           75
+malaria                                          49
+breast cancer                                    26
+covid-19                                         25
+                                               ... 
+ovarian follicle isolation                        1
+marek's disease                                   1
+acute toxicity                                    1
+carbapenem-resistant enterobacter infection       1
+canine malignancies                               1
+Name: count, Length: 1092, dtype: int64
+country
+unknown              6846
+usa                   423
+worldwide             296
+china                 139
+brazil                 33
+                     ... 
+no                      1
+removal                 1
+babesia microti         1
+african countries       1
+unspecified             1
+Name: count, Length: 154, dtype: int64
+statistics
+unknown                                                                     4518
+regression analysis                                                         1025
+literature review                                                            508
+deterministic modelling                                                      193
+optimization                                                                 118
+                                                                            ... 
+diffusion models                                                               1
+time-budget modeling                                                           1
+support vector regression                                                      1
+quadratic programming                                                          1
+machine learning - whale optimization algorithm - support vector machine       1
+Name: count, Length: 816, dtype: int64
+optimization
+unknown                                         4512
+mentioned but not applied                       2579
+optimal control                                  306
+optimization                                     299
+optimization not applied                          23
+                                                ... 
+boosting whale optimizer                           1
+route optimization                                 1
+discretized butterfly optimization algorithm       1
+spider monkey optimization                         1
+optimization of measurement system                 1
+Name: count, Length: 280, dtype: int64
+objective
+unknown                      6831
+surveillance                  725
+detection                      38
+optimization                   34
+intervention                   21
+                             ... 
+surface plasmon resonance       1
+discriminant analysis           1
+therapeutic optimization        1
+sensitivity                     1
+oral immunotherapy              1
+Name: count, Length: 306, dtype: int64
+strategies
+unknown                          6378
+optimization only mentioned       882
+optimization not applied           22
+control                             7
+or \n0                              6
+                                 ... 
+convex-optimization-program         1
+risk assessment strategies          1
+rapid identification                1
+sensor placement optimization       1
+antibody design                     1
+Name: count, Length: 742, dtype: int64
+
+Sensitivity: 1.000 (95% CI: 0.930–1.000)
+Specificity: 0.938 (95% CI: 0.933–0.943)
+Accuracy:    0.939 (95% CI: 0.933–0.944)

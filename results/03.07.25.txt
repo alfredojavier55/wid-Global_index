@@ -1,0 +1,347 @@
+llama 3.1 update adding 3 more columns
+51 min
+
+277 included 
+
+Total articles classified: 8107
+Included: 277
+Not included: 7830
+
+ -Species:
+species
+unknown                                7741
+pig                                      29
+human                                    16
+mouse                                    15
+dog                                      11
+                                       ... 
+wild boar                                 1
+macaca fasicularis - macaca mulatta       1
+babesia microti                           1
+tilapia                                   1
+ae. albopictus                            1
+Name: count, Length: 214, dtype: int64
+
+ -Disease:
+disease
+unknown                        6472
+cancer                           54
+malaria                          47
+optimization only mentioned      42
+alzheimer's disease              38
+                               ... 
+tumor ablation                    1
+ctcl                              1
+chicken circovirus                1
+histoplasmosis                    1
+mers-cov                          1
+Name: count, Length: 848, dtype: int64
+
+ -Country:
+country
+unknown                                           5841
+worldwide                                          647
+usa                                                633
+china                                              271
+global                                              72
+                                                  ... 
+asia - europe - africa                               1
+india - karnataka state - western ghats region       1
+new caledonia - france                               1
+south sudan - worldwide                              1
+china - guangzhou                                    1
+Name: count, Length: 265, dtype: int64
+
+ -Statistics:
+statistics
+unknown                                                             5272
+optimization only mentioned                                          499
+qualitative analysis                                                 279
+deterministic modelling                                              235
+regression analysis                                                  224
+                                                                    ... 
+uhplc-hrms                                                             1
+metabolomics platform                                                  1
+optimization - quadratic phenotypic optimization platform (qpop)       1
+statistical tests (shapiro-wilk test                                   1
+mathematical analysis                                                  1
+Name: count, Length: 876, dtype: int64
+
+ -Optimization:
+optimization
+optimization only mentioned                                     3054
+unknown                                                         2005
+mentioned but not applied                                       1118
+optimization                                                     636
+none                                                             116
+                                                                ... 
+fractional dung beetle optimization                                1
+whale optimization - election                                      1
+discrete particle swarm optimization                               1
+manifold based optimization                                        1
+biologically equivalent generalized equivalent uniform doses       1
+Name: count, Length: 545, dtype: int64
+
+ -Emphasis:
+emphasis
+unknown                         4369
+surveillance                    3138
+control                          388
+optimization only mentioned       34
+mentioned but not applied         30
+                                ... 
+transfection efficiency            1
+surveillance not mentioned         1
+surveillance/control/unknown       1
+prevention                         1
+mann-whitney u test)               1
+Name: count, Length: 94, dtype: int64
+
+ -Strategies:
+strategies
+unknown                                                6363
+optimization only mentioned                            1035
+surveillance                                            112
+optimization                                             39
+control                                                  23
+                                                       ... 
+roguing trees - insecticides - timing and frequency       1
+internal validity - minimizing cost                       1
+image acquisition                                         1
+queuing theory - vaccination placement                    1
+partitioning methods - greedy search                      1
+Name: count, Length: 465, dtype: int64
+
+ -Objective Function:
+objective_function
+optimization only mentioned                                                                                           4457
+unknown                                                                                                               3237
+cost                                                                                                                    59
+cost function                                                                                                           19
+none                                                                                                                    12
+                                                                                                                      ... 
+minimize queue formation                                                                                                 1
+threshold values - analytical sensitivity - diagnostic sensitivity - specificity - repeatability - reproducibility       1
+reaction conditions - cross-reaction rate                                                                                1
+threshold value of snail density                                                                                         1
+maximize profit margins                                                                                                  1
+Name: count, Length: 288, dtype: int64
+
+ -Variables:
+variables
+unknown                                                                  7364
+optimization only mentioned                                               181
+variables                                                                  22
+none                                                                       19
+variables and constraints not specified                                    16
+                                                                         ... 
+variables - population size - mutation rate                                 1
+variables: medical data feature selection - classification efficiency       1
+dietary intervention strategies - metabolic pathways                        1
+trap catch - infestation rate - fruit availability                          1
+image features                                                              1
+Name: count, Length: 464, dtype: int64
+
+ -Constraints:
+constraints
+unknown                                            7547
+none                                                 35
+constraints                                          35
+optimization only mentioned                          31
+constraints not specified                            14
+                                                   ... 
+in vivo material properties - fiber orientation       1
+available feeds - mitigation costs                    1
+virus burst size - infection rate                     1
+distance to breeding sites                            1
+r0 < 1 constraint - global stability constraint       1
+Name: count, Length: 384, dtype: int64
+
+
+
+------
+
+Included articles classified: 8107
+Included: 277
+Not included: 7830
+
+-species:
+                   count
+species                 
+unknown              138
+human                 10
+aedes aegypti          8
+mouse                  5
+pig                    5
+...                  ...
+spodoptera exigua      1
+wild boar - pig        1
+monkeypox              1
+salmo salar l.         1
+ae. albopictus         1
+
+[96 rows x 1 columns]
+
+-diseases:
+                                      count
+disease                                    
+unknown                                 130
+optimization only mentioned              10
+dengue fever                              7
+cancer                                    5
+dengue                                    4
+...                                     ...
+melanoma                                  1
+avian influenza                           1
+ovarian cancer                            1
+epilepsy                                  1
+infectious pancreatic necrosis virus      1
+
+[100 rows x 1 columns]
+
+-country:
+                                          count
+country                                        
+unknown                                      61
+usa                                          50
+worldwide                                    45
+china                                        14
+global                                        7
+...                                         ...
+domestic sheep - goats - cattle - camels      1
+mexico                                        1
+usa - canada - europe                         1
+norway                                        1
+china - guangzhou                             1
+
+[83 rows x 1 columns]
+
+-statistics:
+                                                    count
+statistics                                               
+deterministic modelling                                42
+optimization                                           14
+unknown                                                14
+optimal control                                        10
+regression analysis                                     8
+...                                                   ...
+linear regression analysis                              1
+goal programming - weighted linear programming          1
+fluorescence chromatography assisted with cloud...      1
+nonlinear mixed-effects modelling                       1
+systems pharmacology model - mixed-effects model        1
+
+[166 rows x 1 columns]
+
+-optimization:
+                                          count
+optimization                                   
+optimal control                              64
+optimization                                 38
+multi-objective optimization                 33
+optimization only mentioned                  25
+surveillance                                 10
+...                                         ...
+mathematical optimization                     1
+anomaly detection                             1
+svm classifier                                1
+optimization studies were performed           1
+cox hazard proportional regression model      1
+
+[87 rows x 1 columns]
+
+:-emphasis:
+                                                    count
+emphasis                                                 
+surveillance                                          194
+control                                                32
+unknown                                                24
+surveillance - control                                  7
+vector control strategies - treatment                   1
+surveillance - early warning                            1
+stochastic optimal control                              1
+co-infection model - basic reproduction number          1
+interventions - education campaigns - mass drug...      1
+sitt and wolbachia releases                             1
+vaccination                                             1
+vaccination - medicine - insecticide                    1
+wolbachia - pediatric vaccination                       1
+ventilation configuration - curtain adjustments         1
+vaccination - culling strategy                          1
+optimization                                            1
+traditional serological testing methods - nanob...      1
+structural optimization                                 1
+random search - grid search                             1
+optimization only mentioned                             1
+surveillance-control-unknown                            1
+xgboost)                                                1
+influent concentration - flow rate - bed depth          1
+none                                                    1
+
+-strategies:
+                                                    count
+strategies                                               
+unknown                                                63
+optimization only mentioned                            21
+surveillance                                            7
+optimization                                            6
+none                                                    3
+...                                                   ...
+iofc - nutrient requirements                            1
+reducing meal components - complying with schoo...      1
+ultrasound images                                       1
+feature selection - window length                       1
+diet costs - irrigation water use                       1
+
+[178 rows x 1 columns]
+
+-objective_function:
+                                               count
+objective_function                                  
+optimization only mentioned                       48
+unknown                                           37
+cost                                              30
+cost function                                     10
+optimization                                       5
+...                                              ...
+iofc - feed cost                                   1
+loss function - accuracy                           1
+seizure prediction performance                     1
+feed stuffs - atmospheric co2 concentrations       1
+mortality rate - proportion of virus shedders      1
+
+[147 rows x 1 columns]
+
+-variables:
+                                      count
+variables                                  
+unknown                                  61
+optimization only mentioned               6
+unknown variables                         3
+unknown constraints                       2
+mosquito density                          2
+...                                     ...
+velocity information                      1
+days of ieeg recorded                     1
+water usage - diet dry matter intake      1
+virus replication rate                    1
+vaccination status                        1
+
+[205 rows x 1 columns]
+
+-constraints:
+                                    count
+constraints                              
+unknown                                70
+budget                                  7
+none                                    6
+optimization only mentioned             5
+equality constraints                    3
+...                                   ...
+blood flow variability                  1
+seizures identified                     1
+available feeds - mitigation costs      1
+equality constraints not specified      1
+fish density - challenge dose           1
+
+[189 rows x 1 columns]

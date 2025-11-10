@@ -1,0 +1,223 @@
+mistral latest
+42 min
+
+
+Total articles classified: 8107
+Included: 1209
+Not included: 6898
+
+species:
+                                 count
+species                               
+human                              357
+unknown                            161
+pig                                 79
+cattle                              61
+mouse                               56
+...                                ...
+syrian_hamster                       1
+oncomelania_hupensis_robertsoni      1
+bacteria-gramnegative                1
+mosquitoes (anopheles)               1
+rhesus_macaque                       1
+
+[263 rows x 1 columns]
+
+diseases:
+                     count
+disease                   
+unknown                581
+malaria                 26
+covid-19                15
+african swine fever     14
+dengue                  14
+...                    ...
+tumor-unspecified        1
+berberine                1
+foodborne pathogens      1
+osteonecrosis            1
+groundwater level        1
+
+[402 rows x 1 columns]
+
+Number of articles per country:
+                              count
+country                            
+unknown                         856
+global                           87
+china                            24
+usa                              22
+india                            11
+...                             ...
+indonesia (bali)                  1
+yunnan_province                   1
+rodent                            1
+multiple countries (-africa)      1
+sri_lanka                         1
+
+[130 rows x 1 columns]
+
+statistics:
+                                                    count
+statistics                                               
+deterministic modelling                               182
+machine learning                                       74
+mechanistics models                                    41
+regression analysis                                    26
+mechanistic models                                     24
+...                                                   ...
+xray crystallography                                    1
+sir-type model                                          1
+maximum aposteriori estimates using optimal con...      1
+optimal_control                                         1
+lemuieuoxidation                                        1
+
+[607 rows x 1 columns]
+
+optimization:
+                                             count
+optimization                                      
+multi-objective optimization                   162
+optimal control                                154
+unknown                                        153
+optimization                                   123
+optimization mentioned but not applied           9
+...                                            ...
+power law approximation                          1
+fractional dung beetle optimization              1
+neural network algorithm                         1
+maximum likelihood swarm whale optimization      1
+simulated annealing                              1
+
+[524 rows x 1 columns]
+
+objective:
+                                      count
+objective                                  
+surveillance                            407
+control                                 405
+unknown                                 137
+optimization                             23
+classification                           13
+...                                     ...
+immune markers)                           1
+radiosensitivity parameter analysis)      1
+radioimmunotherapy                        1
+multi-epitope                             1
+vaccine                                   1
+
+[173 rows x 1 columns]
+
+strategies:
+                                 count
+strategies                            
+unknown                            327
+vaccination                         24
+surveillance                        22
+control                             16
+optimization                        11
+...                                ...
+transport planning                   1
+feature-fusion                       1
+amoxicillin/clavulanic acid          1
+upfront metronomic chemotherapy      1
+purification                         1
+
+[755 rows x 1 columns]
+
+
+---------------------------------------
+Total articles classified: 8107
+Included: 1209
+Not included: 6898
+species
+human                      2843
+unknown                    2364
+mouse                       434
+pig                         260
+rat                         189
+                           ... 
+holothuria leucospilota       1
+rana chensinensis             1
+marine fishery                1
+phlebotomus papatasi          1
+whitetail deer                1
+Name: count, Length: 794, dtype: int64
+disease
+unknown                                   6037
+malaria                                     68
+breast cancer                               51
+cancer                                      41
+tuberculosis                                33
+                                          ... 
+diffuse large b-cell lymphoma                1
+dengue_chikungunya_zika                      1
+diabetic cardiomyopathy                      1
+myocardial ischemia/reperfusion injury       1
+hpv16                                        1
+Name: count, Length: 1029, dtype: int64
+country
+unknown                         7007
+global                           484
+china                             93
+usa                               67
+brazil                            21
+                                ... 
+yunnan_province                    1
+hepatocellular carcinoma           1
+rodent                             1
+sheep (experimental)               1
+multiple countries (-africa)       1
+Name: count, Length: 211, dtype: int64
+statistics
+deterministic modelling                      625
+regression analysis                          474
+mechanistics models                          411
+machine learning                             315
+unknown                                      174
+                                            ... 
+sfc                                            1
+skyline                                        1
+monte-carlo simulation                         1
+graph theory analysis                          1
+allele-specific polymerase chain reaction      1
+Name: count, Length: 3312, dtype: int64
+optimization
+unknown                                                  2433
+mentioned but not applied                                1802
+optimization mentioned but not applied                    515
+optimization                                              489
+multi-objective optimization                              253
+                                                         ... 
+optimization (implied through drug dosing analogies)        1
+attention based reptile residual capsule auto encoder       1
+aisso                                                       1
+lemuieux oxidation                                          1
+elastic net                                                 1
+Name: count, Length: 1596, dtype: int64
+objective
+unknown                                                         4202
+control                                                         1203
+surveillance                                                     922
+optimization only mentioned                                      121
+treatment                                                         82
+                                                                ... 
+toxicity testing                                                   1
+radioimmunotherapy                                                 1
+gene delivery                                                      1
+radiation dosimetry                                                1
+surveillance (assessment of cognitive decline/dementia risk)       1
+Name: count, Length: 881, dtype: int64
+strategies
+unknown                                   4798
+optimization only mentioned               1043
+control                                     76
+surveillance                                67
+optimization mentioned but not applied      46
+                                          ... 
+lymph node collection                        1
+extraction methods                           1
+modeling kinetics of sodium channels         1
+microencapsulation                           1
+is/id modelling                              1
+Name: count, Length: 1689, dtype: int64

@@ -1,0 +1,238 @@
+llama 4> latest
+
+116 minutes>
+
+Sensitivity: 0.894 (95% CI: 0.797–0.948)
+Specificity: 0.902 (95% CI: 0.895–0.908)
+Accuracy:    0.901 (95% CI: 0.895–0.908)
+
+tp 59
+fn 7
+tn 7249
+fp 792
+66.0
+851
+
+
+total
+Total articles classified: 8107
+Included: 851
+Not included: 7256
+species
+unknown                    3906
+human                      1176
+mouse                       488
+rat                         315
+pig                         250
+                           ... 
+clostridium difficile         1
+osteosarcoma                  1
+e. coli - k. pneumoniae       1
+sheep - dog - human           1
+arboviral diseases            1
+Name: count, Length: 592, dtype: int64
+disease
+unknown                         5619
+cancer                           139
+malaria                           57
+breast cancer                     37
+alzheimer's disease               32
+                                ... 
+drug resistance                    1
+esophageal stenosis                1
+tumor development                  1
+anthrax                            1
+rocky mountain spotted fever       1
+Name: count, Length: 1262, dtype: int64
+country
+unknown            6776
+usa                 476
+worldwide           269
+china               156
+brazil               34
+                   ... 
+tadalafil             1
+extraction            1
+chronic myeloid       1
+removal               1
+unspecified           1
+Name: count, Length: 146, dtype: int64
+statistics
+unknown                                   3772
+regression analysis                       1423
+literature review                          543
+deterministic modelling                    215
+optimization                               192
+                                          ... 
+transcriptomics - metabolomics               1
+trypsin                                      1
+hybrid modeling                              1
+quantitative reverse transcription pcr       1
+dynamical modelling                          1
+Name: count, Length: 884, dtype: int64
+optimization
+unknown                                  3946
+mentioned but not applied                2749
+optimization                              465
+optimal control                           455
+surveillance                               43
+                                         ... 
+nitrogen source optimization                1
+electroporation                             1
+pattern search optimization algorithm       1
+optimization methods                        1
+literature review                           1
+Name: count, Length: 337, dtype: int64
+objective
+unknown                              5961
+surveillance                         1848
+optimization                           38
+vaccine development                     9
+detection                               9
+                                     ... 
+formulation optimization \nor \n0       1
+dermal delivery                         1
+structure-based optimization            1
+unknown \nor rephrased \n0              1
+compartment model                       1
+Name: count, Length: 182, dtype: int64
+strategies
+unknown                         6062
+optimization only mentioned     1029
+optimization not applied          21
+detection                         15
+surveillance                      12
+                                ... 
+therapy optimization               1
+vaccine efficacy testing           1
+fgfr4                              1
+sefa-6179 absorption               1
+dosage optimization \nor \n1       1
+Name: count, Length: 854, dtype: int64
+
+
+////////////
+
+Classified>
+Total articles classified: 8107
+Included: 851
+Not included: 7256
+
+species:
+                   count
+species                 
+human                215
+unknown              163
+mouse                 51
+pig                   32
+mosquito              28
+...                  ...
+moth                   1
+ferret                 1
+spotted wolffish       1
+pufferfish             1
+non-human primate      1
+
+[190 rows x 1 columns]
+
+diseases:
+                            count
+disease                          
+unknown                       354
+cancer                         28
+malaria                        17
+dengue                         13
+covid-19                        8
+...                           ...
+vascular graft development      1
+metastatic lymph nodes          1
+anopheles arabiensis            1
+babesiosis                      1
+kidney cancer                   1
+
+[350 rows x 1 columns]
+
+Number of articles per country:
+               count
+country             
+unknown          355
+usa              175
+worldwide        124
+china             30
+global            25
+...              ...
+north america      1
+israel             1
+mexico             1
+japan              1
+sri lanka          1
+
+[83 rows x 1 columns]
+
+statistics:
+                                             count
+statistics                                        
+deterministic modelling                        147
+regression analysis                             86
+optimization                                    43
+machine learning                                34
+optimal control                                 32
+...                                            ...
+state-space models                               1
+bayesian estimation                              1
+quantitative systems pharmacology modelling      1
+pharmacokinetic/pharmacodynamic modelling        1
+rational approximation                           1
+
+[306 rows x 1 columns]
+
+optimization:
+                              count
+optimization                       
+optimal control                 362
+optimization                    216
+surveillance                     40
+multi-objective optimization     10
+optimal design                    6
+...                             ...
+nitrogen source optimization      1
+electroporation                   1
+optimization methods              1
+amino acid substitutions          1
+rational approximation            1
+
+[172 rows x 1 columns]
+
+objective:
+                             count
+objective                         
+surveillance                   721
+unknown                         34
+optimization                    14
+control                          5
+optimal control                  3
+...                            ...
+non-inferior set estimation      1
+microcomputed tomography         1
+sterilization control            1
+functional connectivity          1
+vaccination \nbecomes \n1        1
+
+[79 rows x 1 columns]
+
+strategies:
+                                                    count
+strategies                                               
+unknown                                               219
+control strategies                                      9
+optimization                                            6
+risk-based-monitoring                                   5
+parameter estimation                                    4
+...                                                   ...
+model generation                                        1
+microbiota transplantation                              1
+accuracy maximization \nbecomes \n1                     1
+carbon to nitrogen ratio and organic loading ra...      1
+yet it is correct)\n\n 1                                1
+
+[580 rows x 1 columns]

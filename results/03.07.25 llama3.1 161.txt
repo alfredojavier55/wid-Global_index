@@ -1,0 +1,452 @@
+llama 3.2 8b 
+161
+
+Total articles classified: 8107
+Included: 161
+Not included: 7946
+
+ -Species:
+species
+unknown                                         7633
+pig                                               40
+human                                             21
+mouse                                             17
+sheep                                             13
+                                                ... 
+miniature pig                                      1
+macaque                                            1
+avian influenza virus h5n1 - mice - chickens       1
+tuberculosis                                       1
+e. coli - k. pneumoniae                            1
+Name: count, Length: 267, dtype: int64
+
+ -Disease:
+disease
+unknown                                 6202
+cancer                                    76
+malaria                                   53
+alzheimer's disease                       38
+breast cancer                             22
+                                        ... 
+smallpox                                   1
+chronic wounds                             1
+uterine factor infertility                 1
+type i thyroplasty                         1
+patient admission scheduling problem       1
+Name: count, Length: 1037, dtype: int64
+
+ -Country:
+country
+unknown                      6295
+worldwide                     582
+usa                           484
+china                         166
+india                          23
+                             ... 
+china-east asia                 1
+usa - murcia region spain       1
+colombia - worldwide            1
+usa - new zealand               1
+usa - indiana                   1
+Name: count, Length: 274, dtype: int64
+
+ -Statistics:
+statistics
+unknown                                            5323
+qualitative analysis                                548
+regression analysis                                 445
+deterministic modelling                             226
+optimization                                        145
+                                                   ... 
+jfcr39 compare analysis                               1
+molecular docking - regression analysis               1
+single-cell rna sequencing                            1
+compartmental modelling                               1
+pharmacokinetic/pharmacodynamic (pk/pd) indices       1
+Name: count, Length: 802, dtype: int64
+
+ -Optimization:
+optimization
+unknown                                                        3323
+mentioned but not applied                                      2709
+optimization                                                    570
+optimization only mentioned                                     567
+optimization mentioned but not applied                           85
+                                                               ... 
+multi-objective optimization - whale optimization algorithm       1
+dynamic optimization - game theory - spatial modeling             1
+low-rank optimization                                             1
+non-derivative optimization algorithm                             1
+nelder-mead simplex optimization                                  1
+Name: count, Length: 421, dtype: int64
+
+ -Emphasis:
+emphasis
+unknown                                                   5749
+surveillance                                              1161
+control                                                   1062
+surveillance - control                                      15
+optimization                                                12
+                                                          ... 
+immunological response                                       1
+characterization                                             1
+vaccination                                                  1
+liver function monitoring - histopathological analysis       1
+safety and efficacy                                          1
+Name: count, Length: 89, dtype: int64
+
+ -Strategies:
+strategies
+unknown                                  6411
+optimization only mentioned               631
+vaccination                                54
+surveillance                               40
+control                                    30
+                                         ... 
+integrated worm control - vaccination       1
+machine learning methods                    1
+land use planning                           1
+3d printing                                 1
+early detection - treatment                 1
+Name: count, Length: 822, dtype: int64
+
+ -Objective Function:
+objective_function
+unknown                                                            6227
+cost                                                                634
+optimization only mentioned                                         261
+cost function                                                       155
+accuracy                                                             23
+                                                                   ... 
+optimization of cd19-specific chimeric antigen receptor t cells       1
+total polyphenol extraction                                           1
+viral load - number of infected cells                                 1
+cost - treatment efficacy                                             1
+vector density                                                        1
+Name: count, Length: 657, dtype: int64
+
+ -Variables:
+variables
+unknown                                                  6477
+variables                                                  30
+optimization only mentioned                                21
+variables not specified                                    21
+none                                                       19
+                                                         ... 
+daily data - meteorological data                            1
+pca - features extracted by harris hawks optimization       1
+peptides - descriptors                                      1
+no constraints mentioned                                    1
+features - embryo exposure                                  1
+Name: count, Length: 1473, dtype: int64
+
+ -Constraints:
+constraints
+unknown                                      6733
+equality constraints                           62
+none                                           55
+constraints                                    53
+constraints not specified                      23
+                                             ... 
+seasonality constraints                         1
+socio-economic cost                             1
+human and dog interactions                      1
+infected individuals - insecticide sprays       1
+static field inhomogeneities                    1
+Name: count, Length: 1081, dtype: int64
+
+---------------------
+
+
+Included articles classified: 8107
+Included: 161
+Not included: 7946
+
+-species:
+                                                    count
+species                                                  
+unknown                                                88
+human                                                   6
+aedes aegypti                                           5
+pig                                                     4
+mosquito                                                3
+nipah virus                                             2
+foot-and-mouth disease                                  2
+dengue fever                                            2
+mouse                                                   2
+schistosomiasis                                         2
+dog                                                     2
+pig unknown                                             1
+trypanosoma brucei rhodesiense                          1
+leishmaniasis                                           1
+wild boar - african swine fever                         1
+foot-and-mouth disease - human                          1
+opisthorchis viverrini                                  1
+cassava                                                 1
+schistosoma japonicum                                   1
+anthrax                                                 1
+person                                                  1
+sheep - goats                                           1
+poultry                                                 1
+dengue                                                  1
+dengue virus                                            1
+dengue - chikungunya - malaria                          1
+human - pig - mosquito                                  1
+zika virus                                              1
+mosquitoes                                              1
+ruminants - pig                                         1
+pine                                                    1
+livestock                                               1
+aedes aegypti - dengue                                  1
+anopheles gambiae s.s - anopheles arabiensis - ...      1
+possum                                                  1
+bison                                                   1
+cattle                                                  1
+rift valley fever                                       1
+oncomelania hupensis                                    1
+coxiella burnetii                                       1
+human african trypanosomiasis                           1
+lymphatic filariasis                                    1
+plasmodium vivax                                        1
+culicidae - mosquito                                    1
+anopheles stephensi - mosquito                          1
+swine                                                   1
+yellow catfish - pelteobagrus fulvidraco                1
+medfly                                                  1
+citrus red mite                                         1
+rat                                                     1
+plasmodium berghei - human                              1
+african swine fever                                     1
+avian-influenza-virus                                   1
+cow                                                     1
+
+-diseases:
+                                            count
+disease                                          
+unknown                                        69
+dengue                                          5
+schistosomiasis                                 5
+brucellosis                                     4
+dengue fever                                    4
+...                                           ...
+tetani                                          1
+avian-influenza                                 1
+protein fractionation                           1
+dengue - yellow fever - chikungunya - zika      1
+epilepsy                                        1
+
+[73 rows x 1 columns]
+
+-country:
+                                                    count
+country                                                  
+unknown                                                61
+worldwide                                              18
+usa                                                    16
+china                                                   6
+iran                                                    3
+bangladesh                                              2
+brazil                                                  2
+india                                                   2
+usa - worldwide                                         2
+africa                                                  1
+usa - ireland                                           1
+china - italy                                           1
+canada                                                  1
+uk - japan                                              1
+usa - southeast                                         1
+indonesia - east java                                   1
+optimization                                            1
+vietnam                                                 1
+lao pdr - unknown                                       1
+greece-worldwide                                        1
+multi-country                                           1
+malaysia                                                1
+pakistan                                                1
+control                                                 1
+south sudan                                             1
+china- inner mongolia                                   1
+peru - north america                                    1
+united kingdom - denmark                                1
+europe                                                  1
+bangladesh - india                                      1
+africa-middle east-asia                                 1
+sub-saharan africa                                      1
+brazil - usa                                            1
+chad                                                    1
+france                                                  1
+england                                                 1
+peru                                                    1
+south africa - worldwide                                1
+machine learning                                        1
+singapore                                               1
+new zealand                                             1
+dynamic transmission models - constrained optim...      1
+sri lanka                                               1
+probabilistic modelling                                 1
+uk - cumbria                                            1
+united kingdom                                          1
+china - anhui province                                  1
+global                                                  1
+chile                                                   1
+argentina                                               1
+usa - uk                                                1
+denmark                                                 1
+china-unknown                                           1
+russia                                                  1
+spain                                                   1
+domestic sheep - goats - cattle - camels                1
+united states                                           1
+china - guangzhou                                       1
+
+-statistics:
+                                                    count
+statistics                                               
+unknown                                                29
+deterministic modelling                                23
+regression analysis                                     9
+optimization                                            6
+response surface methodology                            5
+...                                                   ...
+comparison of diagnostic performance                    1
+genetic algorithm optimization - partial differ...      1
+mixed-integer nonlinear programming                     1
+regression analysis - response surface methodology      1
+machine learning svm algorithm                          1
+
+[83 rows x 1 columns]
+
+-optimization:
+                                                    count
+optimization                                             
+optimal control                                        38
+unknown                                                34
+optimization                                           16
+mentioned but not applied                              16
+multi-objective optimization                            9
+surveillance                                            7
+optimization only mentioned                             5
+multi objective optimization                            3
+control                                                 3
+none mentioned                                          2
+optimal control analysis                                1
+near optimal control                                    1
+direct detection                                        1
+optimization model                                      1
+no explicit optimization mentioned                      1
+spectral techniques for low-dimensional integra...      1
+linear regression                                       1
+optimal controls                                        1
+optimization control                                    1
+bayesian optimization                                   1
+harris hawks optimization                               1
+surveillance - control                                  1
+optimal alternated step-size control                    1
+optimal conditions                                      1
+artificial bee colony algorithm                         1
+optimization (quantum whale optimization algori...      1
+rhumbo (rock hyraxes updated marriage in honey ...      1
+artificial immune-system and interior-reflectiv...      1
+particle swarm optimization                             1
+maximum activating function values                      1
+shape optimization                                      1
+approximate optimization                                1
+se-optimal design methodology                           1
+quadratic programming                                   1
+formulation variables like chitosan (a)                 1
+principal-component-analysis - one-class-svm - ...      1
+optimal application frequency of insecticide            1
+optimization (response surface methodology)             1
+
+:-emphasis:
+                                                    count
+emphasis                                                 
+surveillance                                           69
+control                                                36
+unknown                                                35
+surveillance - control                                  7
+real-time model fitting                                 1
+reduced-mixing strategy                                 1
+sterilization protocol - fecundity - sterile ty...      1
+education campaigns - mass drug administration ...      1
+strategies:sterile insect technique - wolbachia...      1
+surveillance - vaccination - isolation - cullin...      1
+survival                                                1
+release of wolbachia-infected mosquitoes - pedi...      1
+- risk assessment - control                             1
+vaccination strategies - culling only strategy          1
+surveillance - larval indices as alarm signals          1
+stpp concentration (b)                                  1
+control-unknown                                         1
+genetic and environmental data - landscape conn...      1
+
+-strategies:
+                                           count
+strategies                                      
+unknown                                       56
+optimization only mentioned                    5
+vaccination                                    3
+vaccination - culling                          3
+cost                                           2
+...                                          ...
+flow cytometry - sex sorting protocol          1
+formulation development                        1
+milk income - feed cost maximization           1
+extraction                                     1
+early warning system - seizure adjustment      1
+
+[96 rows x 1 columns]
+
+-objective_function:
+                                                 count
+objective_function                                    
+unknown                                             44
+cost                                                32
+cost function                                        8
+cost-effectiveness                                   3
+prevalence                                           2
+...                                                ...
+cost minimization                                    1
+nutrient requirements - diet satisfaction ratio      1
+yield                                                1
+neutralizing antibodies and ifn-γ-scs levels         1
+accuracy - prediction performance                    1
+
+[77 rows x 1 columns]
+
+-variables:
+                                                 count
+variables                                             
+unknown                                             33
+population size                                      2
+infected human population - vector populations       1
+food resources - sheep vaccination rate              1
+human awareness - insecticide usage levels           1
+...                                                ...
+variables: centrifugal forces - extender type        1
+virus replication ability - virus antigen score      1
+ieeg data - synchrony features                       1
+variables - constraints                              1
+variables - larval density - tray size/position      1
+
+[128 rows x 1 columns]
+
+-constraints:
+                                          count
+constraints                                    
+unknown                                      52
+budget                                        2
+inequality constraints                        2
+none                                          2
+constraints unknown                           2
+...                                         ...
+temperature                                   1
+constraints not explicitly stated             1
+constraints: g force - time duration          1
+preictal training time                        1
+constraints - tray size - larval density      1
+
+[106 rows x 1 columns]
+
+
+

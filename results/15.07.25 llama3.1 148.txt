@@ -1,0 +1,353 @@
+ollama 52 min
+
+Total articles classified: 8107
+Included: 148
+Not included: 7959
+
+ -Species:
+species
+unknown                                7648
+pig                                      43
+mouse                                    24
+human                                    17
+dog                                      16
+                                       ... 
+atlantic salmon - salmo salar l.          1
+macaca fasicularis - macaca mulatta       1
+anopheles mosquitoes                      1
+tilapia                                   1
+e.coli - k. pneumoniae                    1
+Name: count, Length: 248, dtype: int64
+
+ -Disease:
+disease
+unknown                                        6195
+cancer                                           80
+malaria                                          48
+alzheimer's disease                              37
+tuberculosis                                     24
+                                               ... 
+uterine factor infertility                        1
+smallpox                                          1
+aleutian mink disease virus                       1
+lama2-related congenital muscular dystrophy       1
+chicken circovirus                                1
+Name: count, Length: 1027, dtype: int64
+
+ -Country:
+country
+unknown                  6200
+worldwide                 585
+usa                       566
+china                     170
+germany                    27
+                         ... 
+korea                       1
+usa-unknown-worldwide       1
+china-east asia             1
+china - taiwan              1
+usa-indiana                 1
+Name: count, Length: 257, dtype: int64
+
+ -Statistics:
+statistics
+unknown                                                                                                   5174
+qualitative analysis                                                                                       464
+regression analysis                                                                                        426
+deterministic modelling                                                                                    289
+optimization                                                                                               160
+                                                                                                          ... 
+two-way repeated measures analysis of variance                                                               1
+response surface methodology - plackett-burman design                                                        1
+finite element modeling versus designed experiments                                                          1
+optimization of factors affecting ido removal by box-behnenken design and response surface methodology       1
+univariate statistics - opls-da models                                                                       1
+Name: count, Length: 915, dtype: int64
+
+ -Optimization:
+optimization
+unknown                                   3491
+mentioned but not applied                 2459
+optimization only mentioned                614
+optimization                               569
+optimization mentioned but not applied     105
+                                          ... 
+design of experiments                        1
+low-rank optimization                        1
+dynamic optimization                         1
+numeric optimization technique               1
+deer hunting optimization                    1
+Name: count, Length: 389, dtype: int64
+
+ -Emphasis:
+emphasis
+unknown                          5353
+surveillance                     1940
+control                           671
+optimization only mentioned        22
+optimization                       20
+                                 ... 
+feasibility                         1
+emphasis on control                 1
+inflammation                        1
+emphasis on clinical symptoms       1
+western blot analysis               1
+Name: count, Length: 78, dtype: int64
+
+ -Strategies:
+strategies
+unknown                                                                                                                   6532
+optimization only mentioned                                                                                                575
+surveillance                                                                                                                65
+vaccination                                                                                                                 48
+optimization                                                                                                                26
+                                                                                                                          ... 
+scatter search metaheuristic - asynchronous cooperation - coarse and fine-grained parallelism - self-tuning strategies       1
+mate selection - limitation of self-fertilization - combination of methods                                                   1
+media composition - biomass productivity                                                                                     1
+constraint-based                                                                                                             1
+mosquito rearing - feeding techniques                                                                                        1
+Name: count, Length: 741, dtype: int64
+
+ -Objective Function:
+objective_function
+unknown                                          6475
+cost                                              524
+optimization only mentioned                       239
+cost function                                     132
+objective function not specified                   17
+                                                 ... 
+total time saved - number of inputs at time t       1
+fitness value - information loss                    1
+activating function value                           1
+temperature distribution                            1
+objective function - error estimation               1
+Name: count, Length: 581, dtype: int64
+
+ -Variables:
+variables
+unknown                                                 6619
+variables                                                 34
+none                                                      16
+variables and constraints not specified                   15
+variables not specified                                   14
+                                                        ... 
+porosity - electroporation intensity                       1
+compound concentration - kinetic profile                   1
+volume effect parameter a - tumor target volume            1
+cell density - dna concentration - pei concentration       1
+mixture ratio - m9 and m10 concentrations                  1
+Name: count, Length: 1329, dtype: int64
+
+ -Constraints:
+constraints
+unknown                                                      6860
+constraints                                                    63
+equality constraints                                           56
+none                                                           50
+constraints not specified                                      18
+                                                             ... 
+image size constraints - otsu thresholding                      1
+coefficient of determination - residual sum of squares          1
+process variables                                               1
+constraints on dose distribution and aperture size              1
+length and weight at first maturity - gonadosomatic index       1
+Name: count, Length: 944, dtype: int64
+
+
+--------------------------------------------------------------------------
+
+Title  classification  \
+2   Dynamic modeling and optimal control of cystic...               1   
+3   Bifurcation thresholds and optimal control in ...               1   
+4   Transmission dynamics and optimal control of b...               1   
+8   Optimal combinations of control strategies and...               1   
+10  Zoonotic visceral leishmaniasis transmission: ...               1   
+11  Analytical approximation for invasion and ende...               1   
+14  Dynamical and optimal control analysis of a se...               1   
+18  A new fractional model and optimal control of ...               1   
+22  Optimal control of a tick population with a vi...               1   
+32  An Optimal Control Model to Reduce and Eradica...               1   
+
+                                       statistics  
+2                              dynamical modeling  
+3       deterministic modelling - optimal control  
+4                                    optimization  
+8        optimal control theory - sir-type models  
+10  mathematical modelling - bifurcation analysis  
+11                                optimal control  
+14                         mathematical modelling  
+18  deterministic modelling - numerical procedure  
+22                        deterministic modelling  
+32                        deterministic modelling
+
+-------------------------
+
+
+Total articles classified: 8107
+Included: 148
+Not included: 7959
+
+ -Species:
+species
+unknown                                7648
+pig                                      43
+mouse                                    24
+human                                    17
+dog                                      16
+                                       ... 
+atlantic salmon - salmo salar l.          1
+macaca fasicularis - macaca mulatta       1
+anopheles mosquitoes                      1
+tilapia                                   1
+e.coli - k. pneumoniae                    1
+Name: count, Length: 248, dtype: int64
+
+ -Disease:
+disease
+unknown                                        6195
+cancer                                           80
+malaria                                          48
+alzheimer's disease                              37
+tuberculosis                                     24
+                                               ... 
+uterine factor infertility                        1
+smallpox                                          1
+aleutian mink disease virus                       1
+lama2-related congenital muscular dystrophy       1
+chicken circovirus                                1
+Name: count, Length: 1027, dtype: int64
+
+ -Country:
+country
+unknown                  6200
+worldwide                 585
+usa                       566
+china                     170
+germany                    27
+                         ... 
+korea                       1
+usa-unknown-worldwide       1
+china-east asia             1
+china - taiwan              1
+usa-indiana                 1
+Name: count, Length: 257, dtype: int64
+
+ -Statistics:
+statistics
+unknown                                                                                                   5174
+qualitative analysis                                                                                       464
+regression analysis                                                                                        426
+deterministic modelling                                                                                    289
+optimization                                                                                               160
+                                                                                                          ... 
+two-way repeated measures analysis of variance                                                               1
+response surface methodology - plackett-burman design                                                        1
+finite element modeling versus designed experiments                                                          1
+optimization of factors affecting ido removal by box-behnenken design and response surface methodology       1
+univariate statistics - opls-da models                                                                       1
+Name: count, Length: 915, dtype: int64
+
+ -Optimization:
+optimization
+unknown                                   3491
+mentioned but not applied                 2459
+optimization only mentioned                614
+optimization                               569
+optimization mentioned but not applied     105
+                                          ... 
+design of experiments                        1
+low-rank optimization                        1
+dynamic optimization                         1
+numeric optimization technique               1
+deer hunting optimization                    1
+Name: count, Length: 389, dtype: int64
+
+ -Emphasis:
+emphasis
+unknown                          5353
+surveillance                     1940
+control                           671
+optimization only mentioned        22
+optimization                       20
+                                 ... 
+feasibility                         1
+emphasis on control                 1
+inflammation                        1
+emphasis on clinical symptoms       1
+western blot analysis               1
+Name: count, Length: 78, dtype: int64
+
+ -Strategies:
+strategies
+unknown                                                                                                                   6532
+optimization only mentioned                                                                                                575
+surveillance                                                                                                                65
+vaccination                                                                                                                 48
+optimization                                                                                                                26
+                                                                                                                          ... 
+scatter search metaheuristic - asynchronous cooperation - coarse and fine-grained parallelism - self-tuning strategies       1
+mate selection - limitation of self-fertilization - combination of methods                                                   1
+media composition - biomass productivity                                                                                     1
+constraint-based                                                                                                             1
+mosquito rearing - feeding techniques                                                                                        1
+Name: count, Length: 741, dtype: int64
+
+ -Objective Function:
+objective_function
+unknown                                          6475
+cost                                              524
+optimization only mentioned                       239
+cost function                                     132
+objective function not specified                   17
+                                                 ... 
+total time saved - number of inputs at time t       1
+fitness value - information loss                    1
+activating function value                           1
+temperature distribution                            1
+objective function - error estimation               1
+Name: count, Length: 581, dtype: int64
+
+ -Variables:
+variables
+unknown                                                 6619
+variables                                                 34
+none                                                      16
+variables and constraints not specified                   15
+variables not specified                                   14
+                                                        ... 
+porosity - electroporation intensity                       1
+compound concentration - kinetic profile                   1
+volume effect parameter a - tumor target volume            1
+cell density - dna concentration - pei concentration       1
+mixture ratio - m9 and m10 concentrations                  1
+Name: count, Length: 1329, dtype: int64
+
+ -Constraints:
+constraints
+unknown                                                      6860
+constraints                                                    63
+equality constraints                                           56
+none                                                           50
+constraints not specified                                      18
+                                                             ... 
+image size constraints - otsu thresholding                      1
+coefficient of determination - residual sum of squares          1
+process variables                                               1
+constraints on dose distribution and aperture size              1
+length and weight at first maturity - gonadosomatic index       1
+Name: count, Length: 944, dtype: int64
+
+
+////////////////////////////////////////
+Sensitivity: 0.690 (95% CI: 0.540–0.809)
+Specificity: 0.820 (95% CI: 0.746–0.876)
+Accuracy:    0.789 (95% CI: 0.722–0.843)
+ tp: 29
+ fn: 13
+ tn: 109
+ fp: 24
+Number of positive samples in 'human': 42.0
+Number of positive predictions: 148
+Number of 0 values in 'human': 133
+Number of NA values in 'human': 7932

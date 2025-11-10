@@ -1,0 +1,292 @@
+124 min Ollama 4
+
+------------
+About the classification
+
+Total articles classified: 8107
+Included: 505
+Not included: 7602
+
+species:
+                      count
+species                    
+unknown                 100
+humans                   31
+cattle                   25
+mice                     23
+pigs                     19
+...                     ...
+red foxes                 1
+anopheles arabiensis      1
+pancreatic cancer         1
+mosquito                  1
+nonhuman primates         1
+
+[184 rows x 1 columns]
+
+diseases:
+                         count
+disease                       
+unknown                    214
+dengue                      11
+malaria                     10
+cancer                       8
+covid-19                     6
+...                        ...
+tumor                        1
+aedes albopictus             1
+lyme disease                 1
+spinal muscular atrophy      1
+insecticide resistance       1
+
+[220 rows x 1 columns]
+
+Number of articles per country:
+                       count
+country                     
+unknown                  197
+usa                      145
+china                     17
+global                     8
+worldwide                  6
+...                      ...
+egypt                      1
+mexico                     1
+mathematical modeling      1
+ethiopia                   1
+sri lanka                  1
+
+[80 rows x 1 columns]
+
+statistics:
+                                  count
+statistics                             
+deterministic modelling             102
+regression analysis                  37
+optimal control                      28
+optimization                         23
+machine learning                     15
+...                                 ...
+nonlinear mixed-effects modeling      1
+computational modelling               1
+crystallographic analysis             1
+crispr-cas9                           1
+rational functions                    1
+
+[214 rows x 1 columns]
+
+optimization:
+                                count
+optimization                         
+optimal control                   194
+optimization                      145
+surveillance                       25
+control                             9
+unknown                             6
+...                               ...
+iterated-filtering-algorithm        1
+simplex optimization                1
+optimization of vector control      1
+amino acid substitutions            1
+base editing                        1
+
+[118 rows x 1 columns]
+
+objective:
+                                                    count
+objective                                                
+surveillance                                          404
+unknown                                                18
+control                                                17
+optimization                                           10
+sensitivity analysis                                    2
+intervention                                            2
+optimal control                                         2
+event-based control strategy                            1
+larvicide - adulticide - ultra-low volume spraying      1
+time-optimal control strategies                         1
+education-improved sanitation-drug administrati...      1
+personal protection - larvicide - adulticide            1
+ordinary differential equations                         1
+periodic releases \nor \n1                              1
+insecticide use - vaccination                           1
+surveillance - control                                  1
+control strategies                                      1
+control policies                                        1
+risk-based monitoring                                   1
+vaccination-insecticide-medicine                        1
+wolbachia release - paediatric vaccination              1
+vector control - indoor residual spraying               1
+control strategies \nor rephrased to fit requir...      1
+- classification: 1 \n- species: humans \n- dis...      1
+cultural methods - pesticides                           1
+radial basis function networks                          1
+bang-bang type strategy                                 1
+risk assessment                                         1
+vector containment activities                           1
+anti-arrhythmic strategies                              1
+predictive                                              1
+productivity enhancement                                1
+risk-based management                                   1
+attention-based feature fusion                          1
+usa                                                     1
+deconvolution algorithm                                 1
+decision support                                        1
+genetic progress                                        1
+intelligent optimization technique                      1
+decentralized and distributed strategies                1
+thailand                                                1
+wiener filter - super-resolution - faster r-cnn...      1
+anaerobic co-digestion \nbecomes:\n1                    1
+aeration optimization                                   1
+rn                                                      1
+robust multiobjective optimization                      1
+surveillance-control                                    1
+propagation                                             1
+rpa-crispr/cas12a platform                              1
+tumor growth prediction - automatic patient-spe...      1
+composting                                              1
+conservation                                            1
+insecticide allocation strategies \nbecomes \n\n1       1
+bee colony optimization                                 1
+risk-based monitoring - vector control                  1
+optimization of egg turning angle \ndoes not ma...      1
+network analysis                                        1
+
+strategies:
+                                                    count
+strategies                                               
+unknown                                               154
+carcass testing is not applicable here                 10
+surveillance                                            8
+risk-based monitoring                                   6
+risk-based-monitoring                                   5
+...                                                   ...
+risk factors analysis                                   1
+optimal sampling design                                 1
+preventive control strategies                           1
+risk-based monitoring - genomic analysis - spat...      1
+bioaerosol sampling optimization - passive and ...      1
+
+[316 rows x 1 columns]
+                                                Title classification  \
+2   Dynamic modeling and optimal control of cystic...              1   
+3   Bifurcation thresholds and optimal control in ...              1   
+4   Transmission dynamics and optimal control of b...              1   
+6   Optimal control design of preparation pulses f...              1   
+8   Optimal combinations of control strategies and...              1   
+10  Zoonotic visceral leishmaniasis transmission: ...              1   
+11  Analytical approximation for invasion and ende...              1   
+12  AMIGO2, a toolbox 
+
+------------
+Print statistics about the extraction
+
+Total articles classified: 8107
+Included: 505
+Not included: 7602
+species
+unknown                5094
+mice                    384
+rats                    222
+pigs                    195
+humans                  132
+                       ... 
+herbivorous animals       1
+tumor                     1
+rice                      1
+tsetse flies              1
+arboviral diseases        1
+Name: count, Length: 679, dtype: int64
+disease
+unknown                   6590
+cancer                      46
+malaria                     45
+covid-19                    19
+tuberculosis                17
+                          ... 
+filariasis                   1
+vibrio parahemolyticus       1
+cardiac function             1
+blood glucose                1
+anthrax                      1
+Name: count, Length: 916, dtype: int64
+country
+unknown                               6980
+usa                                    546
+china                                  154
+brazil                                  33
+india                                   23
+                                      ... 
+review                                   1
+nanostructured lipid carriers            1
+urinary tract infection                  1
+16 countries in sub-saharan africa       1
+pakistan                                 1
+Name: count, Length: 157, dtype: int64
+statistics
+unknown                          5872
+regression analysis               481
+deterministic modelling           138
+literature review                 115
+optimization                       89
+                                 ... 
+principal components analysis       1
+bioinformatic analysis              1
+molecular modelling                 1
+combined treatment                  1
+virtual library screening           1
+Name: count, Length: 723, dtype: int64
+optimization
+unknown                       5109
+mentioned but not applied     2344
+optimization                   217
+optimal control                205
+surveillance                    26
+                              ... 
+wgmlst                           1
+surface plasmon resonance        1
+non-compartmental analysis       1
+amino acid substitutions         1
+base editing                     1
+Name: count, Length: 168, dtype: int64
+objective
+unknown                      7251
+surveillance                  720
+control                        25
+optimization                   16
+mentioned but not applied       7
+                             ... 
+unknown \n0                     1
+unknown \nor \n0                1
+intestinal absorption           1
+compartmental model             1
+therapeutic                     1
+Name: count, Length: 83, dtype: int64
+strategies
+unknown                                                                                      7587
+optimization only mentioned                                                                    50
+                                                                                               27
+surveillance                                                                                   14
+carcass testing is not applicable here                                                         10
+                                                                                             ... 
+monitoring strategies                                                                           1
+prediction modeling \n  however a more detailed breakdown  would be \n  1                       1
+risk-based approaches                                                                           1
+risk-based monitoring - genomic analysis - spatial modeling - migration patterns analysis       1
+stroke prevention                                                                               1
+Name: count, Length: 386, dtype: int64
+
+
+
+Sensitivity: 1.000 (95% CI: 0.930–1.000)
+Specificity: 0.944 (95% CI: 0.938–0.948)
+Accuracy:    0.944 (95% CI: 0.939–0.949)
+
+
+51
+0
+7602
+454
+51.0
+505

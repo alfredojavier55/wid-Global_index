@@ -1,0 +1,231 @@
+time 30 min
+ollama 3.2
+
+
+Sensitivity: 0.588 (95% CI: 0.452–0.712)
+Specificity: 0.627 (95% CI: 0.616–0.638)
+Accuracy:    0.627 (95% CI: 0.616–0.637)
+
+
+Total articles classified: 8107
+Included: 3034
+Not included: 5073
+
+species:
+                          count
+species                        
+human                       519
+unknown                     255
+mice                        250
+pigs                        100
+rats                         69
+...                         ...
+mosquitoes-ticks              1
+norovirus-surrogates          1
+beagle-dogs                   1
+asenapine-maleate             1
+classic-geese-parvovirus      1
+
+[1178 rows x 1 columns]
+
+diseases:
+                             count
+disease                           
+african-swine-fever            746
+unknown                        629
+african swine fever             67
+human                           57
+african-swine-fever-unknown     20
+...                            ...
+dreissena-polymorpha             1
+protein structures               1
+dietary-carbohydrates            1
+gentiopicroside                  1
+sacsin-related disease           1
+
+[1241 rows x 1 columns]
+
+Number of articles per country:
+                                                    count
+country                                                  
+usa                                                  1543
+unknown                                               261
+worldwide                                             200
+germany                                               129
+china                                                 119
+...                                                   ...
+china-italy                                             1
+usa-germany-worldwide                                   1
+optimization not applied - machine learning - s...      1
+costa-rica                                              1
+usa/worldwide                                           1
+
+[388 rows x 1 columns]
+
+statistics:
+                                                    count
+statistics                                               
+deterministic modelling                              1101
+mechanistics models                                   359
+bayesian inference                                    341
+probabilistic methods                                 171
+mechanistic models                                    124
+...                                                   ...
+nonlinear-mixed-effects-modeling-bayesian-infer...      1
+chinese-models                                          1
+named-but-not-applied                                   1
+surveillance- control-                                  1
+16-african-countries                                    1
+
+[233 rows x 1 columns]
+
+optimization:
+                              count
+optimization                       
+optimal control                 737
+mentioned but not applied       514
+reinforcement learning          348
+multi-objective optimization    297
+algorithmic enhancements        190
+...                             ...
+prediction-modeling               1
+solvent additives                 1
+random amplification              1
+linear mixed models               1
+numerical adjustments             1
+
+[264 rows x 1 columns]
+
+objective:
+                                                    count
+objective                                                
+surveillance                                         1339
+optimal control                                       204
+objective function minimization                        84
+optimization only mentioned                            71
+optimization                                           64
+...                                                   ...
+jumping injection protocol                              1
+graft repair                                            1
+objective - optimization of sfc parameters for ...      1
+resourceoptimization                                    1
+patlak-plot                                             1
+
+[722 rows x 1 columns]
+
+strategies:
+                                        count
+strategies                                   
+risk-based-monitoring                     491
+unknown                                   441
+surveillance                              225
+vaccination                               193
+carcass testing                           118
+...                                       ...
+trueness and precision                      1
+strategies - repetitive administration      1
+sensory evaluation                          1
+surveillance -carcass testing               1
+particle size control                       1
+
+[1008 rows x 1 columns]
+
+
+------------------------------------
+
+
+
+Total articles classified: 8107
+Included: 3034
+Not included: 5073
+species
+unknown                              2268
+human                                1113
+1                                     371
+mice                                  365
+pigs                                  148
+                                     ... 
+vascular intima - vascular injury       1
+dynamic compressive loading             1
+dorset-sheep                            1
+non-small-cell lung cancer              1
+hypertension                            1
+Name: count, Length: 2147, dtype: int64
+disease
+african-swine-fever                           2147
+unknown                                       1868
+african swine fever                            333
+surveillance                                   131
+human                                           72
+                                              ... 
+snail-expressing                                 1
+amino acid type-selective isotope labeling       1
+clostridium-difficile-infection                  1
+anthrax                                          1
+temporal lobe epilepsy                           1
+Name: count, Length: 2409, dtype: int64
+country
+usa                                                    4076
+unknown                                                1095
+worldwide                                               529
+germany                                                 357
+china                                                   307
+                                                       ... 
+cancer                                                    1
+irradiated mandibular nonvascularized bone grafting       1
+cytolytic potential                                       1
+liver-ischemia-reperfusion injury                         1
+sprague-dawley-rats                                       1
+Name: count, Length: 649, dtype: int64
+statistics
+deterministic modelling                                                         2418
+unknown                                                                         1004
+bayesian inference                                                               676
+regression analysis                                                              644
+probabilistic methods                                                            555
+                                                                                ... 
+-non-irradiated-mouse-model                                                        1
+machine learning - bayesian inference                                              1
+regression analysis - bayesian inference - mechanistics models                     1
+novel-objective-function                                                           1
+nonlinear-mixed-effects-modeling-bayesian-inference-visual-predictive-checks       1
+Name: count, Length: 432, dtype: int64
+optimization
+mentioned but not applied        3831
+optimal control                  1059
+reinforcement learning            416
+multi-objective optimization      370
+optimization only mentioned       330
+                                 ... 
+compound potency optimization       1
+firefly perturbation                1
+dual optimization                   1
+global network optimization         1
+particle-size optimization          1
+Name: count, Length: 467, dtype: int64
+objective
+surveillance                    3433
+optimization only mentioned      925
+mentioned but not applied        343
+unknown                          301
+optimal control                  262
+                                ... 
+growth-prediction                  1
+validation characteristics         1
+objective: kinetic stability       1
+objective: gene editing            1
+immune suppression                 1
+Name: count, Length: 1280, dtype: int64
+strategies
+unknown                                    1996
+surveillance                                875
+risk-based-monitoring                       766
+vaccination                                 717
+optimization only mentioned                 590
+                                           ... 
+plug-type patch                               1
+processing time optimization                  1
+optimization - surveillance                   1
+strategies - liver-targeting evaluation       1
+rational drug design                          1
+Name: count, Length: 1647, dtype: int64

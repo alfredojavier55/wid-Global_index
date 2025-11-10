@@ -1,0 +1,243 @@
+llama 3.1 8B
+Total articles classified: 8107
+Included: 224
+Not included: 7883
+
+
+Sensitivity: 0.762 (95% CI: 0.644–0.850)
+Specificity: 0.978 (95% CI: 0.975–0.981)
+Accuracy:    0.976 (95% CI: 0.973–0.980)
+
+
+42
+21
+7356
+688
+63.0
+730
+
+species:
+                 count
+species               
+unknown             80
+human               15
+aedes aegypti        8
+cattle               7
+mosquito             6
+...                ...
+dog and cat          1
+monkeypox            1
+atlantic salmon      1
+mice                 1
+wild boar-hev        1
+
+[89 rows x 1 columns]
+
+diseases:
+                                      count
+disease                                    
+unknown                                 107
+dengue fever                              6
+dengue                                    4
+brucellosis                               4
+schistosomiasis                           3
+...                                     ...
+devil facial tumor diseases               1
+infectious salmon anemia virus            1
+influenza                                 1
+infectious pancreatic necrosis virus      1
+hev                                       1
+
+[92 rows x 1 columns]
+
+Number of articles per country:
+                      count
+country                    
+unknown                  46
+usa                      38
+worldwide                34
+china                    11
+global                    7
+...                     ...
+tanzania-australia        1
+spain                     1
+usa-california            1
+north america-europe      1
+norway                    1
+
+[75 rows x 1 columns]
+
+statistics:
+                                   count
+statistics                              
+deterministic modelling               18
+machine learning                      12
+optimal control                       11
+regression analysis                   10
+unknown                                7
+...                                  ...
+genetic algorithm optimization         1
+gan-based anomaly detection            1
+nonlinear mixed-effects modelling      1
+mixed-effects model                    1
+molecular modelling-rt-qpcr            1
+
+[135 rows x 1 columns]
+
+optimization:
+                                 count
+optimization                          
+optimal control                     59
+multi-objective optimization        39
+optimization                        14
+unknown                             11
+none                                 8
+...                                ...
+no optimization mentioned            1
+hyper-parameter optimization         1
+optimization technique               1
+optimization not applied             1
+optimisation through simulation      1
+
+[82 rows x 1 columns]
+
+objective:
+                                                    count
+objective                                                
+surveillance                                          147
+control                                                47
+unknown                                                12
+surveillance-control                                    3
+surveillance/control                                    2
+disease suppression                                     1
+surveillance - eradication (vaccination-removal)        1
+risk-based-monitoring-spatial analysis-early wa...      1
+surveillance \n  (note: i used 'multiple' inste...      1
+sit-wolbachia-releases-strategies \n\n(note: i ...      1
+surveillance portfolio                                  1
+vaccination strategies-culling strategy-vaccina...      1
+control - vaccination - culling                         1
+surveillance - early detection                          1
+coarse-grained parallelism - fine-grained paral...      1
+multi-objective optimization                            1
+optimization                                            1
+minimize detection fibers                               1
+
+[18 rows x 1 columns]
+
+strategies:
+                                                    count
+strategies                                               
+unknown                                                72
+surveillance                                            4
+vaccination                                             4
+optimization only mentioned                             2
+risk-based-monitoring                                   2
+...                                                   ...
+dimensionality reduction-optimization-hyperpara...      1
+surveillance \n\n(note: i've followed the forma...      1
+real-time monitoring                                    1
+genetic connectivity mapping                            1
+insecticide application-frequency optimization ...      1
+
+[144 rows x 1 columns]
+
+
+
+_---------------------------
+
+
+Total articles classified: 8107
+Included: 224
+Not included: 7883
+species
+unknown                            7380
+pig                                  58
+human                                36
+mouse                                30
+dog                                  26
+                                   ... 
+oncomelania hupensis robertsoni       1
+miniature pig                         1
+goose-parvovirus                      1
+wild boar-hev                         1
+feral swine                           1
+Name: count, Length: 348, dtype: int64
+disease
+unknown                                   6787
+malaria                                     43
+alzheimer's disease                         29
+cancer                                      25
+tuberculosis                                22
+                                          ... 
+anthrax disease                              1
+sis disease dynamics                         1
+ibdv                                         1
+myocardial ischemia reperfusion injury       1
+cirrhosis                                    1
+Name: count, Length: 742, dtype: int64
+country
+unknown                                                                                                      6234
+usa                                                                                                           560
+worldwide                                                                                                     370
+china                                                                                                         296
+global                                                                                                         41
+                                                                                                             ... 
+qualitative analysis                                                                                            1
+usa - worldwide                                                                                                 1
+china-germany                                                                                                   1
+south africa-mozambique-ghana-zambia-tanzania-kenya-nigeria-benin-rwanda-burkina faso-mali-gambia-senegal       1
+china-rats                                                                                                      1
+Name: count, Length: 259, dtype: int64
+statistics
+unknown                            4525
+deterministic modelling             400
+regression analysis                 317
+machine learning                    174
+qualitative analysis                167
+                                   ... 
+multivariable optimization            1
+multi-objective model                 1
+general linear modeling               1
+linear programming optimization       1
+proximal minimization                 1
+Name: count, Length: 1228, dtype: int64
+optimization
+unknown                                             3177
+mentioned but not applied                           1430
+optimization                                         680
+optimization only mentioned                          587
+none                                                 258
+                                                    ... 
+indirect response (idr) p-kpd model                    1
+optimization of early life skin barrier function       1
+integer linear programming                             1
+lyapunov's approach                                    1
+climate-dependent epidemiological model                1
+Name: count, Length: 829, dtype: int64
+objective
+unknown                         4754
+surveillance                    1751
+control                         1295
+optimization                      35
+mentioned but not applied         25
+                                ... 
+saturation                         1
+model fit optimization             1
+immunohistochemical analysis       1
+anti-tumor effect                  1
+bioactivity                        1
+Name: count, Length: 161, dtype: int64
+strategies
+unknown                                                                                                                    7092
+optimization only mentioned                                                                                                 219
+surveillance                                                                                                                179
+control                                                                                                                      28
+vaccination                                                                                                                  26
+                                                                                                                           ... 
+tissue engineering                                                                                                            1
+pre-treatment methods-optimization of biogas data                                                                             1
+feature selection - multi-layer perceptron neural network                                                                     1
+optimized pesticide applications                                                                                              1
+environmental improvement-personal protection-healthcare \n\nexplanation:\n- the study is about vector control in china       1
+Name: count, Length: 533, dtype: int64
