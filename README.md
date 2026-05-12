@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 
 **Option B: Using pip**
-
+(on personal computers)
 ```bash
 # Create virtual environment
 python -m venv venv
@@ -54,7 +54,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Set Up Ollama
-
+On KITA server there is no need to install Ollama, pull.
 ```bash
 # Install Ollama (Linux/macOS)
 curl -fsSL https://ollama.ai/install.sh | sh
