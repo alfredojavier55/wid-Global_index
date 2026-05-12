@@ -1,8 +1,6 @@
 # wid-Global_index
-D5.3 – Global index representing the overall burden of diseases, including economic, social, welfare, and epidemiological aspects
+D5.3 – Optimization of surveillance strategies
 Description:
-Global index of the burden of animal infectious diseases (including direct losses, compensation, denied access to international markets, etc.) and the applications to the 2 case studies
-
 ## Literature review: 
 
 Use pubmed2csv.py to transform pubmed summary text (example: pubmed_asf.txt) to a column csv version (check imput-output)
